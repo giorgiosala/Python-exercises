@@ -33,19 +33,23 @@ try:
         for line in f:
             movielist.append(line)
             
+        
         #count the lenght of the movielist
         count_movie = len(movielist)
-        [ i.strip('[]') if type(i) == str else str(i) for i in movielist]
-        #assign a random number to "m"
-        m = random.randint(0, count_movie - 1)
-        print(f"I choose for you:\n--> {movielist[m]}")
-        
-        #deletes the movie randomly chosen from the list
-        del(movielist[m])  
-        #eliminate everything on the list
-        f.truncate(0)
-        #write the movielist updated into txt 
-        f.write("".join(str(item) for item in movielist))   
+        if count_movie > 0:
+            [ i.strip('[]') if type(i) == str else str(i) for i in movielist]
+            #assign a random number to "m"
+            m = random.randint(0, count_movie - 1)
+            print(f"I choose for you:\n--> {movielist[m]}")
+            
+            #deletes the movie randomly chosen from the list
+            del(movielist[m])  
+            #eliminate everything on the list
+            f.truncate(0)
+            #write the movielist updated into txt 
+            f.write("".join(str(item) for item in movielist))  
+        else:
+            print("The movie list file is empty. To insert a new movie title modify the file or delete the file and run this program again")
     else:
         print ("The list of movies does not exists.")
         f = open("movie.txt", "w")
@@ -58,7 +62,7 @@ try:
         print("reopen the program")
 
 except:
-    print("The movie list file is empty. To insert a new movie title modify the file or delete the file and run this program again")
+    print("Error")
     
 finally:
     f.close()
