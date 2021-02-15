@@ -9,18 +9,25 @@ import requests
 import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
 
+#Dictionary of the seasons
 df={"1":24}
 
+#Lists of the characters
 Monica=[]
 Chandler=[]
 Joey=[]
 Ross=[]
 Rachel=[]
 Phoebe=[]
+
+#Key is the season number, value is the episode number
 for key,value in df.items():
     episode=1
+   
+    #A while loop to go through all the episodes of a season
     while value!=0:
 
+        #Extracting the text of a episode from the website
         url = 'https://fangj.github.io/friends/season/'+"{:02d}".format(int(key))+"{:02d}".format(int(episode))+'.html'
         res = requests.get(url)
         html_page = res.content
@@ -28,15 +35,14 @@ for key,value in df.items():
         bold = soup.select("b, strong, [style*=bold]")
         bold_textonly = list(map(lambda tag: tag.text, bold))
         
-        
-          
-        
+        #Varaibles and for cycle to count the times a character spoke
         M=0
         C=0
         J=0
         R=0
         L=0
         P=0
+        
         for i in bold_textonly:
             if ((str("Monica") in i) or (str("MONICA") in i)):
                 M+=1
@@ -50,22 +56,12 @@ for key,value in df.items():
                 L+=1
             elif str("Phoebe") in i:
                 P+=1
+           
             
-        """     
-        print(len(bold_textonly))
-        print(M+C+J+R+P+L)
-        
-        print(f"season{key} episode {episode}")
-        print(f"M{M}")
-        print(f"C{C}")
-        print(f"J{J}")
-        print(f"R{R}")
-        print(f"P{P}")
-        print(f"L{L}")"""
         value-=1
         episode+=1
         
-           
+        #Appending the count to the appropriate list
         Monica.append(M)
         Chandler.append(C)
         Joey.append(J)
@@ -73,10 +69,11 @@ for key,value in df.items():
         Rachel.append(L)
         Phoebe.append(P)
         
-  
+"""
 print(f"Monica: {Monica}")
+"""
 
-
+#Plotting the data of the lists
 plt.plot(Monica,label = "Monica")
 plt.plot(Chandler,label = "Chandler")
 plt.plot(Joey,label = "Joey")
