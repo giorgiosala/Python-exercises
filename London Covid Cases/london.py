@@ -54,7 +54,7 @@ merge = london.join(district, on="DISTRICT", how="right")
 
 #Plot
 ax= merge.plot(column = "2020-12-13",
-               figsize=(14,14),
+               figsize=(20,20),
                categorical=False,
                k=5, 
                cmap='OrRd', 
@@ -63,13 +63,7 @@ ax= merge.plot(column = "2020-12-13",
                legend=True
                )
 
-
-
-
-
-
-
-
+merge.apply(lambda x: ax.annotate(s=x.DISTRICT, xy=x.geometry.centroid.coords[0], ha='center'),axis=1);
 
 
 
