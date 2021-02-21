@@ -26,8 +26,10 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
+import PIL
+import io
 
-
+image_frame=[]
 #Read the CSV file and privot the table to easier analisis
 district= pd.read_csv("phe_cases_london_boroughs.csv")
 
@@ -49,27 +51,51 @@ for index,row in district.iterrows():
 
 """
 
+    
+
 #Merging "district" with "london" geopandas geodataframe
 merge = london.join(district, on="DISTRICT", how="right")
 
-#Plot
-ax= merge.plot(column = "2020-12-13",
-               figsize=(20,20),
-               categorical=False,
-               k=5, 
-               cmap='OrRd', 
-               linewidth=0.1,
-               edgecolor='white', 
-               legend=True
-               )
+for dates in merge.columns.to_list()[2:]:
+    #Plot
+    ax= merge.plot(column = dates,
+                   figsize=(20,20),
+                   vmin = 0,
+                   vmax = 35000,
+                   cmap='OrRd', 
+                   linewidth=0.1,
+                   legend_kwds={'shrink': 0.5,},
+                   edgecolor='black', 
+                   legend=True
+                   )
+    
+    #assign name to shapes
+    merge.apply(lambda x: ax.annotate(s=x.DISTRICT, xy=x.geometry.centroid.coords[0], ha='center'),axis=1);
+    
+    ax.set_axis_off()
+    ax.set_title("Total Covid Cases per London District \n\n"+ dates, fontsize=30 )
+    
+    
+    
+    img= ax.get_figure()
+    
+    f= io.BytesIO()
+    img.savefig(f, format="png")
+    f.seek(0)
+    image_frame.append(PIL.Image.open(f))
 
-merge.apply(lambda x: ax.annotate(s=x.DISTRICT, xy=x.geometry.centroid.coords[0], ha='center'),axis=1);
+
+#create a gif
+image_frame[0].save("Dinamic covid 19 map of london.gif",format="GIF",
+                     append_images= image_frame[1:],
+                     save_all= True,
+                     duration=300,
+                     loop=1,
+                     )
 
 
 
-
-
-
+f.close()
 
 
 
