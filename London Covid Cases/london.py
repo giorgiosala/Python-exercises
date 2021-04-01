@@ -40,7 +40,7 @@ image_frame=[]
 #Read the CSV file and pivot the table to easier analisis
 district= pd.read_csv("phe_cases_london_boroughs.csv")
 
-district = pd.pivot_table(district, values='new_cases', index=["NAME"], columns=['date'], aggfunc=np.sum)
+district = pd.pivot_table(district, values='new_cases', index=["area_name"], columns=['date'], aggfunc=np.sum)
 
 
 
@@ -54,24 +54,29 @@ for index,row in district.iterrows():
         print(index)
     else:
         pass
-    
 
 """
+#Changed the names of the .shp to reflect the name in the database
+london.replace("Hackney","Hackney and City of London",inplace=True)
+london.replace("City of Westminster","Westminster",inplace=True)
+
+
 
     
 
 #Merging "district" with "london" geopandas geodataframe
 merge = london.join(district, on="DISTRICT", how="right")
 
-for dates in merge.columns.to_list()[300:301]:
+for dates in merge.columns.to_list()[-30:]:
     #Plot
     print(dates)
     ax= merge.plot(column=dates,
                    figsize=[15,15], 
-                   cmap='OrRd', 
+                   cmap='OrRd',
+                   vmin=0,
+                   vmax=40,
                    legend=True,
-                   scheme='UserDefined', 
-                   classification_kwds={'bins':[10,20,40,60,80,100,200,400,600,800,1000]},
+                   
                    edgecolor="black",
                    linewidth=0.4
                    )
@@ -91,7 +96,7 @@ for dates in merge.columns.to_list()[300:301]:
     f.seek(0)
     image_frame.append(PIL.Image.open(f))
 
-"""
+
 #create a gif
 image_frame[0].save("Dinamic covid 19 map of london.gif",format="GIF",
                      append_images= image_frame[1:],
@@ -100,11 +105,10 @@ image_frame[0].save("Dinamic covid 19 map of london.gif",format="GIF",
                      loop=0,
                      )
 
-"""
+
 
 
 f.close()
-
 
 
 
