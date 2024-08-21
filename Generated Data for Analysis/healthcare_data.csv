@@ -1,0 +1,1001 @@
+PatientID,Age,Gender,VisitDate,Diagnosis,Treatment,DoctorID,Department,VisitCost,FollowUpRequired,BloodType,PatientCondition,MedicationLevels,AppointmentDuration,TreatmentOutcome,DoctorNotes,HealthMetric,TreatmentStartDate,HealthImprovement
+1000,21,Male,2024-01-13,Osteoporosis,Therapy,D019,Orthopedics,402.22,No,B-,Critical,Medium,105,Improved,Five still five scientist exactly cell identify somebody economy he.,149.13,2023-03-08,21.38
+999,50,Male,2023-12-11,Asthma,Therapy,D018,Pediatrics,178.5,No,B-,Critical,Low,120,Deteriorated,Image or worry expert whether age mind under fish.,170.99,2023-06-23,42.55
+998,33,Female,2023-09-17,Osteoporosis,Chemotherapy,D012,Orthopedics,753.31,No,B+,Critical,Medium,60,Stable,Language small become edge each need group.,114.85,2023-04-02,11.35
+997,14,Male,2024-07-17,Arthritis,Therapy,D010,Orthopedics,798.15,No,AB+,Good,Medium,15,Stable,His current thus notice dog mother owner.,163.57,2022-12-06,31.11
+996,33,Female,2023-12-19,Chickenpox,Medication,D002,Pediatrics,895.1,Yes,B+,Serious,Medium,105,Stable,Apply provide hotel around attack ask central skin can fly hour.,81.43,2023-02-03,11.52
+995,42,Male,2023-09-22,Leukemia,Therapy,D013,Oncology,951.34,Yes,A-,Serious,Medium,45,Deteriorated,Finish season agree population thousand soon someone focus available mind run cost cell.,199.26,2023-02-10,8.59
+994,23,Male,2024-05-15,Lymphoma,Chemotherapy,D003,Oncology,834.73,Yes,A-,Serious,Medium,60,Improved,Professor peace few prove system piece million.,175.98,2023-07-20,14.98
+993,17,Male,2024-01-29,Cystic Fibrosis,Therapy,D008,Pediatrics,266.15,Yes,B+,Critical,High,60,Improved,Where region manage many story partner future thus its pressure raise face.,89.17,2023-12-28,26.47
+992,23,Female,2024-07-05,Arthritis,Chemotherapy,D010,Orthopedics,320.63,No,O+,Good,High,15,Improved,Audience simply attack share else so young near general role vote whole.,149.28,2023-03-19,5.33
+991,46,Female,2024-07-18,Cancer,Chemotherapy,D002,Oncology,827.67,Yes,A+,Fair,Medium,60,Deteriorated,Price month month fish three worker everyone.,88.7,2023-09-27,13.35
+990,52,Male,2024-02-21,Parkinson's,Surgery,D002,Neurology,717.82,No,O-,Fair,Medium,75,Improved,Music understand travel adult begin station Republican avoid shoulder nature create.,109.17,2023-01-12,21.78
+989,23,Female,2024-02-29,Parkinson's,Medication,D018,Neurology,767.83,Yes,B+,Serious,Low,105,Deteriorated,Land media decade free occur else student dog available central focus kitchen.,97.2,2022-10-05,12.63
+988,23,Male,2024-08-14,Cancer,Chemotherapy,D011,Oncology,739.54,Yes,B+,Fair,Medium,75,Improved,Them religious consumer wish itself conference.,159.69,2024-03-25,10.17
+987,27,Male,2023-11-25,Migraine,Surgery,D011,Neurology,136.9,No,O-,Good,Medium,120,Deteriorated,New federal over population provide three remember machine bank ever.,122.6,2023-05-05,11.24
+986,26,Female,2023-10-12,Lymphoma,Therapy,D010,Oncology,119.41,No,AB+,Fair,Medium,60,Stable,Order common site several course evening beyond assume term ground.,136.14,2023-09-28,20.26
+985,12,Male,2024-05-26,Cancer,Surgery,D007,Oncology,191.45,No,B+,Good,High,105,Stable,Republican such research thought full never however girl character.,171.69,2023-07-24,40.5
+984,78,Female,2024-04-25,Osteoporosis,Therapy,D019,Orthopedics,856.2,No,AB-,Critical,High,75,Deteriorated,Force center late course list realize American.,94.99,2024-03-11,21.72
+983,22,Female,2023-10-10,Migraine,Medication,D018,Neurology,112.32,Yes,AB-,Fair,Low,15,Improved,Himself employee later today hear success decade green evidence economy.,179.83,2022-10-28,34.37
+982,8,Female,2024-05-12,Cystic Fibrosis,Chemotherapy,D019,Pediatrics,145.71,Yes,A-,Serious,Medium,75,Deteriorated,Sound themselves push financial like own social article.,127.37,2022-09-17,8.9
+981,29,Male,2024-04-06,Leukemia,Surgery,D008,Oncology,457.52,No,B-,Serious,High,30,Stable,Senior why parent movement Mr either Mr company similar scene husband attack.,164.84,2024-04-04,25.21
+980,23,Male,2024-04-26,Migraine,Chemotherapy,D020,Neurology,877.56,No,B-,Fair,High,120,Stable,Better hand shake success mission window summer beyond leader cost.,91.84,2023-10-02,21.0
+979,25,Female,2024-05-24,Leukemia,Chemotherapy,D015,Oncology,214.48,Yes,A-,Critical,Low,105,Deteriorated,Development born wear get conference first state.,191.61,2023-08-14,22.09
+978,36,Female,2024-04-21,Asthma,Chemotherapy,D004,Pediatrics,954.97,Yes,A+,Fair,Medium,60,Deteriorated,Peace decade enter visit stage news everyone various really development lot.,128.04,2023-01-01,26.31
+977,22,Female,2024-05-20,Asthma,Chemotherapy,D018,Pediatrics,349.38,Yes,O+,Good,Low,120,Stable,Mrs to sister realize mention again.,172.49,2023-12-28,29.01
+976,28,Male,2024-05-31,Lymphoma,Surgery,D001,Oncology,815.03,No,O+,Fair,High,60,Deteriorated,Degree finally guy try plan that air option dog top hand various.,136.77,2023-08-13,8.89
+975,27,Female,2024-06-23,Cancer,Chemotherapy,D018,Oncology,267.94,Yes,O+,Serious,High,30,Stable,Culture against teacher manage year thank so right vote early get.,168.35,2022-11-04,30.85
+974,26,Female,2024-07-11,Heart Disease,Chemotherapy,D011,Cardiology,124.06,No,B+,Critical,High,90,Stable,Member suffer major test usually available less less and eye professional.,102.74,2022-09-11,24.73
+973,78,Male,2024-04-30,Chickenpox,Chemotherapy,D004,Pediatrics,347.02,Yes,B-,Critical,Medium,105,Deteriorated,Step class design deal natural less strategy.,84.82,2023-10-13,25.31
+972,31,Female,2023-08-27,Arthritis,Therapy,D006,Orthopedics,396.06,No,AB+,Fair,Low,120,Deteriorated,Play art ball want find wish nice box stock teach life someone realize.,160.6,2023-05-11,43.28
+971,49,Female,2024-08-08,Heart Disease,Chemotherapy,D006,Cardiology,873.44,No,O-,Good,Low,45,Stable,Interview chance hand student style develop billion available upon can week so table.,95.24,2023-12-13,5.36
+970,33,Male,2024-02-13,Heart Disease,Therapy,D017,Cardiology,901.41,Yes,AB-,Serious,High,45,Improved,Program family student send member of loss chair around.,96.58,2022-11-12,13.54
+969,80,Female,2024-02-11,Heart Disease,Medication,D010,Cardiology,159.23,No,O-,Critical,Medium,15,Deteriorated,Nice lead technology do look trade activity truth great who front thing.,150.2,2023-10-11,21.97
+968,28,Male,2024-06-23,Leukemia,Medication,D006,Oncology,830.75,No,AB+,Good,High,15,Deteriorated,Suddenly century back mean most yourself whom.,118.19,2022-11-11,2.75
+967,41,Male,2023-09-23,Arrhythmia,Medication,D013,Cardiology,209.91,No,O+,Good,High,90,Improved,Certainly together look any themselves arm fear require improve story.,197.52,2023-04-19,57.64
+966,21,Female,2023-12-29,Arrhythmia,Chemotherapy,D010,Cardiology,563.44,Yes,O+,Good,Medium,60,Deteriorated,But reach somebody else nice foot Mr effort performance.,111.47,2023-06-29,12.19
+965,25,Female,2024-06-13,Lymphoma,Medication,D003,Oncology,351.18,No,A-,Good,Low,15,Stable,I exist difficult none house few apply really.,163.25,2023-04-03,8.84
+964,18,Male,2024-06-19,Fracture,Medication,D002,Orthopedics,775.61,Yes,AB-,Critical,Medium,105,Stable,Identify answer whose newspaper some third.,89.65,2024-03-30,16.86
+963,85,Female,2024-05-06,Heart Disease,Therapy,D007,Cardiology,662.02,Yes,O+,Good,High,75,Deteriorated,Turn protect entire truth poor young brother agent determine.,165.82,2023-11-07,33.22
+962,34,Female,2023-09-20,Arrhythmia,Therapy,D002,Cardiology,913.35,Yes,O+,Fair,Medium,15,Deteriorated,Tonight sign all each number above father help democratic trial sing year.,140.03,2023-03-31,10.97
+961,32,Male,2024-05-02,Heart Disease,Surgery,D007,Cardiology,177.39,No,A-,Good,Low,60,Stable,Such defense night plan blood certainly choice mother.,149.34,2023-04-15,5.78
+960,52,Female,2023-11-22,Asthma,Chemotherapy,D007,Pediatrics,877.26,No,AB+,Good,Low,45,Stable,Few owner really issue concern buy trip evening task.,166.21,2023-06-06,43.35
+959,31,Female,2023-10-03,Chickenpox,Chemotherapy,D014,Pediatrics,481.31,No,A+,Critical,High,45,Improved,Policy could remain him pull reason gun feeling leader prove.,198.29,2022-10-09,22.73
+958,91,Male,2024-01-23,Chickenpox,Therapy,D012,Pediatrics,600.76,Yes,B-,Fair,Medium,120,Deteriorated,Along phone miss benefit half campaign interesting shoulder behind.,95.67,2023-01-22,24.06
+957,69,Male,2024-05-14,Osteoporosis,Surgery,D008,Orthopedics,594.77,Yes,AB-,Good,Low,45,Deteriorated,Set decide must employee sort final investment along physical surface miss.,178.63,2024-04-09,35.98
+956,49,Female,2024-07-10,Parkinson's,Surgery,D020,Neurology,966.69,No,A+,Critical,Medium,30,Stable,Generation address be official detail executive.,187.2,2023-08-01,46.39
+955,48,Female,2024-07-29,Lymphoma,Surgery,D020,Oncology,308.08,Yes,AB+,Critical,Low,60,Improved,Add respond everybody term people necessary tend during commercial low.,162.7,2023-07-18,7.51
+954,53,Female,2024-05-03,Cancer,Therapy,D012,Oncology,675.09,No,O-,Critical,High,15,Stable,Travel these finish nice accept they exactly.,172.58,2023-04-13,43.3
+953,56,Female,2023-10-31,Hypertension,Chemotherapy,D009,Cardiology,287.42,Yes,A-,Fair,Low,45,Deteriorated,Actually sometimes door community board data tough experience heavy forward policy act.,186.17,2022-09-01,48.18
+952,21,Female,2023-12-15,Osteoporosis,Chemotherapy,D006,Orthopedics,228.76,No,B-,Fair,High,15,Stable,Relate sell century from their bit really.,86.86,2022-12-13,25.45
+951,55,Male,2024-05-09,Chickenpox,Chemotherapy,D006,Pediatrics,658.65,Yes,B-,Fair,Medium,60,Deteriorated,Create Mr candidate bring charge should east treatment fast economy camera something.,81.54,2024-01-26,10.83
+950,17,Male,2024-03-17,Chickenpox,Surgery,D008,Pediatrics,717.75,No,B-,Serious,Low,75,Deteriorated,Per list any story early hair this life.,174.4,2023-04-30,13.91
+949,29,Female,2024-05-16,Chickenpox,Chemotherapy,D007,Pediatrics,134.76,Yes,A+,Fair,High,75,Deteriorated,List low position high enjoy strategy begin.,122.74,2024-04-14,17.08
+948,17,Male,2024-04-13,Arthritis,Chemotherapy,D005,Orthopedics,148.11,No,B-,Serious,High,90,Improved,Fire place break interview provide new expert by he above.,90.7,2023-08-30,3.22
+947,92,Male,2024-04-02,Epilepsy,Therapy,D016,Neurology,811.86,Yes,O-,Good,Low,90,Improved,Play grow rule easy scientist blood now tell as until it.,131.19,2023-10-22,37.03
+946,55,Female,2024-01-30,Migraine,Chemotherapy,D017,Neurology,157.39,No,AB-,Fair,High,15,Improved,Performance push these bed gas music push hour everyone relate minute east.,142.63,2022-10-25,42.36
+945,17,Male,2024-07-01,Hypertension,Surgery,D006,Cardiology,444.79,Yes,AB-,Critical,Medium,60,Deteriorated,Certainly across notice wife bank relationship street another full social three soldier western.,192.77,2023-05-15,44.21
+944,74,Male,2023-12-25,Epilepsy,Chemotherapy,D009,Neurology,532.08,Yes,B+,Serious,High,30,Stable,Talk hour establish approach more decision road thousand key character.,135.21,2022-09-01,36.51
+943,33,Male,2023-09-15,Arthritis,Therapy,D020,Orthopedics,118.99,Yes,AB+,Fair,Medium,45,Improved,Reality defense source quality song late civil positive step apply.,180.98,2023-02-08,6.27
+942,71,Male,2023-11-26,Parkinson's,Surgery,D019,Neurology,149.11,No,O-,Good,Low,120,Improved,Interesting born development sell thank east move election it enjoy black language talk attention.,97.9,2023-04-27,16.08
+941,54,Female,2024-06-23,Migraine,Medication,D020,Neurology,894.27,No,A-,Good,High,75,Improved,Stock wait address player through relate statement more successful.,131.2,2022-10-19,9.66
+940,28,Male,2024-01-01,Cystic Fibrosis,Surgery,D007,Pediatrics,313.34,Yes,B+,Critical,Medium,90,Deteriorated,Need happen news recent within street.,88.29,2022-12-07,1.67
+939,79,Female,2023-12-26,Heart Disease,Surgery,D007,Cardiology,213.14,No,B+,Good,Medium,60,Deteriorated,Memory yard draw better table about reality most term she set out.,181.77,2023-02-05,30.65
+938,50,Female,2024-03-22,Arrhythmia,Therapy,D006,Cardiology,939.23,Yes,A+,Serious,Low,120,Improved,Whatever low hand attention task she kind evening.,197.45,2023-12-08,46.93
+937,85,Male,2023-08-23,Arrhythmia,Surgery,D018,Cardiology,357.52,No,O-,Fair,Medium,90,Deteriorated,Alone bed specific marriage fine support rich listen discover wife.,190.54,2022-12-29,50.52
+936,27,Female,2023-11-19,Leukemia,Surgery,D020,Oncology,733.48,No,AB+,Critical,Low,75,Improved,The speech artist civil spring yard something performance benefit matter cover we interest.,142.46,2022-10-19,1.9
+935,24,Female,2024-05-21,Chickenpox,Therapy,D004,Pediatrics,233.14,Yes,AB-,Critical,Medium,120,Improved,Easy term him study population ready the range.,145.03,2024-02-29,3.24
+934,20,Male,2024-03-01,Cystic Fibrosis,Chemotherapy,D005,Pediatrics,606.46,Yes,O+,Serious,Low,15,Improved,Green policy well sister need star rule.,109.54,2024-01-12,32.18
+933,39,Female,2024-04-28,Osteoporosis,Therapy,D001,Orthopedics,334.92,Yes,O-,Critical,Medium,120,Deteriorated,Daughter red effect could end draw study about front difficult charge.,139.75,2023-12-11,21.34
+932,13,Female,2024-06-17,Cystic Fibrosis,Therapy,D013,Pediatrics,137.96,Yes,B-,Good,Medium,120,Stable,Population top reduce authority get eat since wear far.,186.35,2023-11-02,52.22
+931,27,Female,2024-07-26,Cancer,Surgery,D018,Oncology,579.99,No,O+,Critical,Low,60,Deteriorated,Account sister green public take year course later.,194.92,2024-06-12,2.9
+930,68,Male,2024-06-25,Chickenpox,Therapy,D006,Pediatrics,316.43,No,O+,Serious,Low,75,Improved,Ok go adult see officer ever why develop ago sport capital drug western.,111.26,2024-06-02,19.17
+929,7,Male,2024-08-08,Epilepsy,Chemotherapy,D018,Neurology,830.42,Yes,B+,Fair,Low,60,Improved,Question whatever difficult choice join group smile especially chair technology approach.,165.14,2024-04-17,30.23
+928,7,Female,2023-12-01,Arrhythmia,Therapy,D014,Cardiology,187.88,No,O+,Good,High,15,Deteriorated,Once industry truth mention hard final.,152.9,2022-10-31,36.49
+927,36,Male,2024-01-15,Cystic Fibrosis,Therapy,D009,Pediatrics,372.72,No,O-,Critical,Medium,30,Improved,Someone require unit majority who inside within listen drug case education relationship thought.,123.62,2022-08-24,36.23
+926,22,Female,2023-08-31,Arthritis,Surgery,D012,Orthopedics,101.5,No,A-,Good,Medium,60,Stable,Much practice enough put land agency pressure effect child want fast mouth.,131.98,2023-04-21,34.62
+925,63,Male,2024-07-30,Migraine,Surgery,D011,Neurology,804.03,No,AB+,Fair,Medium,90,Stable,Quickly really decade time receive practice.,102.46,2023-08-09,23.58
+924,10,Male,2024-02-16,Epilepsy,Medication,D007,Neurology,420.13,No,AB+,Serious,Medium,105,Stable,Already dream today remember outside direction stop discover into interview lay form degree.,177.39,2023-04-27,42.03
+923,36,Male,2023-08-30,Heart Disease,Therapy,D004,Cardiology,855.78,Yes,AB-,Good,Low,105,Stable,Hear spend fact player speech time deal.,181.75,2023-02-27,40.82
+922,82,Male,2023-11-18,Lymphoma,Chemotherapy,D010,Oncology,921.24,No,A+,Good,Low,45,Deteriorated,Front culture top wall test ready computer practice but industry parent where whose.,162.14,2023-06-20,29.86
+921,8,Female,2024-04-27,Asthma,Therapy,D005,Pediatrics,889.08,Yes,B+,Critical,Medium,90,Improved,Large network truth physical ahead think summer skin care serious.,175.0,2022-12-15,27.0
+920,25,Male,2023-11-28,Epilepsy,Medication,D013,Neurology,953.92,Yes,AB+,Good,Low,75,Deteriorated,Himself try mean drug build simply eye total arrive reduce.,107.0,2023-07-28,25.24
+919,18,Female,2023-10-24,Osteoporosis,Chemotherapy,D012,Orthopedics,351.43,No,A-,Serious,Medium,30,Stable,Citizen treatment seem beautiful on baby east allow mind area various name already wall.,90.24,2023-01-10,18.39
+918,21,Female,2023-09-23,Cystic Fibrosis,Surgery,D015,Pediatrics,294.86,Yes,B+,Critical,High,60,Improved,Experience too few specific mother capital wear smile bring director what perform.,185.7,2023-09-04,55.42
+917,18,Male,2023-09-29,Leukemia,Surgery,D008,Oncology,843.69,Yes,B+,Serious,High,75,Deteriorated,Position both name provide institution forget however likely begin partner exactly still staff.,114.6,2023-02-23,18.38
+916,22,Male,2024-04-02,Heart Disease,Therapy,D002,Cardiology,890.48,No,O-,Fair,High,30,Stable,Up reveal amount federal too management arrive worry return create consider voice tonight.,97.78,2024-03-12,26.55
+915,64,Female,2024-03-03,Fracture,Medication,D014,Orthopedics,439.27,Yes,O-,Critical,Low,120,Deteriorated,Red treat maybe stay bill three your plan provide right east reality international.,113.85,2023-03-09,28.78
+914,91,Female,2024-03-25,Epilepsy,Therapy,D002,Neurology,527.59,Yes,O-,Fair,Medium,45,Improved,Idea ago exactly interesting party rise office where court central citizen itself range.,172.36,2023-08-10,49.75
+913,3,Female,2024-06-20,Parkinson's,Therapy,D004,Neurology,806.88,No,AB-,Good,High,120,Stable,Next generation service happy better long save.,142.73,2024-01-22,41.3
+912,40,Male,2024-07-15,Arrhythmia,Therapy,D006,Cardiology,702.39,No,A+,Serious,Medium,90,Improved,Figure maintain face move traditional speech network consumer.,159.14,2024-05-21,9.03
+911,30,Female,2024-05-02,Leukemia,Medication,D020,Oncology,464.38,Yes,O-,Fair,Medium,15,Stable,Rule organization herself window indicate just religious ahead hear computer.,94.76,2023-02-11,20.42
+910,31,Female,2023-10-06,Leukemia,Therapy,D018,Oncology,946.6,Yes,A+,Good,High,15,Stable,Just degree it win there affect seek if minute however race agreement.,81.64,2022-09-16,21.49
+909,21,Female,2024-06-18,Migraine,Medication,D011,Neurology,131.37,No,O+,Serious,High,60,Stable,Nature ago population grow subject view investment life decade.,93.37,2023-08-18,8.42
+908,93,Male,2024-08-12,Lymphoma,Therapy,D012,Oncology,876.36,Yes,A+,Serious,Medium,105,Deteriorated,Every southern do hard husband citizen college new eye pretty.,148.04,2024-07-12,7.82
+907,34,Female,2024-02-24,Migraine,Chemotherapy,D017,Neurology,231.16,Yes,A-,Critical,Low,90,Deteriorated,Role reality wish arrive group whose.,198.33,2023-08-07,12.41
+906,6,Female,2024-01-08,Arrhythmia,Surgery,D004,Cardiology,739.07,Yes,A+,Critical,High,75,Improved,Bill single meet animal still sure.,182.17,2022-11-07,35.16
+905,19,Female,2023-08-25,Heart Disease,Medication,D020,Cardiology,657.42,Yes,A-,Serious,High,120,Stable,From offer work minute environmental past better movement visit particular she I.,117.31,2023-06-19,30.39
+904,11,Female,2023-12-29,Parkinson's,Surgery,D003,Neurology,710.15,Yes,AB+,Critical,Medium,120,Improved,Sure set believe single responsibility article car possible economy life high field her.,139.48,2022-10-31,41.12
+903,39,Male,2024-05-13,Fracture,Medication,D005,Orthopedics,102.45,Yes,O+,Fair,High,120,Deteriorated,Watch bag above write professor change watch go interest loss between news future.,90.48,2023-08-27,25.02
+902,41,Male,2024-02-16,Epilepsy,Medication,D014,Neurology,651.77,Yes,A-,Critical,Medium,90,Stable,Parent book laugh where film trip although receive join season my couple.,157.77,2023-02-24,23.26
+901,25,Male,2023-12-16,Migraine,Therapy,D005,Neurology,454.89,Yes,AB+,Critical,High,15,Improved,Girl week space difference occur age expert fish everybody table beyond.,128.98,2022-11-23,33.59
+900,31,Female,2023-09-18,Asthma,Medication,D008,Pediatrics,880.39,No,O+,Good,Low,30,Stable,Through design cold leader as although assume under maintain while.,101.13,2023-03-12,11.93
+899,54,Male,2024-04-11,Osteoporosis,Therapy,D010,Orthopedics,370.21,No,O-,Good,Low,60,Stable,Nation performance allow image say professional occur.,199.73,2023-12-26,41.86
+898,5,Female,2024-08-10,Migraine,Medication,D016,Neurology,593.94,No,AB+,Serious,Medium,75,Improved,Them member boy product he soldier.,124.21,2023-12-01,2.59
+897,9,Male,2023-12-27,Leukemia,Medication,D020,Oncology,749.89,No,O+,Fair,High,30,Improved,Service western down traditional education heavy suggest.,141.2,2023-01-29,37.43
+896,54,Female,2024-05-18,Migraine,Therapy,D017,Neurology,659.68,Yes,A+,Serious,High,75,Improved,Step day stay personal play source style American foreign less everybody anyone easy.,85.45,2023-06-22,23.24
+895,41,Female,2024-06-07,Arrhythmia,Therapy,D012,Cardiology,617.6,No,O+,Fair,Low,45,Deteriorated,Congress face she everything put particular.,183.26,2022-12-31,6.5
+894,28,Female,2024-03-26,Osteoporosis,Therapy,D005,Orthopedics,338.04,Yes,B-,Fair,Low,45,Improved,Mouth fear trade main school hundred son so exactly leg simple financial true.,192.83,2022-12-12,41.15
+893,32,Male,2023-11-01,Leukemia,Surgery,D007,Oncology,390.45,No,AB+,Fair,High,120,Stable,Various on brother story sister your late.,185.3,2022-11-11,30.15
+892,23,Male,2023-11-02,Osteoporosis,Therapy,D017,Orthopedics,474.39,No,O+,Critical,Medium,60,Stable,Arm entire couple party difference everybody.,146.75,2023-06-28,20.02
+891,55,Female,2023-10-08,Cancer,Therapy,D012,Oncology,684.24,Yes,A+,Fair,Medium,75,Deteriorated,Real fear traditional arrive national your TV professor arm.,126.5,2023-03-28,24.53
+890,80,Female,2024-02-27,Epilepsy,Chemotherapy,D012,Neurology,405.84,No,O+,Fair,High,105,Improved,Democrat though trouble size away really job.,169.15,2023-12-27,37.84
+889,46,Female,2024-03-15,Epilepsy,Chemotherapy,D018,Neurology,822.24,Yes,AB+,Serious,High,120,Stable,Business analysis beyond improve whose specific.,179.28,2023-10-03,39.66
+888,75,Male,2024-01-10,Osteoporosis,Chemotherapy,D006,Orthopedics,206.63,Yes,A-,Serious,High,60,Deteriorated,Forward speak debate seven yet here story single thus American.,90.47,2023-06-27,18.61
+887,14,Male,2024-07-28,Cystic Fibrosis,Therapy,D018,Pediatrics,387.02,No,B-,Fair,High,45,Stable,Economic mouth peace street still door yet blood toward majority.,165.97,2023-11-14,39.95
+886,51,Female,2024-05-10,Fracture,Medication,D015,Orthopedics,789.07,No,A+,Fair,Medium,105,Deteriorated,Week lose leader brother concern suggest same unit analysis practice international other lead economy.,136.8,2023-09-11,33.87
+885,60,Female,2023-11-28,Fracture,Surgery,D006,Orthopedics,159.73,No,O-,Critical,Low,105,Stable,Arm perhaps age establish question PM.,86.63,2023-07-13,10.03
+884,18,Female,2023-09-03,Migraine,Medication,D013,Neurology,543.33,No,AB-,Serious,Medium,60,Deteriorated,Conference several use heavy hit mouth argue many crime require suddenly single nor.,88.44,2023-06-21,12.62
+883,55,Male,2023-10-24,Epilepsy,Therapy,D012,Neurology,374.07,Yes,B-,Critical,High,120,Stable,Trouble information participant hit three town join change street goal interesting.,111.23,2023-08-06,11.12
+882,44,Female,2024-04-09,Chickenpox,Therapy,D003,Pediatrics,560.64,No,A+,Good,Medium,105,Improved,Say performance here we form history together anyone culture charge.,199.68,2023-07-14,12.21
+881,60,Female,2024-08-18,Fracture,Therapy,D002,Orthopedics,790.23,Yes,A-,Good,Medium,75,Improved,Represent language true last sister friend our international generation goal indeed example others.,84.34,2023-05-30,9.63
+880,67,Male,2024-01-31,Cystic Fibrosis,Chemotherapy,D019,Pediatrics,388.98,No,O+,Good,Low,15,Deteriorated,Receive few glass she dream suggest particular every today economic list.,80.11,2023-09-10,22.62
+879,50,Female,2023-08-23,Migraine,Surgery,D008,Neurology,156.03,No,B-,Good,Medium,30,Deteriorated,Deep worry book care federal through always final change.,163.04,2023-02-21,7.65
+878,80,Male,2024-01-23,Arrhythmia,Surgery,D015,Cardiology,929.1,Yes,AB-,Fair,High,120,Deteriorated,Go or their stop painting pattern buy develop message health.,91.54,2023-01-04,20.96
+877,53,Female,2023-11-20,Arrhythmia,Chemotherapy,D004,Cardiology,157.19,No,AB+,Fair,Low,15,Stable,International ago she father catch pass majority make ask.,98.85,2022-11-14,14.71
+876,56,Male,2023-08-29,Cancer,Medication,D002,Oncology,917.48,No,O+,Fair,Medium,45,Stable,Pressure against goal until notice sure fine start.,85.78,2023-06-09,11.17
+875,44,Male,2024-07-08,Epilepsy,Surgery,D013,Neurology,763.99,No,B+,Critical,Low,15,Improved,Take state school season part develop already government administration modern.,121.18,2023-08-25,35.63
+874,57,Female,2024-06-29,Heart Disease,Medication,D004,Cardiology,948.65,No,O+,Good,Medium,90,Improved,Step room rule capital finally north behavior above central news have.,131.76,2022-11-26,22.99
+873,98,Female,2024-01-19,Hypertension,Medication,D004,Cardiology,131.37,Yes,B-,Serious,Medium,120,Deteriorated,Believe usually night eat become model.,108.57,2023-12-02,1.2
+872,55,Male,2024-06-11,Leukemia,Medication,D011,Oncology,291.85,No,O-,Serious,High,45,Stable,Party practice resource front present fire more explain very organization program section war.,131.65,2023-12-11,8.28
+871,17,Male,2024-03-19,Lymphoma,Medication,D007,Oncology,287.03,Yes,B-,Critical,Medium,120,Stable,Husband him real three commercial claim eight argue current voice tell eat.,106.81,2022-12-19,9.19
+870,39,Female,2024-05-18,Fracture,Medication,D004,Orthopedics,835.06,No,A-,Serious,Medium,15,Stable,Increase commercial cultural oil either here herself five state realize animal.,182.75,2022-11-03,25.38
+869,48,Male,2024-04-02,Arthritis,Chemotherapy,D017,Orthopedics,640.12,No,AB+,Serious,Low,75,Improved,Model daughter news walk must politics through well decide.,186.69,2023-08-27,25.99
+868,29,Female,2024-07-25,Arrhythmia,Therapy,D016,Cardiology,329.41,No,AB+,Serious,Medium,45,Improved,List which bad go out yes energy stuff lay quality population thus of.,159.81,2023-03-12,5.25
+867,24,Male,2023-10-06,Osteoporosis,Therapy,D004,Orthopedics,412.69,No,AB+,Serious,Medium,105,Deteriorated,Really change study us himself present garden month attorney opportunity line dinner.,122.63,2023-03-14,15.15
+866,20,Female,2024-07-14,Cancer,Chemotherapy,D006,Oncology,690.09,Yes,AB-,Fair,Medium,45,Improved,Hundred none sign bed research no clear.,142.97,2023-12-18,13.2
+865,51,Male,2024-07-10,Fracture,Therapy,D005,Orthopedics,339.13,No,B-,Fair,High,60,Deteriorated,Compare specific establish marriage painting civil evidence officer quite eye recent family.,95.79,2024-01-30,16.76
+864,58,Male,2024-03-23,Arthritis,Therapy,D015,Orthopedics,671.07,Yes,AB-,Serious,High,15,Deteriorated,Low amount light particular become agree hand red behind almost.,109.58,2023-02-15,8.77
+863,63,Female,2024-05-15,Cystic Fibrosis,Therapy,D006,Pediatrics,894.78,No,A-,Fair,Medium,90,Improved,Nation budget song through any probably lead radio question present and call American.,175.6,2022-12-01,32.48
+862,36,Female,2023-09-07,Fracture,Therapy,D001,Orthopedics,497.86,No,A-,Fair,Low,90,Improved,Executive mention which clear deep break deep paper production soon service firm know.,90.8,2023-03-15,22.97
+861,17,Male,2024-06-06,Fracture,Medication,D013,Orthopedics,959.79,Yes,B-,Fair,Medium,30,Improved,Learn discussion bed develop simple three bring community whole carry marriage bit adult.,128.46,2022-11-25,25.22
+860,53,Female,2024-03-26,Epilepsy,Therapy,D015,Neurology,973.26,Yes,AB-,Serious,Low,45,Improved,Mother partner name important look ok picture maybe than partner.,84.27,2023-06-06,6.82
+859,64,Male,2023-10-18,Migraine,Chemotherapy,D018,Neurology,945.8,Yes,AB+,Good,Low,120,Deteriorated,Final prepare author likely increase drop.,97.63,2023-01-13,6.58
+858,28,Female,2024-03-15,Arthritis,Medication,D015,Orthopedics,558.8,No,A+,Serious,High,120,Stable,Experience order girl course kitchen voice society onto community story realize find.,147.23,2024-03-05,14.15
+857,33,Male,2024-06-16,Heart Disease,Chemotherapy,D020,Cardiology,519.41,No,B-,Fair,High,45,Deteriorated,Southern someone way analysis boy brother person.,125.32,2023-03-12,25.02
+856,22,Female,2024-03-05,Parkinson's,Therapy,D019,Neurology,817.43,No,AB+,Fair,Medium,30,Improved,Away station police nature much current boy.,154.69,2022-12-17,33.49
+855,47,Male,2024-06-07,Asthma,Medication,D012,Pediatrics,343.07,Yes,B-,Serious,Low,60,Improved,Physical option place economic ready get mother.,144.79,2023-08-30,18.63
+854,38,Female,2024-02-17,Arrhythmia,Chemotherapy,D020,Cardiology,942.74,No,A-,Critical,High,90,Improved,Man country population experience activity increase management former different direction dinner.,103.15,2022-09-22,6.25
+853,31,Female,2023-12-15,Heart Disease,Surgery,D017,Cardiology,957.34,Yes,O-,Critical,Low,75,Deteriorated,Include cover course idea just born successful board pick along coach already.,191.08,2023-06-12,54.78
+852,38,Male,2023-10-16,Heart Disease,Chemotherapy,D015,Cardiology,265.17,No,B-,Fair,Medium,120,Deteriorated,Than consumer remember network best thousand treat me follow cover my.,80.17,2023-09-28,20.78
+851,84,Male,2024-08-13,Osteoporosis,Surgery,D019,Orthopedics,390.53,Yes,AB-,Fair,Low,75,Stable,Expert same argue international population rule you machine structure keep weight worry exist enough.,189.5,2023-01-19,9.8
+850,20,Male,2023-12-30,Arthritis,Chemotherapy,D013,Orthopedics,583.68,Yes,AB+,Fair,High,15,Improved,Rule history conference born fish four pull bed anything mention project mission after stage.,95.23,2023-05-10,20.45
+849,35,Male,2024-07-05,Leukemia,Medication,D004,Oncology,574.19,No,O+,Critical,Low,45,Deteriorated,Increase pass improve relate change site include.,86.83,2023-07-06,7.53
+848,69,Female,2024-02-13,Arthritis,Chemotherapy,D014,Orthopedics,143.47,Yes,B-,Fair,Low,15,Deteriorated,Tend to film difference really marriage sure course mother area wide.,108.74,2023-02-18,23.72
+847,30,Female,2024-07-30,Lymphoma,Surgery,D014,Oncology,896.43,Yes,B-,Good,High,30,Improved,Every she address it fill while.,175.32,2023-03-04,48.74
+846,82,Male,2024-07-07,Lymphoma,Medication,D001,Oncology,621.8,No,O+,Good,Low,90,Stable,Particular send task feel food manage data clear throughout.,106.42,2024-05-25,2.1
+845,24,Female,2023-10-09,Asthma,Chemotherapy,D017,Pediatrics,717.8,No,B+,Serious,Low,75,Stable,Whether visit need money they than amount pay admit sea away provide year.,162.45,2023-05-05,26.95
+844,39,Female,2024-01-27,Parkinson's,Medication,D011,Neurology,506.87,Yes,O-,Critical,High,60,Deteriorated,Help fill teacher hair very figure western management.,120.02,2023-01-26,13.22
+843,19,Female,2024-07-16,Leukemia,Medication,D009,Oncology,263.65,Yes,B-,Serious,Low,60,Improved,World hard first idea late question senior learn service glass we data.,172.66,2024-02-11,14.92
+842,22,Male,2024-04-24,Cancer,Therapy,D006,Oncology,293.28,No,AB+,Critical,Low,105,Deteriorated,Place official likely administration house set plan where city.,133.41,2022-11-08,16.47
+841,58,Male,2023-11-22,Arrhythmia,Therapy,D014,Cardiology,955.26,No,AB+,Fair,Low,120,Stable,Audience on discuss yet way long American.,120.99,2023-04-18,5.54
+840,25,Male,2023-11-14,Hypertension,Therapy,D010,Cardiology,583.35,Yes,AB-,Good,Low,45,Deteriorated,Race back manage morning enjoy authority certainly where movement.,185.4,2022-09-07,54.35
+839,55,Male,2024-08-13,Arthritis,Therapy,D009,Orthopedics,462.89,Yes,AB-,Critical,Low,45,Stable,Important husband yet station exactly its safe pick well fill.,122.14,2023-12-08,25.18
+838,26,Female,2024-06-26,Chickenpox,Chemotherapy,D014,Pediatrics,138.33,No,B+,Serious,Low,105,Stable,Though teacher international cultural different accept they.,106.0,2023-11-04,28.29
+837,70,Female,2024-04-23,Cancer,Surgery,D009,Oncology,447.61,Yes,A+,Good,High,120,Deteriorated,Seem also either office think receive.,103.41,2023-02-16,16.05
+836,52,Male,2024-02-20,Epilepsy,Medication,D003,Neurology,478.85,Yes,A+,Serious,High,75,Deteriorated,Town without along pretty into threat.,105.68,2023-06-20,31.13
+835,11,Male,2024-07-08,Cancer,Chemotherapy,D010,Oncology,929.61,Yes,B-,Fair,Medium,120,Improved,Author read cup fast indicate past tree nation daughter.,147.07,2024-07-03,2.86
+834,10,Female,2023-11-10,Cystic Fibrosis,Medication,D002,Pediatrics,246.25,Yes,AB-,Fair,Medium,75,Improved,Owner entire though discover standard rock part bad meet garden speak.,103.54,2023-09-24,11.61
+833,0,Female,2023-09-02,Leukemia,Surgery,D010,Oncology,151.82,No,B-,Serious,Low,120,Deteriorated,Enter than police hand share stock smile.,152.27,2022-11-16,8.72
+832,50,Female,2024-01-17,Chickenpox,Medication,D001,Pediatrics,823.3,No,B-,Serious,Medium,15,Improved,Health oil stage word again share tend stop on program media bill around.,141.52,2023-07-17,8.21
+831,40,Male,2024-01-11,Asthma,Medication,D005,Pediatrics,324.81,No,B-,Serious,Medium,105,Improved,Three land toward shoulder no child could.,113.93,2022-12-02,31.86
+830,25,Male,2024-06-20,Fracture,Therapy,D003,Orthopedics,741.78,Yes,B+,Fair,High,45,Deteriorated,Reduce although modern them cause wonder provide if guy air.,102.29,2023-08-18,16.65
+829,31,Male,2024-03-01,Migraine,Medication,D007,Neurology,586.06,No,B-,Fair,High,90,Improved,Mission eye specific north easy behavior.,113.79,2022-11-21,23.18
+828,13,Male,2023-12-11,Cancer,Surgery,D016,Oncology,531.88,Yes,A-,Good,High,60,Stable,No world admit billion morning forward read send simply strong level executive.,133.31,2022-11-19,27.24
+827,35,Female,2024-05-20,Chickenpox,Therapy,D017,Pediatrics,237.03,Yes,B-,Good,Medium,45,Stable,Understand there seven from city table sell do recently professor.,127.1,2022-12-12,20.47
+826,35,Female,2023-11-21,Chickenpox,Therapy,D014,Pediatrics,541.12,No,O+,Good,Medium,105,Deteriorated,Writer authority too anyone whether miss class if drop international high financial.,114.87,2023-01-13,8.3
+825,94,Male,2024-07-15,Asthma,Medication,D013,Pediatrics,224.56,Yes,AB-,Fair,High,45,Stable,Others government machine hard really stand their range situation deal mission.,198.18,2023-01-04,25.72
+824,35,Male,2024-06-24,Arrhythmia,Surgery,D014,Cardiology,491.32,No,A-,Fair,Medium,75,Stable,Even process father writer peace analysis individual realize how.,191.64,2022-12-26,50.83
+823,27,Female,2024-02-26,Epilepsy,Surgery,D020,Neurology,437.73,Yes,AB-,Serious,Low,60,Improved,Garden company firm available some treatment anything father bit right expert.,143.66,2023-07-19,27.73
+822,65,Female,2024-04-25,Migraine,Surgery,D007,Neurology,188.04,Yes,B+,Fair,Medium,90,Deteriorated,Majority draw picture American apply maintain star.,162.81,2022-12-31,9.05
+821,39,Female,2024-03-19,Heart Disease,Chemotherapy,D010,Cardiology,604.58,Yes,O+,Fair,Medium,30,Deteriorated,Seem election kid prove possible trade strategy.,178.61,2023-12-21,4.1
+820,57,Female,2023-09-08,Arthritis,Surgery,D001,Orthopedics,843.46,Yes,B+,Fair,High,90,Improved,Administration middle kid oil machine above employee true different particular hotel stand so.,109.35,2022-10-20,5.93
+819,95,Male,2024-05-18,Leukemia,Therapy,D005,Oncology,398.09,No,O+,Fair,High,15,Improved,Subject public provide them toward fine environment for wait reality quickly mean.,185.7,2023-12-16,29.89
+818,10,Female,2023-12-11,Parkinson's,Surgery,D003,Neurology,627.33,No,A-,Critical,Medium,90,Stable,Tax wrong choose plant customer science take deep girl through.,136.7,2023-04-29,37.19
+817,16,Male,2023-11-24,Epilepsy,Therapy,D003,Neurology,700.36,No,O+,Fair,Medium,105,Stable,Sit Mr ever building black theory camera.,179.08,2022-11-25,50.51
+816,51,Female,2023-11-13,Chickenpox,Medication,D004,Pediatrics,480.21,No,O-,Fair,High,105,Stable,Between draw politics debate stage than trial door affect south.,136.23,2023-11-06,9.87
+815,30,Female,2024-07-20,Hypertension,Medication,D003,Cardiology,425.13,Yes,B-,Critical,Medium,75,Deteriorated,Sister part week group large pay dinner they mention responsibility.,171.31,2024-04-26,23.87
+814,51,Female,2024-03-25,Cystic Fibrosis,Therapy,D007,Pediatrics,977.55,Yes,A-,Critical,Low,105,Improved,We low point both we street often upon among.,159.29,2023-04-22,16.8
+813,39,Female,2024-08-09,Chickenpox,Chemotherapy,D011,Pediatrics,533.7,Yes,B+,Critical,High,15,Improved,Road have board land floor fund similar condition.,117.16,2024-03-14,3.97
+812,90,Female,2024-05-06,Parkinson's,Therapy,D011,Neurology,739.04,No,O+,Critical,Medium,45,Deteriorated,Dog down air business western responsibility poor admit science increase oil go story.,174.48,2023-08-27,19.27
+811,46,Female,2024-07-18,Heart Disease,Therapy,D015,Cardiology,897.8,Yes,O+,Fair,Medium,60,Improved,Nation how these reduce yet teach animal single record vote.,166.56,2023-03-28,23.44
+810,38,Male,2023-09-04,Lymphoma,Surgery,D017,Oncology,463.53,Yes,B-,Good,Low,30,Stable,House read real wonder term officer arrive.,199.26,2023-03-20,42.48
+809,48,Male,2023-10-15,Parkinson's,Therapy,D013,Neurology,386.84,No,O-,Fair,Medium,30,Stable,Design cut prepare force since those common positive have.,96.63,2023-06-24,25.67
+808,26,Male,2023-11-29,Arthritis,Therapy,D007,Orthopedics,951.0,No,A-,Serious,Medium,120,Deteriorated,Send perhaps increase example old color any country people opportunity while daughter good.,84.36,2022-10-11,20.51
+807,10,Male,2023-11-29,Cystic Fibrosis,Therapy,D013,Pediatrics,225.39,Yes,O-,Fair,Low,90,Deteriorated,Off risk who song kitchen size compare let.,103.6,2022-11-01,4.2
+806,61,Male,2024-06-05,Asthma,Therapy,D008,Pediatrics,287.23,No,A+,Fair,Medium,30,Improved,Plant better third watch benefit born poor sense.,177.54,2022-09-22,26.74
+805,23,Male,2024-02-25,Fracture,Medication,D018,Orthopedics,542.89,No,A-,Fair,High,15,Improved,Treatment history teacher financial newspaper could especially.,170.09,2022-11-04,33.67
+804,30,Male,2024-04-26,Heart Disease,Chemotherapy,D011,Cardiology,549.52,Yes,AB+,Critical,High,45,Improved,Management company anything family true most similar stop.,103.95,2023-02-17,19.9
+803,78,Female,2023-12-13,Cystic Fibrosis,Surgery,D013,Pediatrics,831.57,No,A-,Good,Medium,30,Deteriorated,Strong sound office big recognize picture west trouble.,190.71,2023-07-18,44.4
+802,89,Female,2024-02-18,Cystic Fibrosis,Medication,D006,Pediatrics,596.68,Yes,A+,Critical,High,60,Stable,Paper artist poor lot international best out know wait rest.,165.6,2023-02-27,35.39
+801,14,Male,2024-08-12,Heart Disease,Medication,D008,Cardiology,208.92,Yes,B-,Fair,High,90,Stable,Reveal school give somebody tend push option floor development leg nor treatment bar.,127.23,2024-03-08,25.28
+800,32,Female,2024-05-08,Chickenpox,Therapy,D015,Pediatrics,773.22,Yes,AB-,Critical,Low,120,Improved,Similar thank cover option power exist beautiful character what seven nature wrong back.,152.34,2023-04-06,35.79
+799,72,Male,2024-05-04,Cystic Fibrosis,Chemotherapy,D007,Pediatrics,317.5,No,A-,Critical,High,30,Stable,Himself beat article along daughter page college anything financial government.,174.71,2024-02-14,39.2
+798,55,Female,2024-08-10,Parkinson's,Chemotherapy,D004,Neurology,223.09,Yes,O-,Serious,Low,75,Improved,Address into production form card stay practice.,108.76,2023-05-17,30.33
+797,20,Male,2024-03-14,Lymphoma,Medication,D002,Oncology,115.69,No,A+,Critical,High,15,Improved,Job glass type board reach authority say necessary act.,147.86,2022-11-11,32.86
+796,37,Female,2024-08-17,Hypertension,Therapy,D014,Cardiology,179.96,Yes,AB-,Fair,Low,120,Deteriorated,Them short respond home operation measure fall.,191.91,2023-07-22,37.24
+795,45,Female,2023-11-22,Fracture,Therapy,D016,Orthopedics,435.01,No,AB-,Fair,Medium,105,Deteriorated,Approach six modern network outside of.,141.46,2022-10-12,32.95
+794,46,Female,2024-01-04,Cystic Fibrosis,Surgery,D003,Pediatrics,186.43,No,B-,Fair,High,30,Stable,Let later require head west father maybe.,145.58,2022-09-20,18.09
+793,46,Female,2024-02-02,Cancer,Chemotherapy,D002,Oncology,177.36,Yes,O+,Good,High,15,Improved,Anyone full pass dream claim common tell name.,129.0,2022-10-11,10.67
+792,42,Female,2024-07-03,Chickenpox,Medication,D013,Pediatrics,330.05,No,A-,Fair,Medium,30,Stable,Nothing speak anyone throughout agree media specific.,87.53,2024-06-20,17.24
+791,15,Male,2024-07-12,Cystic Fibrosis,Medication,D007,Pediatrics,457.87,No,AB+,Serious,Low,45,Improved,Test television upon interesting force develop change data keep see staff industry.,119.64,2024-02-19,12.59
+790,73,Female,2024-02-02,Epilepsy,Surgery,D020,Neurology,784.71,Yes,AB+,Fair,High,45,Improved,Cover old trade data win military physical develop argue science another.,199.16,2022-08-31,56.39
+789,37,Male,2024-06-23,Chickenpox,Medication,D002,Pediatrics,751.47,No,O-,Fair,High,90,Deteriorated,Simply season his claim believe cost action site sure.,137.26,2023-06-10,2.31
+788,45,Female,2024-08-10,Cancer,Therapy,D004,Oncology,909.07,Yes,A-,Fair,High,90,Stable,Between among institution must office scene attention thing foot administration.,93.09,2024-06-11,16.5
+787,77,Female,2024-07-22,Leukemia,Therapy,D018,Oncology,320.04,No,A+,Good,Low,15,Deteriorated,True relate little individual wonder conference husband home.,98.0,2022-08-24,13.89
+786,36,Female,2024-07-30,Osteoporosis,Therapy,D011,Orthopedics,106.3,No,O+,Good,Low,30,Stable,Determine feeling position yourself writer seven know.,153.9,2022-11-19,7.14
+785,79,Female,2024-06-27,Cancer,Chemotherapy,D004,Oncology,429.04,No,AB-,Fair,Medium,120,Deteriorated,Score resource resource record man stock red director daughter manage lot side stage clearly.,193.43,2022-09-24,26.09
+784,49,Female,2023-11-28,Cystic Fibrosis,Chemotherapy,D020,Pediatrics,937.14,Yes,O+,Fair,High,75,Stable,Couple let air mission standard out growth character fall natural.,145.83,2022-11-16,33.68
+783,27,Male,2023-10-10,Parkinson's,Surgery,D007,Neurology,745.81,No,O-,Fair,High,90,Stable,Prove road job article happy hospital.,195.03,2022-09-07,14.43
+782,30,Male,2024-04-12,Heart Disease,Therapy,D005,Cardiology,155.19,No,O-,Serious,Medium,120,Improved,You police machine institution seven establish democratic buy others return yes.,127.67,2023-06-29,30.06
+781,32,Female,2024-02-06,Arrhythmia,Chemotherapy,D014,Cardiology,530.47,No,O-,Critical,High,30,Stable,American baby window situation yeah individual by fight guess change around school buy.,150.73,2022-08-21,15.5
+780,63,Male,2023-09-19,Cancer,Therapy,D015,Oncology,159.18,No,O-,Critical,High,90,Stable,Stop take book clear notice second say group analysis perform wonder resource they.,96.51,2023-06-18,17.79
+779,34,Female,2024-05-14,Parkinson's,Chemotherapy,D006,Neurology,964.26,Yes,AB-,Critical,Low,15,Deteriorated,Reflect look specific them option so office field piece catch suffer require represent especially.,166.51,2022-09-01,27.58
+778,63,Female,2024-05-24,Fracture,Chemotherapy,D009,Orthopedics,229.75,Yes,A+,Critical,Low,30,Improved,Person fall area put relationship three game guess.,154.96,2023-09-26,21.24
+777,84,Female,2023-08-21,Chickenpox,Chemotherapy,D020,Pediatrics,911.24,Yes,B+,Good,High,105,Deteriorated,Newspaper economy someone can one get growth approach arm look fear return.,144.91,2023-05-22,20.43
+776,77,Male,2024-06-30,Epilepsy,Chemotherapy,D005,Neurology,649.9,No,O+,Critical,Medium,120,Deteriorated,Position shoulder old force move want yourself management official.,127.65,2023-02-03,3.91
+775,49,Male,2024-06-02,Arthritis,Surgery,D012,Orthopedics,560.14,Yes,O+,Fair,Medium,60,Improved,Some station dark move short state city road all listen.,138.68,2023-08-05,16.49
+774,40,Female,2023-09-10,Epilepsy,Surgery,D002,Neurology,217.77,Yes,B-,Fair,Medium,90,Deteriorated,Line between almost floor face police.,100.19,2022-09-25,6.31
+773,29,Male,2024-07-26,Arthritis,Therapy,D007,Orthopedics,382.63,Yes,A+,Serious,Medium,75,Improved,Name clear other same next same thing president cold hold act.,89.91,2023-02-28,21.46
+772,40,Female,2024-01-24,Osteoporosis,Therapy,D007,Orthopedics,952.54,No,B-,Critical,Low,45,Deteriorated,Toward free choice size majority especially floor common identify while.,182.34,2022-09-25,52.5
+771,33,Male,2024-05-24,Arthritis,Therapy,D009,Orthopedics,461.46,No,AB+,Fair,Medium,105,Stable,Talk to account group tonight adult.,102.53,2024-04-24,12.75
+770,24,Male,2024-08-15,Parkinson's,Chemotherapy,D009,Neurology,627.12,Yes,O+,Fair,Low,105,Deteriorated,Test glass data power knowledge seat street hope.,165.38,2022-12-04,21.41
+769,92,Male,2024-05-27,Hypertension,Chemotherapy,D013,Cardiology,150.92,No,O+,Good,Low,90,Improved,Management true expert positive question minute up full performance American.,129.2,2023-11-11,13.81
+768,44,Female,2024-02-27,Asthma,Therapy,D012,Pediatrics,439.45,No,A+,Critical,High,90,Deteriorated,Set that first worker prepare receive fill watch before.,85.77,2022-12-27,4.31
+767,13,Male,2024-06-18,Hypertension,Chemotherapy,D005,Cardiology,506.29,No,AB-,Critical,High,30,Deteriorated,Theory method range college guy turn.,112.32,2024-01-30,14.22
+766,40,Female,2023-09-18,Heart Disease,Chemotherapy,D014,Cardiology,184.23,No,AB+,Good,Low,90,Stable,Crime their design trouble produce but out stand.,82.17,2022-09-15,2.06
+765,18,Female,2024-08-07,Cystic Fibrosis,Medication,D017,Pediatrics,247.51,Yes,AB+,Serious,Low,60,Deteriorated,Capital clear let who election project play rise lawyer.,154.02,2024-03-20,35.96
+764,69,Male,2023-09-07,Migraine,Chemotherapy,D019,Neurology,499.42,No,O+,Fair,Low,60,Deteriorated,Interesting actually statement PM little popular unit hear happen.,148.12,2023-04-08,24.51
+763,24,Female,2024-05-26,Chickenpox,Surgery,D007,Pediatrics,883.12,No,O-,Fair,Low,120,Stable,Family campaign maybe act challenge them.,114.24,2024-04-30,3.37
+762,57,Male,2024-06-17,Fracture,Chemotherapy,D014,Orthopedics,355.82,Yes,AB-,Fair,Low,60,Stable,Early middle benefit success pull risk public way adult organization.,155.66,2023-05-28,41.16
+761,38,Male,2023-09-06,Leukemia,Medication,D003,Oncology,362.43,No,A-,Good,High,90,Stable,Born top red message keep father prove.,127.96,2022-12-09,20.85
+760,41,Female,2023-12-11,Cystic Fibrosis,Chemotherapy,D014,Pediatrics,748.23,Yes,A-,Serious,Low,45,Stable,Yard conference goal performance computer attorney.,176.26,2023-11-22,31.29
+759,38,Female,2024-06-20,Arrhythmia,Surgery,D019,Cardiology,600.07,No,A+,Fair,Medium,75,Improved,Production pick majority every face agent factor either billion gun recently science sell.,125.08,2023-08-13,10.53
+758,44,Female,2024-05-02,Fracture,Medication,D005,Orthopedics,195.13,No,AB-,Serious,High,45,Improved,Hard voice continue provide have ok perform.,178.33,2024-02-02,49.72
+757,62,Female,2024-02-17,Epilepsy,Surgery,D003,Neurology,422.54,Yes,A+,Fair,Medium,120,Improved,Exist past though agency become indicate little upon full could score.,189.14,2023-06-17,31.28
+756,26,Male,2023-09-21,Leukemia,Surgery,D006,Oncology,294.28,Yes,AB+,Serious,High,75,Stable,Sense avoid ahead middle you board almost.,143.51,2023-02-23,16.22
+755,11,Male,2024-06-07,Asthma,Chemotherapy,D013,Pediatrics,643.93,Yes,O-,Fair,High,105,Deteriorated,View report reduce former soon resource move knowledge pay.,184.08,2024-04-01,17.99
+754,87,Male,2023-09-22,Chickenpox,Chemotherapy,D007,Pediatrics,279.03,Yes,O-,Serious,Low,120,Improved,Somebody natural law standard fact analysis professor.,106.31,2022-11-03,24.13
+753,33,Female,2024-05-30,Arthritis,Therapy,D019,Orthopedics,172.21,No,B-,Fair,Medium,90,Stable,Notice language natural majority from owner current seem consider stop reach.,176.67,2023-07-05,24.51
+752,64,Male,2024-02-07,Cystic Fibrosis,Chemotherapy,D001,Pediatrics,358.87,No,O+,Critical,High,45,Deteriorated,Image buy reach turn question statement.,113.11,2023-12-10,19.69
+751,27,Male,2024-05-03,Epilepsy,Chemotherapy,D013,Neurology,783.84,No,B+,Critical,Low,90,Deteriorated,Story partner add key miss just because least.,136.11,2023-05-26,25.86
+750,37,Male,2023-08-27,Migraine,Therapy,D004,Neurology,551.01,No,B+,Good,Medium,75,Deteriorated,Reflect develop realize of never deep leader discover.,167.43,2023-04-20,2.97
+749,57,Male,2024-05-26,Migraine,Medication,D015,Neurology,493.3,No,B+,Good,High,30,Stable,Mr short short read exist hair author result democratic.,88.74,2023-09-18,19.6
+748,57,Male,2024-01-01,Asthma,Chemotherapy,D003,Pediatrics,479.83,No,B-,Good,Low,30,Deteriorated,Evidence history garden also day myself kid series animal.,123.98,2023-09-18,8.89
+747,57,Male,2023-11-26,Lymphoma,Medication,D011,Oncology,257.95,No,A-,Good,Medium,120,Improved,Better anything assume study pay imagine eat then guy than brother news speech sound.,136.22,2022-12-02,34.85
+746,76,Female,2024-02-19,Epilepsy,Therapy,D014,Neurology,219.1,Yes,B+,Serious,High,15,Deteriorated,Author picture everybody determine ask sometimes.,133.19,2024-02-04,18.46
+745,6,Male,2024-06-24,Chickenpox,Therapy,D006,Pediatrics,724.81,No,AB+,Serious,Low,105,Improved,Try drop money single meeting reveal method yet grow position floor agree.,191.31,2023-01-27,14.49
+744,62,Male,2023-10-20,Leukemia,Medication,D003,Oncology,703.43,Yes,O+,Critical,High,105,Stable,Education turn almost sign would appear improve create hit area available.,147.66,2023-03-22,38.7
+743,28,Male,2023-10-01,Hypertension,Therapy,D009,Cardiology,880.37,Yes,A-,Good,High,75,Improved,Involve ok sense there machine writer executive site.,144.93,2022-09-28,13.94
+742,54,Male,2024-07-06,Lymphoma,Chemotherapy,D015,Oncology,615.95,Yes,O+,Good,High,15,Deteriorated,Me different resource deep green people off state kid.,98.72,2024-06-19,4.03
+741,92,Female,2024-03-24,Leukemia,Surgery,D006,Oncology,872.14,Yes,A-,Critical,Low,45,Deteriorated,Manage early today guess next lose ball help drive.,176.05,2023-04-13,41.16
+740,21,Female,2023-10-11,Cancer,Chemotherapy,D006,Oncology,183.64,No,AB+,Serious,High,15,Improved,Turn goal meeting remain because state.,172.86,2023-06-12,10.62
+739,25,Female,2023-09-12,Parkinson's,Chemotherapy,D005,Neurology,369.17,No,B-,Serious,High,120,Stable,Right blood worry onto deep research point protect business discover it theory minute.,119.39,2022-12-14,26.97
+738,48,Female,2024-07-05,Leukemia,Therapy,D013,Oncology,871.33,No,O+,Serious,Medium,15,Deteriorated,Direction major argue hear activity year majority floor interesting.,85.32,2023-07-18,21.35
+737,15,Female,2024-07-15,Chickenpox,Medication,D001,Pediatrics,406.06,No,A-,Critical,High,120,Stable,Three past foot onto future respond deal form hot pattern.,182.62,2022-10-19,18.05
+736,35,Female,2024-01-18,Lymphoma,Chemotherapy,D019,Oncology,414.34,Yes,O-,Serious,Medium,105,Stable,Week stock everything plan stop nearly these lay environmental vote.,102.41,2023-09-29,29.07
+735,53,Female,2023-10-08,Heart Disease,Chemotherapy,D020,Cardiology,101.72,Yes,AB-,Fair,High,30,Deteriorated,Tonight knowledge pattern figure million there send safe available up main short.,129.98,2022-10-14,36.21
+734,43,Female,2024-04-25,Hypertension,Chemotherapy,D017,Cardiology,580.34,Yes,B-,Critical,High,120,Deteriorated,Protect off Republican loss set time start game.,149.08,2024-03-05,4.69
+733,8,Male,2024-02-02,Epilepsy,Therapy,D008,Neurology,404.76,Yes,A+,Critical,Low,75,Deteriorated,Structure job somebody skill artist eye dog radio run debate never boy.,138.74,2023-08-09,34.62
+732,46,Male,2024-06-12,Heart Disease,Therapy,D005,Cardiology,386.3,No,A-,Fair,Low,45,Improved,Stock still appear clearly this professional front run occur audience.,165.34,2022-12-22,14.62
+731,34,Male,2024-05-29,Arthritis,Medication,D002,Orthopedics,690.61,No,A+,Serious,High,45,Improved,Group long just central full push suggest.,87.35,2023-02-01,1.88
+730,95,Female,2024-04-02,Leukemia,Chemotherapy,D007,Oncology,249.97,No,AB+,Fair,Medium,120,Stable,Foreign soldier throughout expert scene something set stuff.,161.38,2023-07-22,5.17
+729,77,Male,2024-07-07,Fracture,Surgery,D005,Orthopedics,392.5,No,B-,Fair,Medium,75,Stable,Southern care claim probably imagine sure entire.,105.91,2022-11-19,19.95
+728,68,Male,2024-06-03,Arthritis,Medication,D010,Orthopedics,833.85,Yes,O-,Serious,Low,105,Stable,Use suddenly community against even face myself.,104.66,2022-11-06,26.3
+727,92,Male,2024-05-21,Arthritis,Chemotherapy,D017,Orthopedics,804.87,Yes,A+,Good,Medium,15,Deteriorated,Traditional meet class wall science fill south wish.,178.26,2023-11-14,23.86
+726,5,Female,2024-04-18,Arthritis,Medication,D011,Orthopedics,555.92,Yes,B-,Serious,Medium,60,Improved,Explain green teacher position special until while already modern.,143.35,2023-05-01,41.07
+725,12,Female,2024-06-27,Arrhythmia,Surgery,D006,Cardiology,584.08,No,B-,Good,Low,105,Improved,Daughter concern artist thousand data generation hotel happy picture if speak condition.,192.33,2024-03-25,17.0
+724,74,Female,2023-10-06,Lymphoma,Medication,D009,Oncology,568.39,No,B+,Good,Medium,75,Stable,Different even support open impact other medical reason.,145.67,2023-08-19,27.78
+723,56,Female,2024-05-10,Migraine,Surgery,D004,Neurology,519.37,Yes,AB-,Serious,Medium,120,Stable,Factor better deep economic behind true keep attention.,165.98,2023-03-18,42.62
+722,27,Female,2024-04-15,Epilepsy,Chemotherapy,D006,Neurology,142.79,No,B-,Fair,Low,30,Stable,Draw picture mission decision detail drop television trial small strong pay time.,115.42,2023-04-29,18.93
+721,54,Female,2024-04-21,Cancer,Medication,D006,Oncology,864.53,No,O-,Critical,Medium,75,Improved,Congress account word audience hot shoulder different building customer.,85.42,2023-12-01,17.11
+720,27,Male,2024-04-10,Asthma,Surgery,D011,Pediatrics,135.86,Yes,O+,Critical,High,90,Deteriorated,Simply data guess want plan turn.,174.66,2023-11-16,10.41
+719,78,Female,2023-10-29,Leukemia,Medication,D010,Oncology,926.93,Yes,O-,Fair,Medium,105,Deteriorated,My speech method allow attack myself.,142.59,2022-10-29,33.35
+718,48,Female,2024-02-03,Osteoporosis,Medication,D017,Orthopedics,788.84,Yes,A+,Good,High,90,Stable,Able vote share attention fact direction.,81.07,2022-12-19,7.34
+717,24,Female,2024-05-08,Migraine,Chemotherapy,D007,Neurology,490.03,Yes,O-,Serious,Low,30,Improved,Collection brother result course play experience could.,124.86,2022-12-19,22.92
+716,26,Female,2023-11-19,Fracture,Surgery,D005,Orthopedics,998.4,No,B+,Serious,High,105,Deteriorated,Chance box one sit investment fine return including.,138.91,2022-11-15,14.51
+715,25,Female,2024-06-07,Migraine,Chemotherapy,D013,Neurology,636.81,No,O-,Fair,Low,15,Improved,Leave effect you land store just.,112.11,2024-02-29,21.69
+714,23,Male,2023-10-13,Cystic Fibrosis,Chemotherapy,D010,Pediatrics,352.44,No,O-,Good,High,90,Stable,Safe song air fact agreement concern another sport lead.,151.2,2023-08-01,13.97
+713,17,Male,2024-04-05,Cancer,Therapy,D012,Oncology,390.22,Yes,O+,Critical,High,15,Improved,Next long study build join determine discussion.,86.18,2023-04-26,19.86
+712,77,Female,2024-02-21,Lymphoma,Chemotherapy,D007,Oncology,851.99,No,A+,Critical,Low,60,Improved,Fund sit space team official charge pass key product.,91.04,2023-08-29,24.89
+711,27,Female,2024-08-01,Chickenpox,Therapy,D006,Pediatrics,461.12,Yes,AB-,Serious,Medium,60,Stable,Organization idea score born street attack before away network individual that.,112.1,2024-07-06,5.92
+710,66,Female,2023-12-17,Lymphoma,Therapy,D010,Oncology,909.52,No,B+,Fair,High,120,Deteriorated,Let board meet manager room sing situation page support quality program face head traditional.,116.1,2022-09-08,15.36
+709,30,Male,2023-10-01,Cystic Fibrosis,Chemotherapy,D011,Pediatrics,251.83,Yes,A-,Serious,Low,15,Improved,Time job any expect low compare thank offer bag writer leave sign.,197.49,2022-12-27,3.94
+708,48,Male,2024-04-19,Fracture,Chemotherapy,D007,Orthopedics,630.14,No,AB-,Serious,High,90,Improved,Suffer they room sign mean beyond go public huge without.,152.59,2023-10-29,15.87
+707,45,Male,2024-03-23,Arthritis,Therapy,D006,Orthopedics,431.02,Yes,AB+,Serious,Medium,30,Deteriorated,Pull conference field war thought attention six person our.,145.9,2023-11-09,27.44
+706,17,Female,2024-03-03,Fracture,Surgery,D018,Orthopedics,313.32,No,B+,Fair,Low,90,Deteriorated,Together one media director notice or.,96.52,2023-08-12,8.57
+705,9,Female,2023-12-12,Cancer,Medication,D009,Oncology,525.91,No,O+,Critical,Medium,60,Improved,Peace voice form agree whether stop say arm break bit.,189.61,2023-06-22,15.89
+704,10,Male,2023-10-15,Parkinson's,Medication,D010,Neurology,253.22,No,A+,Good,Medium,60,Stable,Television tonight current particularly follow everything.,94.76,2022-08-22,7.67
+703,13,Female,2024-05-13,Asthma,Chemotherapy,D011,Pediatrics,737.84,Yes,B-,Good,High,75,Improved,Include one truth door so reach very bank reveal arrive cup.,173.87,2023-02-17,35.83
+702,20,Male,2024-05-04,Migraine,Chemotherapy,D012,Neurology,432.57,Yes,AB+,Serious,High,75,Improved,Type hit certain century statement course recent yet brother into.,80.13,2023-01-02,2.62
+701,67,Female,2024-04-09,Cystic Fibrosis,Surgery,D013,Pediatrics,535.02,Yes,B-,Serious,Low,45,Improved,Pressure certain wonder who happen hear.,92.01,2022-11-10,1.76
+700,32,Female,2023-11-19,Arthritis,Surgery,D015,Orthopedics,269.73,No,A-,Fair,Low,15,Deteriorated,Vote shake senior grow read edge test carry positive father knowledge system.,154.16,2023-08-25,21.51
+699,43,Female,2023-10-18,Cystic Fibrosis,Medication,D015,Pediatrics,724.38,Yes,AB-,Fair,Low,90,Deteriorated,Face as keep identify from finish forget per.,161.37,2022-11-14,45.43
+698,71,Female,2024-05-05,Cystic Fibrosis,Therapy,D019,Pediatrics,301.65,Yes,A+,Fair,High,75,Deteriorated,Meeting community recently far none to.,82.22,2022-09-07,1.11
+697,8,Male,2023-10-04,Asthma,Chemotherapy,D004,Pediatrics,390.45,No,O-,Serious,Low,15,Deteriorated,Theory according clear boy hear until nearly answer style along talk color prove.,176.65,2023-03-28,48.02
+696,14,Male,2023-09-10,Chickenpox,Surgery,D003,Pediatrics,452.22,No,O-,Serious,Low,30,Improved,Role say approach beautiful act sign before south cell far.,167.45,2023-01-04,39.39
+695,26,Female,2024-07-21,Fracture,Therapy,D015,Orthopedics,567.41,No,B-,Serious,Low,120,Improved,Safe out item senior ask admit health address.,184.39,2023-02-12,35.39
+694,41,Female,2023-09-03,Chickenpox,Therapy,D007,Pediatrics,893.68,No,AB-,Fair,High,60,Stable,Their officer can really occur billion for turn analysis factor actually open.,156.61,2023-03-03,13.79
+693,12,Female,2023-08-26,Arthritis,Surgery,D010,Orthopedics,671.78,No,O-,Good,Medium,75,Deteriorated,Politics build cover table voice within commercial but parent week always.,110.51,2023-05-13,15.84
+692,58,Male,2024-05-05,Leukemia,Chemotherapy,D016,Oncology,971.13,No,B-,Good,Low,45,Stable,Recently reason turn cultural picture between enough policy official model.,93.34,2023-12-05,22.35
+691,24,Female,2024-01-07,Cystic Fibrosis,Surgery,D015,Pediatrics,458.68,Yes,O-,Fair,Low,75,Deteriorated,Fear do office yourself watch work popular when.,146.6,2023-01-08,43.82
+690,45,Male,2024-03-26,Epilepsy,Medication,D015,Neurology,683.16,No,AB-,Critical,Low,30,Improved,But mother and hand today movie which appear hair.,118.9,2023-07-27,27.6
+689,25,Female,2024-03-03,Migraine,Therapy,D013,Neurology,783.28,No,B+,Critical,High,30,Improved,Even activity rather policy talk leg around fly worker.,180.69,2023-01-03,20.73
+688,65,Male,2023-09-04,Cancer,Chemotherapy,D020,Oncology,375.68,No,AB-,Fair,Low,120,Improved,Into face international seven education century yourself remain listen specific seek hear.,150.56,2023-01-03,22.55
+687,67,Male,2023-12-01,Lymphoma,Therapy,D009,Oncology,722.35,Yes,AB+,Good,Medium,45,Improved,Glass five audience clear resource care would where it.,185.66,2022-10-31,16.33
+686,24,Male,2024-01-11,Fracture,Chemotherapy,D017,Orthopedics,677.55,Yes,AB+,Critical,High,75,Deteriorated,Full anyone wind everything after majority plan source attention behind.,81.72,2023-02-17,8.0
+685,72,Female,2024-02-08,Asthma,Therapy,D014,Pediatrics,113.68,Yes,O+,Critical,Medium,60,Improved,While reality true all enjoy decision so director trial.,110.58,2023-10-28,6.64
+684,35,Male,2024-01-10,Chickenpox,Chemotherapy,D015,Pediatrics,348.4,No,O+,Serious,Low,60,Deteriorated,Opportunity pick major this finally partner lay next if stage.,147.09,2023-04-03,7.81
+683,67,Male,2023-11-08,Lymphoma,Therapy,D020,Oncology,760.85,Yes,A+,Fair,High,30,Stable,Pattern the soldier several within government each improve economy case at hospital easy.,114.81,2022-10-28,25.33
+682,55,Male,2024-04-15,Heart Disease,Surgery,D014,Cardiology,775.59,No,O+,Fair,Low,15,Deteriorated,Believe service budget billion evidence interesting place beat.,185.53,2024-01-02,38.81
+681,29,Male,2023-10-24,Parkinson's,Medication,D016,Neurology,139.11,Yes,A-,Good,High,15,Stable,Begin day consider fact time player item level.,131.68,2023-08-10,1.93
+680,54,Female,2023-10-10,Epilepsy,Surgery,D015,Neurology,524.42,Yes,A-,Critical,High,105,Deteriorated,Admit good two right source difference second claim fill produce reveal drive sport.,97.82,2023-09-09,18.39
+679,38,Female,2024-07-27,Chickenpox,Therapy,D014,Pediatrics,172.39,Yes,O+,Fair,Medium,90,Deteriorated,Worker buy professional daughter throw fight office.,102.95,2023-10-19,19.4
+678,13,Female,2024-01-10,Fracture,Medication,D008,Orthopedics,332.83,Yes,B-,Fair,Medium,45,Improved,Line energy huge guy next attorney TV soldier.,121.04,2023-08-11,7.74
+677,98,Female,2023-08-22,Hypertension,Medication,D006,Cardiology,510.06,No,B+,Critical,Medium,60,Improved,Certain gas choose feel alone that garden.,95.32,2022-09-20,27.45
+676,77,Male,2023-11-11,Osteoporosis,Chemotherapy,D012,Orthopedics,968.5,No,B+,Fair,Low,60,Deteriorated,Address loss trade I arm history relate role instead notice.,88.12,2023-09-20,13.68
+675,14,Female,2024-08-20,Parkinson's,Chemotherapy,D017,Neurology,234.86,Yes,AB+,Serious,High,90,Stable,However gun feel reflect ask allow husband.,143.4,2023-04-29,36.82
+674,70,Male,2024-03-02,Heart Disease,Therapy,D011,Cardiology,722.85,No,A+,Fair,High,75,Stable,Four or either more describe talk statement.,129.64,2023-03-24,17.09
+673,83,Male,2024-08-14,Osteoporosis,Chemotherapy,D002,Orthopedics,803.69,No,A-,Serious,Medium,15,Stable,Board nearly their after official soon.,193.22,2023-04-13,19.34
+672,81,Female,2024-05-18,Cystic Fibrosis,Surgery,D008,Pediatrics,661.04,Yes,O-,Fair,High,45,Improved,Response ability manage site piece probably after represent prove.,118.36,2023-04-18,3.85
+671,63,Female,2023-10-19,Asthma,Therapy,D003,Pediatrics,635.46,No,B-,Good,Medium,15,Stable,Specific stage contain weight easy home over year up Congress once result.,180.86,2023-03-30,30.38
+670,12,Male,2024-03-14,Hypertension,Chemotherapy,D012,Cardiology,423.99,Yes,O+,Serious,Low,120,Stable,Conference she leg claim increase compare million west wear cold old.,103.27,2024-01-06,23.38
+669,77,Female,2024-01-12,Cancer,Chemotherapy,D017,Oncology,557.66,No,O-,Fair,Low,45,Stable,Traditional rock control bit evening painting pressure but great move.,116.37,2023-09-12,2.11
+668,11,Male,2024-02-13,Arrhythmia,Chemotherapy,D003,Cardiology,616.68,Yes,A+,Good,Medium,60,Stable,Civil later list leave two meet author increase oil wonder sing another.,115.37,2024-01-19,1.68
+667,53,Female,2024-07-01,Epilepsy,Therapy,D020,Neurology,975.33,No,B+,Critical,High,90,Stable,Establish sport reason collection stage without positive it draw determine.,199.34,2023-06-13,37.91
+666,66,Male,2023-09-11,Cancer,Medication,D020,Oncology,111.54,No,B+,Critical,High,60,Stable,Answer set decade any region sound music than address resource.,199.87,2022-09-03,20.01
+665,70,Male,2024-05-26,Parkinson's,Surgery,D014,Neurology,567.13,No,B+,Fair,Low,90,Stable,Home sing third most wear say future make kitchen gun stay less.,138.07,2022-10-05,31.01
+664,14,Female,2024-08-13,Parkinson's,Surgery,D016,Neurology,820.0,No,AB-,Critical,High,75,Stable,Strong argue several help decision young.,134.63,2024-04-09,32.74
+663,15,Female,2024-04-02,Fracture,Therapy,D016,Orthopedics,573.03,No,O-,Fair,Low,30,Improved,Nearly near space commercial crime stuff newspaper decade technology time season charge director.,151.61,2022-09-11,15.86
+662,8,Female,2024-05-16,Parkinson's,Medication,D017,Neurology,958.04,No,A+,Critical,High,90,Stable,Take pressure tend up add democratic.,114.01,2024-03-27,5.14
+661,60,Male,2024-04-09,Lymphoma,Surgery,D020,Oncology,113.1,Yes,A+,Good,Medium,120,Improved,Ago tell peace system team whom.,83.3,2023-09-20,22.42
+660,32,Female,2023-08-28,Chickenpox,Surgery,D016,Pediatrics,508.85,Yes,A+,Fair,Low,75,Stable,Mention attention any population region career community.,109.87,2022-08-23,26.82
+659,18,Male,2024-05-31,Osteoporosis,Chemotherapy,D006,Orthopedics,456.66,Yes,AB-,Serious,Low,60,Deteriorated,Black war behind firm heavy tend camera.,124.2,2023-09-29,20.64
+658,29,Male,2024-06-02,Arrhythmia,Therapy,D018,Cardiology,675.93,Yes,AB-,Good,Medium,105,Improved,Position research level bed bit black draw guy ahead which.,146.16,2024-01-26,21.3
+657,8,Female,2023-10-29,Arrhythmia,Surgery,D010,Cardiology,798.13,Yes,B-,Fair,Medium,120,Improved,More state police explain box party take open top class.,113.87,2022-10-29,4.62
+656,8,Male,2024-02-27,Migraine,Chemotherapy,D013,Neurology,393.6,Yes,AB+,Fair,Medium,60,Improved,Instead three buy discover thousand thousand.,99.17,2023-09-03,12.81
+655,61,Male,2023-09-21,Chickenpox,Medication,D004,Pediatrics,878.06,Yes,B-,Fair,High,75,Stable,Rock ask cell all accept me.,146.71,2023-09-09,4.15
+654,5,Male,2024-04-16,Asthma,Chemotherapy,D009,Pediatrics,235.86,Yes,A+,Serious,Medium,30,Deteriorated,Ready sense democratic thus issue challenge threat trial easy.,131.19,2024-03-18,27.22
+653,64,Male,2024-06-20,Arthritis,Therapy,D018,Orthopedics,493.86,Yes,O+,Good,High,120,Deteriorated,Smile model others region real certain forward.,94.34,2023-05-26,14.95
+652,15,Male,2023-10-22,Cancer,Therapy,D004,Oncology,392.71,Yes,AB+,Critical,Medium,15,Deteriorated,North good argue six heavy theory tough high.,120.53,2023-05-29,19.37
+651,24,Male,2023-12-10,Epilepsy,Chemotherapy,D011,Neurology,106.81,Yes,O-,Critical,High,15,Improved,Little drive discover young television treatment personal sea take yeah.,136.64,2023-05-07,13.39
+650,49,Female,2023-08-24,Epilepsy,Surgery,D013,Neurology,659.56,Yes,AB+,Good,Low,120,Stable,Mr stuff provide experience check what conference billion federal sit attention it.,159.84,2022-11-11,46.62
+649,85,Female,2024-04-14,Cystic Fibrosis,Therapy,D016,Pediatrics,301.14,No,B+,Good,Low,105,Stable,Scientist election according his right bad.,105.8,2023-06-07,28.62
+648,94,Female,2023-12-29,Fracture,Surgery,D015,Orthopedics,685.19,No,B-,Serious,High,30,Stable,Nearly evidence without suggest memory marriage skill build since wall.,131.94,2023-01-01,30.46
+647,17,Male,2023-12-23,Arrhythmia,Chemotherapy,D003,Cardiology,636.96,No,A+,Serious,Low,60,Stable,Road example southern its defense clearly control visit wind evidence language.,106.52,2022-11-11,26.84
+646,53,Female,2023-09-23,Arrhythmia,Surgery,D006,Cardiology,665.93,Yes,O+,Good,Medium,30,Stable,At responsibility six life practice enjoy wrong matter.,108.2,2023-05-29,8.22
+645,50,Female,2024-04-03,Heart Disease,Therapy,D007,Cardiology,635.51,No,A+,Serious,Medium,30,Deteriorated,Case bed speak enough various day.,97.09,2023-11-04,10.35
+644,39,Female,2024-02-10,Asthma,Therapy,D009,Pediatrics,278.82,No,O-,Fair,Low,60,Improved,Gas reach single star important study she manage manage.,82.93,2023-10-10,17.53
+643,20,Male,2024-05-21,Epilepsy,Surgery,D019,Neurology,383.14,Yes,A-,Fair,Medium,120,Improved,Full wish recognize appear hotel really capital real commercial indicate can.,190.15,2023-09-05,28.79
+642,23,Male,2024-08-12,Osteoporosis,Chemotherapy,D019,Orthopedics,494.36,No,B+,Fair,High,90,Improved,Interesting table choose age gun gas.,152.11,2023-01-27,19.03
+641,58,Male,2024-07-09,Arrhythmia,Surgery,D015,Cardiology,583.09,No,B-,Fair,Medium,105,Stable,Join number recognize if exist source get season along.,110.79,2022-11-17,22.63
+640,7,Female,2024-08-18,Asthma,Chemotherapy,D016,Pediatrics,759.86,No,A+,Critical,Medium,45,Improved,Source arm lose process animal customer chair likely table management forget vote ok.,199.75,2023-09-03,25.47
+639,60,Female,2024-08-02,Parkinson's,Medication,D007,Neurology,956.07,Yes,AB-,Good,Medium,75,Improved,Check contain new through hot our enough gas.,118.34,2024-07-22,7.82
+638,56,Female,2024-04-08,Epilepsy,Medication,D014,Neurology,363.41,Yes,AB+,Serious,Low,120,Improved,Push kid amount one mean walk material soon short.,150.72,2023-06-11,40.52
+637,28,Male,2023-10-01,Arthritis,Surgery,D013,Orthopedics,573.37,No,O-,Good,Low,90,Stable,City shoulder myself share effect wear think wrong deal.,161.06,2022-11-08,13.14
+636,65,Male,2024-01-18,Arrhythmia,Therapy,D019,Cardiology,530.97,No,A+,Critical,Medium,15,Improved,Baby find bar player guy visit attention throughout debate.,104.74,2023-10-08,18.04
+635,24,Male,2024-01-19,Migraine,Chemotherapy,D008,Neurology,369.23,Yes,AB+,Fair,Low,30,Stable,Professional standard career day attack ground a one.,186.08,2023-03-09,50.8
+634,37,Male,2024-06-10,Arrhythmia,Surgery,D010,Cardiology,612.93,No,AB+,Fair,High,105,Improved,Similar size affect edge member choice break marriage represent cold more.,171.28,2024-02-08,40.25
+633,33,Female,2023-11-27,Parkinson's,Chemotherapy,D011,Neurology,512.62,Yes,O+,Fair,High,90,Stable,Agree Republican important opportunity top four reduce foreign.,160.26,2023-10-15,43.47
+632,27,Male,2023-11-02,Migraine,Therapy,D018,Neurology,142.26,Yes,A+,Critical,Medium,90,Improved,Page per mention perhaps prepare personal.,185.99,2023-07-25,23.66
+631,13,Male,2024-05-30,Leukemia,Chemotherapy,D011,Oncology,986.81,No,A-,Fair,High,15,Deteriorated,White throughout rock specific response color level financial responsibility work morning under.,176.99,2023-03-22,45.44
+630,87,Female,2023-10-31,Arrhythmia,Therapy,D007,Cardiology,454.47,No,B+,Serious,Low,15,Deteriorated,Skill play term despite low plant effort relationship all prove.,191.38,2023-05-05,4.48
+629,52,Female,2024-02-21,Epilepsy,Medication,D017,Neurology,244.48,Yes,O+,Fair,Medium,45,Stable,Class arrive summer gun parent carry game affect tell last old message network.,84.07,2023-04-21,9.87
+628,34,Male,2024-07-26,Asthma,Therapy,D020,Pediatrics,556.2,Yes,B-,Good,Low,90,Improved,History truth should thing environment century within rich media involve among fire.,84.04,2023-09-03,8.07
+627,15,Male,2023-08-29,Osteoporosis,Chemotherapy,D011,Orthopedics,727.91,No,B-,Serious,Medium,90,Stable,List throw state western according voice.,145.41,2023-03-18,11.57
+626,51,Female,2024-07-12,Asthma,Therapy,D015,Pediatrics,601.32,Yes,A-,Good,High,45,Stable,South man door second stand strong stock rich particular in try you situation.,150.73,2022-08-31,27.25
+625,32,Male,2024-05-04,Asthma,Medication,D012,Pediatrics,518.07,Yes,A-,Good,Medium,45,Improved,Treat establish one most class day clearly effort arrive lot stand however.,121.1,2023-11-01,27.45
+624,48,Male,2023-09-01,Epilepsy,Medication,D006,Neurology,477.71,Yes,AB+,Fair,Medium,90,Deteriorated,Something letter risk end difficult attack somebody dark piece something represent offer significant.,138.09,2023-02-01,17.58
+623,36,Male,2023-09-08,Heart Disease,Chemotherapy,D019,Cardiology,260.27,No,O-,Serious,Low,120,Deteriorated,Performance resource care a hit big heavy.,83.31,2022-09-28,6.59
+622,41,Female,2023-08-25,Osteoporosis,Surgery,D020,Orthopedics,478.66,Yes,AB+,Good,High,45,Improved,Most increase who truth discover step others.,138.58,2022-08-27,29.72
+621,49,Female,2024-04-01,Hypertension,Chemotherapy,D018,Cardiology,402.0,Yes,B+,Critical,Medium,90,Deteriorated,Note certain full a loss as.,158.36,2023-12-31,21.26
+620,29,Male,2023-10-18,Fracture,Chemotherapy,D005,Orthopedics,141.98,No,AB-,Serious,High,45,Improved,Imagine clearly visit tough for will night hand.,188.84,2023-08-29,33.41
+619,31,Female,2024-01-27,Epilepsy,Chemotherapy,D001,Neurology,219.3,No,B-,Serious,Medium,30,Deteriorated,Live foreign become which letter author couple feel reflect wait expert likely actually.,123.4,2023-04-05,13.78
+618,29,Female,2024-02-25,Asthma,Surgery,D019,Pediatrics,598.84,No,O+,Fair,Low,105,Improved,Middle middle form into person food attack past.,117.58,2024-02-07,14.81
+617,41,Female,2024-08-14,Heart Disease,Surgery,D019,Cardiology,944.31,Yes,A-,Critical,High,75,Deteriorated,Yard cut law yet sign event yes democratic foot including church both.,89.75,2023-02-18,13.53
+616,42,Male,2024-01-12,Migraine,Surgery,D004,Neurology,329.84,No,AB-,Serious,Medium,75,Improved,Clear if everything discuss TV father new science amount financial.,155.57,2022-12-26,1.56
+615,34,Female,2024-06-17,Hypertension,Chemotherapy,D012,Cardiology,637.05,No,A+,Serious,Medium,60,Deteriorated,Common just green hospital mind form represent sit Mrs degree.,192.24,2022-11-26,10.21
+614,45,Female,2024-06-19,Epilepsy,Therapy,D016,Neurology,108.44,Yes,AB-,Good,Low,15,Deteriorated,Land yourself store cold step coach never language as his late.,123.39,2023-10-31,24.96
+613,74,Female,2024-06-27,Migraine,Surgery,D014,Neurology,551.52,No,AB+,Fair,Low,60,Stable,Wish various rather forget book employee hear sense feeling.,163.99,2023-01-11,8.38
+612,28,Female,2023-09-15,Lymphoma,Therapy,D001,Oncology,512.18,Yes,A-,Serious,High,30,Improved,Rock since without reality away guy movement eight.,146.64,2023-04-18,43.2
+611,11,Male,2023-10-27,Leukemia,Therapy,D015,Oncology,416.9,No,A-,Good,High,120,Improved,Child account should different have together law community including add.,124.56,2023-07-18,4.34
+610,46,Female,2023-10-11,Fracture,Chemotherapy,D014,Orthopedics,939.74,No,AB+,Good,High,60,Deteriorated,Both adult to sound until my figure fall.,112.62,2023-04-26,3.39
+609,25,Male,2024-07-09,Osteoporosis,Surgery,D005,Orthopedics,372.83,Yes,O-,Good,Medium,120,Improved,Still be field whether yes important people buy when assume.,187.05,2024-03-02,32.18
+608,63,Male,2024-06-25,Migraine,Chemotherapy,D011,Neurology,823.57,Yes,O+,Critical,Low,30,Deteriorated,Concern future student their total science appear political.,158.67,2023-01-05,19.73
+607,73,Male,2023-08-28,Osteoporosis,Surgery,D009,Orthopedics,234.87,Yes,B-,Critical,Medium,60,Stable,Pattern people here investment truth effect thus fast.,177.96,2023-03-16,18.52
+606,29,Female,2024-03-31,Cancer,Surgery,D020,Oncology,120.91,Yes,A-,Fair,Medium,105,Deteriorated,Half education peace interest energy make size growth ago.,172.94,2024-03-27,37.26
+605,37,Male,2024-01-06,Cystic Fibrosis,Chemotherapy,D020,Pediatrics,906.69,Yes,O-,Critical,High,60,Stable,Easy important key dark discover material arrive could short treat.,93.82,2023-09-02,19.61
+604,10,Male,2023-09-01,Cancer,Medication,D006,Oncology,163.95,No,AB+,Critical,High,15,Deteriorated,Source response on Mr way too eat most land.,196.06,2022-10-29,42.73
+603,13,Male,2023-10-03,Osteoporosis,Surgery,D012,Orthopedics,966.22,No,A-,Good,High,60,Improved,Our those environmental news minute whole.,193.2,2023-09-12,5.53
+602,72,Male,2024-01-09,Arthritis,Therapy,D001,Orthopedics,484.66,Yes,AB+,Fair,High,75,Stable,Site sit shake medical while brother participant office.,150.82,2023-01-12,15.41
+601,28,Female,2024-05-27,Cystic Fibrosis,Chemotherapy,D020,Pediatrics,762.61,Yes,AB-,Serious,Low,30,Stable,Course son experience second around buy window court itself office term.,154.86,2023-10-15,35.98
+600,25,Female,2023-09-12,Epilepsy,Medication,D004,Neurology,314.83,Yes,O-,Critical,Medium,90,Improved,Anyone add north both activity chair short reflect hear community surface society.,118.85,2022-08-22,26.35
+599,46,Female,2024-01-27,Hypertension,Surgery,D012,Cardiology,264.31,No,O+,Good,High,15,Improved,Collection sign Republican theory green soldier result rise water business no increase fact.,180.93,2023-07-04,29.85
+598,16,Female,2024-01-26,Asthma,Medication,D001,Pediatrics,134.51,No,B+,Serious,Medium,15,Deteriorated,Single thank add accept century consider learn its.,169.55,2023-05-22,34.93
+597,54,Male,2024-02-27,Osteoporosis,Therapy,D011,Orthopedics,480.46,No,AB+,Critical,Medium,105,Deteriorated,Month baby evening range evidence wish trade skin main.,107.28,2023-03-29,26.35
+596,37,Female,2024-01-23,Lymphoma,Chemotherapy,D011,Oncology,874.66,No,O+,Good,Medium,45,Stable,Food break operation family ten participant set wait daughter draw person return.,166.37,2022-11-13,2.4
+595,36,Male,2024-01-01,Arthritis,Chemotherapy,D015,Orthopedics,687.94,Yes,A-,Good,High,30,Improved,Spring movie down six quite sit.,130.78,2023-12-04,37.59
+594,21,Female,2024-06-28,Hypertension,Surgery,D006,Cardiology,473.44,Yes,AB+,Critical,High,75,Stable,Be fish least according region hour green.,81.57,2023-07-02,12.04
+593,63,Female,2024-03-19,Osteoporosis,Medication,D019,Orthopedics,409.81,No,O+,Serious,Low,90,Deteriorated,Language heavy interesting without current yet as professional book money important include.,189.72,2023-09-17,46.03
+592,39,Female,2023-10-01,Arthritis,Chemotherapy,D007,Orthopedics,130.5,No,O-,Serious,High,15,Improved,Attorney memory quite investment current defense.,197.48,2022-08-22,9.13
+591,10,Male,2024-03-21,Migraine,Surgery,D008,Neurology,647.25,No,O+,Critical,Medium,60,Stable,Kitchen seat same manager political everything marriage friend avoid quality score care certain.,130.85,2023-01-19,17.01
+590,16,Male,2024-08-13,Migraine,Chemotherapy,D011,Neurology,708.44,Yes,AB+,Serious,Medium,105,Improved,Church century car hour mention grow wall pattern reason agree seven.,100.75,2023-09-04,26.63
+589,45,Male,2023-09-22,Heart Disease,Medication,D014,Cardiology,604.51,No,A-,Good,Medium,15,Stable,Kid up force like free student project collection result.,143.21,2023-08-26,5.78
+588,35,Male,2024-06-14,Parkinson's,Medication,D006,Neurology,551.57,Yes,B+,Good,Medium,90,Improved,Military technology deep property enter not possible range quality upon.,116.89,2022-12-04,24.71
+587,23,Male,2023-08-22,Arrhythmia,Chemotherapy,D002,Cardiology,227.24,No,A-,Good,Low,105,Deteriorated,Why two experience choose although participant enough become air.,106.91,2023-06-03,26.27
+586,55,Male,2023-11-01,Asthma,Chemotherapy,D016,Pediatrics,649.67,No,O+,Fair,Low,105,Stable,Blood pretty she economic them if where international feeling material laugh.,142.94,2022-10-31,14.83
+585,34,Female,2023-12-11,Leukemia,Therapy,D014,Oncology,990.4,No,B+,Serious,Medium,60,Stable,Guess seven whose me house strategy beat huge often.,112.18,2023-04-11,7.2
+584,32,Male,2024-04-10,Arthritis,Chemotherapy,D012,Orthopedics,256.0,Yes,AB+,Fair,High,90,Stable,Player would Mrs animal site language easy experience provide.,134.1,2022-12-01,8.03
+583,42,Female,2023-09-12,Arthritis,Therapy,D004,Orthopedics,899.08,No,A-,Serious,High,105,Deteriorated,Support newspaper ever land husband color.,174.47,2022-10-10,14.57
+582,25,Male,2024-05-03,Leukemia,Surgery,D014,Oncology,356.58,No,A+,Serious,Medium,75,Improved,Suggest guy national would member sell social cup police amount.,122.56,2024-02-15,20.85
+581,64,Male,2024-07-16,Fracture,Surgery,D002,Orthopedics,229.5,No,AB-,Critical,Low,120,Improved,Strategy drop couple leader store book per animal those sometimes raise.,128.51,2023-02-05,33.24
+580,6,Female,2024-01-29,Heart Disease,Therapy,D013,Cardiology,897.68,No,B-,Good,Low,60,Deteriorated,View law table movement sister beyond build hold quickly degree.,81.33,2023-05-01,5.04
+579,74,Female,2024-06-27,Osteoporosis,Surgery,D005,Orthopedics,654.53,Yes,B-,Fair,High,120,Deteriorated,Believe husband budget real realize program manage office through skill only clear.,115.8,2022-11-11,13.69
+578,16,Female,2023-08-30,Arrhythmia,Medication,D010,Cardiology,529.02,No,A-,Critical,Medium,60,Deteriorated,Human break produce easy ready sea say.,187.65,2023-08-14,43.83
+577,30,Male,2023-09-22,Cystic Fibrosis,Medication,D009,Pediatrics,711.57,Yes,B+,Critical,Medium,105,Stable,Hospital public guess company indicate democratic similar method perhaps sing.,98.0,2023-06-21,6.22
+576,16,Male,2024-03-22,Chickenpox,Chemotherapy,D008,Pediatrics,519.75,No,B+,Critical,Low,45,Improved,Statement doctor mention type weight fight.,186.93,2023-06-25,38.82
+575,73,Female,2024-01-21,Leukemia,Therapy,D002,Oncology,644.51,Yes,A-,Critical,Low,15,Stable,Thank method between also decision but put never PM develop job manage.,194.8,2023-06-19,42.3
+574,10,Female,2024-07-12,Migraine,Therapy,D013,Neurology,298.46,No,AB+,Serious,High,75,Deteriorated,Young he call growth firm news.,181.01,2022-11-23,41.27
+573,57,Female,2023-10-01,Fracture,Chemotherapy,D011,Orthopedics,847.89,No,B+,Critical,Low,30,Deteriorated,Beat mission stock indicate song role turn beat wife.,86.01,2023-03-31,8.37
+572,39,Male,2024-07-17,Chickenpox,Medication,D018,Pediatrics,528.08,No,B+,Fair,High,45,Stable,Pass great soldier teach position nearly identify away arrive hear anyone simple.,153.16,2022-11-04,9.63
+571,62,Female,2024-01-22,Arthritis,Therapy,D007,Orthopedics,226.96,No,B+,Critical,Medium,15,Deteriorated,Occur career actually Mr sea assume.,140.14,2023-04-24,12.33
+570,26,Female,2024-08-07,Lymphoma,Therapy,D003,Oncology,835.9,No,A-,Fair,Low,90,Deteriorated,Change fly and phone consider film weight.,178.27,2023-08-28,49.82
+569,11,Female,2024-01-20,Arrhythmia,Medication,D005,Cardiology,618.47,No,AB+,Serious,Low,75,Deteriorated,Issue sense space employee situation tree.,176.21,2023-01-19,31.61
+568,23,Female,2023-09-07,Cystic Fibrosis,Surgery,D019,Pediatrics,997.5,No,AB+,Good,Medium,75,Stable,Capital family member individual onto question I case feel four third brother leave.,172.75,2023-08-28,21.68
+567,40,Female,2023-08-24,Arrhythmia,Surgery,D001,Cardiology,149.82,Yes,A+,Fair,Low,60,Deteriorated,Want town decide paper decision behind.,179.34,2023-07-04,37.96
+566,22,Female,2024-07-12,Arrhythmia,Therapy,D016,Cardiology,761.69,Yes,B-,Good,Low,30,Improved,Each conference hotel just management everything history point good indeed.,130.11,2022-12-05,13.18
+565,32,Male,2023-11-09,Heart Disease,Chemotherapy,D020,Cardiology,599.34,Yes,AB-,Good,Low,75,Improved,Election sort together station realize maintain month produce political.,183.87,2023-08-25,37.75
+564,9,Male,2024-05-19,Arthritis,Chemotherapy,D005,Orthopedics,568.01,No,A+,Critical,Low,120,Deteriorated,Matter three music strategy gun sure not away.,134.78,2022-10-22,27.12
+563,43,Female,2023-09-13,Cancer,Therapy,D015,Oncology,191.32,Yes,B+,Fair,Low,90,Stable,Little call wonder weight future color model either family head anything soldier.,152.9,2022-10-23,5.44
+562,24,Male,2024-03-25,Cystic Fibrosis,Therapy,D002,Pediatrics,374.1,Yes,AB-,Critical,High,30,Improved,Campaign adult rich college special quite quite hope rich.,158.86,2023-05-21,3.5
+561,60,Male,2023-10-19,Parkinson's,Surgery,D017,Neurology,493.56,Yes,B-,Serious,Low,60,Improved,Actually body foot friend list relationship onto must.,145.72,2022-10-07,27.21
+560,58,Female,2024-05-18,Chickenpox,Surgery,D004,Pediatrics,485.84,Yes,A-,Critical,Medium,30,Deteriorated,Morning brother deep article describe individual friend still mind court what room.,175.99,2023-11-01,52.76
+559,92,Male,2024-06-23,Parkinson's,Therapy,D005,Neurology,190.04,Yes,A-,Critical,High,45,Deteriorated,Attorney hair evening dream environment author.,160.08,2023-07-15,42.82
+558,31,Male,2023-09-20,Leukemia,Chemotherapy,D010,Oncology,718.8,Yes,O-,Serious,High,90,Deteriorated,Religious across value expect middle company hair store nearly system born.,163.94,2022-11-04,38.37
+557,10,Female,2023-11-18,Cystic Fibrosis,Surgery,D011,Pediatrics,194.4,Yes,B+,Serious,Medium,45,Stable,East either degree significant wear attack carry especially choice race.,137.57,2023-09-06,16.05
+556,75,Male,2023-12-04,Arthritis,Surgery,D004,Orthopedics,191.13,No,A+,Critical,Low,15,Improved,Leg sometimes administration during clearly ten employee girl.,183.33,2023-02-06,5.97
+555,68,Male,2023-10-11,Cystic Fibrosis,Chemotherapy,D013,Pediatrics,129.63,No,O-,Good,Low,105,Deteriorated,Cut tonight Democrat avoid black everyone what world almost.,157.18,2023-03-14,46.59
+554,50,Female,2023-12-22,Arrhythmia,Surgery,D017,Cardiology,444.5,No,O-,Serious,Low,105,Improved,Decade me outside threat share light.,112.43,2023-04-27,25.93
+553,26,Male,2024-03-03,Asthma,Chemotherapy,D011,Pediatrics,189.66,Yes,AB+,Fair,Low,30,Stable,A official reduce audience concern nature number wait star mother interesting.,96.8,2022-11-22,13.89
+552,40,Female,2024-04-18,Migraine,Medication,D004,Neurology,708.35,No,AB+,Good,High,45,Stable,Score above yet though middle far cost them.,116.28,2022-11-08,31.96
+551,40,Male,2023-10-22,Arthritis,Chemotherapy,D009,Orthopedics,644.73,Yes,B+,Good,High,105,Improved,Cut push area trial from national other trip prove bank traditional.,173.71,2022-10-16,25.89
+550,56,Female,2024-07-14,Heart Disease,Surgery,D013,Cardiology,633.23,Yes,A+,Good,Low,45,Stable,Recent something they call book effect during sign.,90.47,2023-08-04,9.46
+549,58,Female,2023-11-12,Epilepsy,Medication,D014,Neurology,670.44,Yes,O-,Serious,Low,120,Deteriorated,Shake scientist act compare term rule day unit specific.,145.43,2023-08-26,23.42
+548,27,Female,2024-02-02,Lymphoma,Medication,D008,Oncology,705.4,Yes,A-,Fair,Low,105,Deteriorated,Reason training although if whom member character strong strong.,154.32,2023-07-04,31.75
+547,55,Female,2024-02-17,Heart Disease,Chemotherapy,D004,Cardiology,497.44,No,AB+,Good,Low,45,Stable,Example organization short window week five style energy no feel.,146.88,2022-12-19,22.91
+546,44,Male,2024-06-26,Cystic Fibrosis,Medication,D011,Pediatrics,785.52,No,B+,Serious,High,45,Deteriorated,Spend however rock ahead book measure law medical article majority baby crime rule.,156.41,2024-03-09,31.73
+545,18,Male,2024-01-17,Chickenpox,Medication,D009,Pediatrics,514.56,Yes,B+,Good,Low,120,Stable,Central kind pattern political knowledge type really well break car idea.,163.84,2023-08-27,20.72
+544,77,Male,2024-04-18,Arthritis,Surgery,D018,Orthopedics,425.23,No,AB-,Serious,High,60,Stable,Late main also consumer offer red.,159.68,2023-10-03,27.42
+543,52,Female,2023-12-27,Cystic Fibrosis,Therapy,D015,Pediatrics,150.34,Yes,AB-,Good,High,90,Stable,Hear big work put let successful blood might oil.,180.87,2023-06-01,24.56
+542,68,Male,2023-12-06,Fracture,Chemotherapy,D015,Orthopedics,593.42,No,B+,Fair,Medium,60,Deteriorated,Any evening thing choice on most during measure executive truth pull.,112.88,2022-12-25,3.61
+541,72,Male,2023-12-08,Arrhythmia,Medication,D018,Cardiology,661.54,No,B-,Fair,Low,15,Improved,Team throughout store employee foot fear.,152.9,2023-10-07,28.9
+540,82,Female,2024-02-19,Parkinson's,Surgery,D013,Neurology,147.93,No,B-,Fair,Medium,90,Deteriorated,School chance occur example source huge quality rate entire somebody either.,86.51,2023-05-27,14.74
+539,8,Male,2023-09-13,Epilepsy,Therapy,D018,Neurology,311.3,Yes,AB+,Good,Medium,30,Improved,Set us experience southern several shoulder sort among better forget.,89.11,2023-04-15,14.3
+538,27,Female,2024-07-11,Parkinson's,Therapy,D002,Neurology,304.92,Yes,A+,Good,Medium,45,Deteriorated,Continue rich thing knowledge natural trade.,164.62,2023-04-04,41.08
+537,47,Female,2023-10-09,Lymphoma,Medication,D014,Oncology,332.88,Yes,B-,Fair,Low,75,Deteriorated,Mind which sit movie sense still listen face little more money visit.,125.06,2023-04-07,23.3
+536,98,Female,2023-10-21,Asthma,Medication,D014,Pediatrics,234.7,No,O+,Critical,High,120,Stable,Firm seem tough box down sea material clearly edge collection citizen their.,190.55,2022-12-03,38.43
+535,41,Male,2024-04-24,Migraine,Medication,D008,Neurology,826.99,Yes,O-,Serious,Medium,120,Stable,Serious fine kid it present city return American management fall game according.,137.4,2024-01-23,6.99
+534,96,Female,2023-12-27,Leukemia,Chemotherapy,D013,Oncology,637.45,Yes,O-,Critical,Medium,15,Deteriorated,Order yourself professor side strong often.,155.58,2022-10-11,33.72
+533,33,Female,2023-12-27,Chickenpox,Chemotherapy,D010,Pediatrics,746.71,No,AB+,Fair,High,15,Stable,Per seem begin whether name ahead open.,161.95,2022-12-13,22.74
+532,62,Female,2024-08-01,Fracture,Chemotherapy,D008,Orthopedics,209.35,No,B-,Fair,Medium,105,Improved,Strong Mr stand base deal reflect senior.,116.06,2023-01-31,30.81
+531,11,Male,2024-07-24,Heart Disease,Therapy,D009,Cardiology,896.56,No,A-,Good,High,120,Deteriorated,Full again race present ever likely shoulder.,176.24,2024-07-13,10.03
+530,22,Female,2023-11-16,Migraine,Surgery,D001,Neurology,255.53,No,B-,Fair,Low,30,Deteriorated,Hold than away material agent field themselves book single everyone unit by as agent.,80.61,2023-10-14,11.17
+529,58,Male,2024-02-12,Cancer,Surgery,D009,Oncology,178.15,Yes,O+,Serious,Low,105,Improved,Letter own woman production around record assume drive operation road them live.,110.84,2023-09-05,27.43
+528,53,Male,2023-11-27,Hypertension,Therapy,D016,Cardiology,917.77,Yes,AB+,Fair,Low,45,Deteriorated,So because sister practice mind social country.,160.28,2022-09-13,2.71
+527,65,Female,2024-01-09,Fracture,Surgery,D012,Orthopedics,679.0,No,A-,Critical,High,90,Deteriorated,Fight religious development in project window already administration decide.,96.53,2023-01-01,21.83
+526,84,Female,2024-06-09,Parkinson's,Medication,D008,Neurology,266.03,Yes,B+,Critical,Medium,15,Deteriorated,Rather house off forget behind how away power deal vote like.,150.95,2023-11-01,14.91
+525,43,Female,2023-12-27,Lymphoma,Medication,D003,Oncology,419.36,Yes,O+,Critical,Medium,75,Improved,Government though floor hard challenge two TV little church without then.,186.9,2023-10-10,17.05
+524,29,Male,2024-05-17,Chickenpox,Surgery,D004,Pediatrics,692.58,No,A+,Serious,High,15,Improved,Animal big yeah myself about remember speech pull song per.,104.23,2022-11-23,19.03
+523,21,Female,2024-06-25,Arrhythmia,Surgery,D007,Cardiology,951.53,Yes,A+,Serious,Medium,45,Stable,Hour explain stuff situation fine investment lay defense.,90.99,2023-01-21,8.46
+522,31,Male,2024-05-04,Parkinson's,Chemotherapy,D001,Neurology,569.79,Yes,B-,Serious,Medium,30,Stable,Himself citizen through window central cup college sport best lay first site concern.,156.72,2022-11-29,23.5
+521,37,Male,2023-10-30,Leukemia,Chemotherapy,D003,Oncology,683.46,Yes,B+,Fair,Medium,90,Deteriorated,Act official mind short sign amount late score same bar radio civil.,181.57,2022-09-01,4.57
+520,98,Male,2023-09-08,Epilepsy,Medication,D004,Neurology,838.73,Yes,AB+,Critical,Medium,15,Improved,Base study over religious couple range always event increase design moment spring.,80.19,2022-12-28,14.97
+519,20,Female,2024-03-29,Heart Disease,Medication,D018,Cardiology,628.88,Yes,AB+,Serious,High,105,Improved,Hair it seat site shoulder really give fund building former safe market.,110.14,2023-11-07,10.78
+518,31,Female,2024-04-18,Hypertension,Medication,D005,Cardiology,870.5,Yes,AB+,Critical,High,75,Stable,Plan everyone inside environment shoulder join two fly public.,189.18,2023-04-09,31.08
+517,65,Male,2024-03-09,Epilepsy,Surgery,D018,Neurology,116.72,No,A-,Serious,Low,15,Deteriorated,Side attack appear candidate agency mission computer.,102.61,2023-03-25,24.97
+516,38,Male,2023-09-02,Hypertension,Surgery,D006,Cardiology,601.81,No,O-,Critical,Medium,15,Deteriorated,Report prove prove onto act see west.,173.47,2023-08-21,47.49
+515,44,Female,2024-06-15,Asthma,Therapy,D004,Pediatrics,234.92,No,O+,Serious,Low,15,Improved,Necessary high month point fact weight could blood light note.,134.23,2024-04-12,39.98
+514,25,Female,2024-06-30,Arrhythmia,Therapy,D010,Cardiology,172.72,Yes,O-,Serious,High,15,Deteriorated,Around like thus fast focus region race contain beyond human lawyer yard discover.,190.94,2024-03-09,53.1
+513,32,Male,2024-05-24,Migraine,Chemotherapy,D005,Neurology,681.16,Yes,B-,Serious,High,60,Improved,Walk analysis compare thousand eye heavy production street movement race tend role.,160.39,2023-09-18,13.21
+512,32,Female,2023-10-31,Cystic Fibrosis,Medication,D008,Pediatrics,640.33,No,O+,Good,High,90,Improved,Relate candidate concern last data radio natural.,118.4,2022-11-08,28.46
+511,69,Male,2024-08-08,Asthma,Therapy,D007,Pediatrics,673.96,No,AB-,Serious,Medium,120,Stable,College throughout pressure American live yeah.,102.06,2024-05-28,21.57
+510,28,Male,2024-07-30,Migraine,Chemotherapy,D005,Neurology,811.69,Yes,B-,Fair,High,60,Deteriorated,Dark role reveal find dark opportunity hot camera fall someone.,140.83,2024-03-02,33.5
+509,28,Male,2024-02-18,Heart Disease,Surgery,D008,Cardiology,708.83,Yes,A-,Fair,Low,120,Stable,Leg commercial rate away government lose begin director.,161.08,2023-04-21,4.02
+508,62,Male,2024-02-12,Cancer,Surgery,D011,Oncology,282.71,No,AB+,Critical,High,30,Deteriorated,Month expect happy country not single.,92.33,2022-11-14,4.83
+507,57,Female,2023-08-26,Arrhythmia,Surgery,D014,Cardiology,402.54,No,O+,Serious,Medium,30,Improved,Among worry mean road performance mother feel senior worker memory bit.,190.1,2022-12-07,23.95
+506,83,Female,2024-01-05,Arthritis,Surgery,D020,Orthopedics,863.53,Yes,AB+,Serious,High,60,Deteriorated,Though line difference final arm culture boy throughout edge civil.,128.34,2023-06-28,30.98
+505,33,Male,2024-07-24,Lymphoma,Chemotherapy,D009,Oncology,656.67,Yes,O+,Serious,High,90,Deteriorated,On over memory arrive size they central candidate although course me.,177.71,2023-06-27,3.75
+504,23,Female,2023-09-10,Osteoporosis,Therapy,D016,Orthopedics,932.81,Yes,A+,Critical,High,45,Improved,Because themselves including member research production although show consumer.,149.87,2023-05-14,6.85
+503,52,Female,2023-08-23,Arthritis,Therapy,D001,Orthopedics,265.58,Yes,B+,Serious,High,120,Improved,House understand them maintain young study take dream on improve.,136.66,2023-01-02,25.21
+502,56,Male,2023-11-06,Migraine,Surgery,D015,Neurology,851.13,No,AB+,Good,High,90,Improved,Prepare later agency street house pretty though subject me.,134.68,2023-07-22,13.32
+501,94,Female,2024-07-01,Arthritis,Medication,D007,Orthopedics,313.27,No,O+,Fair,Medium,45,Stable,Media upon force do section physical.,135.6,2023-01-10,30.55
+500,24,Male,2023-10-31,Parkinson's,Chemotherapy,D009,Neurology,949.06,No,O+,Fair,Low,105,Stable,Treat happen situation wait wife ground benefit some pay possible short report standard.,160.31,2023-07-31,35.19
+499,19,Female,2023-12-31,Leukemia,Surgery,D007,Oncology,839.23,Yes,O+,Serious,High,30,Stable,Traditional without region enjoy door high really onto coach against mention somebody size.,155.04,2023-10-17,12.24
+498,41,Male,2024-06-14,Arthritis,Chemotherapy,D017,Orthopedics,998.8,No,AB+,Good,Medium,30,Stable,Green kitchen whose say past both listen even here describe become.,87.94,2024-01-18,6.65
+497,34,Female,2023-12-24,Asthma,Therapy,D013,Pediatrics,651.41,No,O+,Good,High,30,Improved,Attorney soon the scientist method white effect shake.,192.84,2023-05-27,25.86
+496,61,Male,2023-12-14,Hypertension,Chemotherapy,D011,Cardiology,857.55,No,AB-,Serious,Medium,15,Deteriorated,Evening PM tax movement behavior leg development property bed a task.,142.66,2023-02-25,8.12
+495,19,Male,2024-03-30,Arrhythmia,Chemotherapy,D016,Cardiology,145.85,No,AB-,Serious,Medium,120,Deteriorated,Responsibility tonight gas follow stock subject door six improve woman.,164.39,2022-11-24,21.62
+494,40,Male,2023-10-11,Migraine,Surgery,D005,Neurology,571.81,Yes,A+,Fair,Low,120,Stable,Exactly personal speech its source maintain final power team clearly before difference side clear.,97.32,2023-07-19,8.62
+493,73,Male,2024-05-24,Migraine,Chemotherapy,D015,Neurology,708.27,Yes,B-,Good,Medium,105,Stable,Within successful rest standard culture large factor economy certain speech bring.,148.16,2022-10-27,12.04
+492,75,Male,2024-06-17,Heart Disease,Chemotherapy,D009,Cardiology,355.83,No,O-,Good,High,45,Improved,Meeting meeting set though morning easy teach general to it everybody throw interesting.,143.87,2023-06-24,8.22
+491,23,Female,2023-12-07,Hypertension,Medication,D007,Cardiology,652.66,Yes,B+,Good,High,60,Improved,Yes shake unit skill control begin current one side economic million consider.,192.44,2023-07-13,56.03
+490,58,Female,2023-12-20,Arrhythmia,Chemotherapy,D011,Cardiology,439.6,Yes,AB+,Critical,Medium,105,Deteriorated,She keep wonder magazine peace such anything history ask watch subject.,96.63,2023-07-31,15.47
+489,44,Male,2024-06-14,Migraine,Surgery,D011,Neurology,125.79,No,B+,Fair,High,90,Deteriorated,Hospital stock quickly or trial city response reveal foreign right subject.,181.05,2023-07-31,27.62
+488,49,Male,2024-03-01,Arthritis,Therapy,D008,Orthopedics,189.38,No,AB+,Serious,Low,120,Improved,Just product outside will either billion test color agent argue.,144.78,2023-06-07,33.62
+487,28,Female,2024-03-15,Migraine,Medication,D004,Neurology,971.89,Yes,AB-,Critical,Medium,105,Stable,Similar pretty vote professional increase region many free could language number fight across.,194.35,2023-06-13,7.99
+486,11,Male,2024-06-20,Osteoporosis,Medication,D020,Orthopedics,410.69,No,A-,Serious,Medium,15,Deteriorated,Machine ball role customer positive window approach.,164.82,2024-06-05,19.49
+485,77,Female,2023-11-26,Fracture,Therapy,D015,Orthopedics,407.9,No,O+,Fair,High,45,Deteriorated,Four commercial off strategy however writer attention.,109.07,2023-04-29,12.2
+484,33,Female,2023-09-03,Osteoporosis,Chemotherapy,D005,Orthopedics,386.78,No,A-,Fair,High,30,Deteriorated,Sign detail tree goal school sometimes life dog.,80.37,2023-07-24,12.7
+483,28,Male,2024-03-28,Epilepsy,Surgery,D003,Neurology,856.61,Yes,A+,Critical,Low,15,Improved,Arm parent laugh upon purpose of floor player.,111.22,2024-03-04,24.08
+482,38,Female,2024-03-14,Osteoporosis,Surgery,D007,Orthopedics,886.55,Yes,A-,Critical,High,120,Deteriorated,Several character keep there suggest fire design Congress.,81.32,2022-11-29,18.69
+481,37,Male,2024-05-29,Asthma,Therapy,D017,Pediatrics,569.82,Yes,B-,Critical,Low,90,Stable,In parent result popular election wall start open cut.,132.68,2023-10-12,24.85
+480,6,Female,2024-02-29,Chickenpox,Therapy,D010,Pediatrics,559.61,No,A+,Serious,Low,90,Stable,Marriage one suggest huge wife magazine Congress there father race lawyer.,117.67,2023-01-29,18.52
+479,24,Male,2024-01-11,Osteoporosis,Medication,D011,Orthopedics,722.32,Yes,AB-,Serious,Medium,105,Stable,Record across grow charge team stop season serious near.,102.8,2023-11-14,18.84
+478,40,Female,2024-05-21,Migraine,Therapy,D007,Neurology,837.75,No,A+,Fair,High,60,Improved,Statement be certain expert traditional visit nation.,167.09,2023-02-21,22.18
+477,23,Male,2024-04-01,Lymphoma,Chemotherapy,D017,Oncology,514.1,Yes,O+,Good,High,120,Stable,Everybody inside see front vote system.,164.09,2023-06-29,25.12
+476,5,Male,2024-06-22,Lymphoma,Chemotherapy,D006,Oncology,585.4,No,O+,Serious,High,105,Deteriorated,Role wall window health their gun range final pull.,86.64,2023-05-17,2.01
+475,55,Male,2023-09-04,Arrhythmia,Surgery,D014,Cardiology,466.32,Yes,O-,Critical,Low,75,Deteriorated,Section thousand near here everybody list sound local hotel.,83.27,2023-06-01,24.53
+474,85,Male,2024-05-14,Lymphoma,Surgery,D019,Oncology,754.16,No,O-,Good,High,90,Deteriorated,Shoulder article Mr return space onto something enjoy would media kid.,167.3,2023-07-02,7.95
+473,78,Female,2024-04-30,Arthritis,Medication,D015,Orthopedics,836.55,Yes,AB+,Good,High,60,Stable,Upon pull project cup movement soldier appear pretty director.,150.76,2023-03-09,3.74
+472,29,Male,2023-08-24,Heart Disease,Chemotherapy,D007,Cardiology,343.17,Yes,O+,Critical,Low,15,Deteriorated,Per there rather subject mission enjoy.,174.46,2023-06-01,32.68
+471,46,Male,2023-09-23,Cystic Fibrosis,Medication,D002,Pediatrics,639.96,No,AB-,Good,Low,30,Improved,Hotel offer new recognize boy himself sure door here ever no.,180.68,2022-11-28,11.59
+470,4,Female,2024-01-02,Asthma,Medication,D020,Pediatrics,401.55,No,O-,Serious,Medium,75,Stable,Response you score bill owner site enough herself name.,123.93,2023-11-03,20.64
+469,39,Female,2023-12-22,Cystic Fibrosis,Surgery,D009,Pediatrics,906.16,Yes,A-,Critical,Medium,30,Deteriorated,Recognize decision material attention at Congress shake opportunity where.,154.77,2023-09-13,43.84
+468,62,Female,2023-08-26,Arthritis,Medication,D015,Orthopedics,267.67,No,AB+,Critical,High,90,Stable,Indicate key during raise board fire position west forward why father top.,191.1,2023-08-08,13.93
+467,26,Male,2024-04-14,Asthma,Therapy,D011,Pediatrics,659.45,Yes,AB-,Serious,High,90,Improved,Wide wear her trial truth remain group car great scene ahead.,90.87,2023-04-12,3.71
+466,79,Female,2023-12-08,Hypertension,Surgery,D007,Cardiology,269.84,Yes,AB+,Critical,High,105,Improved,Hold general skin west financial population get information action marriage perform physical.,146.03,2023-07-29,26.89
+465,72,Male,2024-05-16,Chickenpox,Medication,D010,Pediatrics,370.69,No,B+,Fair,High,15,Stable,Economic kid sea everything even of.,178.06,2024-01-20,46.5
+464,39,Male,2023-10-08,Cancer,Medication,D020,Oncology,491.08,Yes,A+,Serious,Medium,75,Improved,Result dinner service by by nice.,165.51,2022-11-21,4.97
+463,61,Female,2024-07-08,Cancer,Medication,D010,Oncology,542.71,Yes,A-,Fair,High,75,Stable,Worry operation according trial left bed father probably will.,105.26,2024-05-17,16.1
+462,88,Female,2023-10-18,Parkinson's,Chemotherapy,D011,Neurology,550.03,No,O-,Critical,Medium,90,Deteriorated,Experience meeting cold teacher Republican practice brother.,150.53,2023-01-18,35.47
+461,26,Male,2024-03-08,Migraine,Medication,D002,Neurology,656.23,Yes,O+,Fair,High,105,Deteriorated,Feel entire politics him glass worry.,195.36,2023-07-03,42.8
+460,71,Female,2023-08-22,Migraine,Surgery,D003,Neurology,343.62,No,AB+,Good,Medium,60,Deteriorated,Week financial first hundred increase his week fund though everyone degree side.,131.55,2022-10-14,12.35
+459,84,Male,2024-03-09,Osteoporosis,Chemotherapy,D007,Orthopedics,119.14,No,B-,Critical,High,30,Deteriorated,Later consumer short maintain clearly team build local foot this view.,136.53,2023-05-07,17.02
+458,72,Female,2023-12-27,Epilepsy,Surgery,D004,Neurology,529.0,Yes,O+,Serious,Low,60,Deteriorated,Student single purpose show sure between guess three close than produce avoid green.,154.03,2023-12-15,46.14
+457,44,Female,2024-07-03,Epilepsy,Medication,D006,Neurology,678.62,No,A-,Fair,High,60,Deteriorated,Better they subject himself candidate here oil with fall.,140.02,2024-03-11,12.17
+456,55,Female,2024-03-04,Chickenpox,Surgery,D017,Pediatrics,741.53,No,A-,Fair,Medium,45,Stable,Letter ball term against Congress central woman.,97.78,2024-02-04,19.85
+455,21,Male,2024-06-03,Asthma,Chemotherapy,D006,Pediatrics,108.12,Yes,B-,Serious,High,75,Deteriorated,Own religious behind thousand poor lay from affect must ground.,97.15,2023-10-31,4.45
+454,23,Male,2024-03-31,Osteoporosis,Therapy,D014,Orthopedics,522.52,No,A-,Fair,High,15,Deteriorated,Likely sure activity establish religious need.,81.3,2023-12-04,20.66
+453,42,Female,2024-05-19,Leukemia,Medication,D007,Oncology,123.13,No,O+,Critical,High,60,Deteriorated,Sign upon but short idea study still between administration who.,181.5,2024-04-30,21.85
+452,48,Male,2024-03-18,Parkinson's,Surgery,D007,Neurology,655.84,Yes,AB-,Critical,High,60,Stable,Author city painting answer administration both writer note soon image choice.,163.46,2023-04-13,39.65
+451,27,Female,2024-03-07,Leukemia,Surgery,D001,Oncology,902.51,Yes,B+,Critical,High,60,Stable,Single attention out treatment big then act artist rise opportunity.,174.88,2024-02-10,16.35
+450,52,Female,2024-06-02,Arthritis,Medication,D012,Orthopedics,209.78,Yes,A+,Good,Medium,60,Improved,Best tax under me future former box why nice significant.,102.62,2023-03-23,3.58
+449,58,Female,2023-09-11,Migraine,Chemotherapy,D010,Neurology,768.47,Yes,O+,Good,High,15,Deteriorated,Few yard dark carry weight million local challenge down.,149.97,2023-01-05,31.05
+448,1,Male,2024-03-05,Osteoporosis,Medication,D001,Orthopedics,180.35,Yes,A-,Fair,Medium,30,Stable,Away agent conference enough laugh chair step large less on tough.,199.64,2024-02-21,4.56
+447,44,Female,2024-03-12,Parkinson's,Therapy,D011,Neurology,577.85,Yes,O-,Good,Medium,75,Improved,Late firm body expert audience less society maintain agree second.,197.96,2023-07-18,5.93
+446,22,Female,2023-10-13,Asthma,Medication,D002,Pediatrics,382.97,Yes,A+,Serious,Low,90,Stable,Carry provide produce sense usually address.,193.47,2022-08-28,48.7
+445,22,Male,2024-02-07,Fracture,Chemotherapy,D011,Orthopedics,777.52,No,AB+,Serious,Medium,75,Improved,Everybody thought fish fill among improve study listen I window good up.,141.95,2024-01-26,19.67
+444,22,Female,2024-01-13,Asthma,Chemotherapy,D020,Pediatrics,759.12,No,B+,Critical,High,45,Improved,Other help lot operation knowledge happy hit effort international agree pass.,103.52,2022-11-18,30.31
+443,49,Female,2024-02-10,Hypertension,Chemotherapy,D005,Cardiology,581.38,No,AB+,Good,Medium,75,Improved,Compare weight everyone high common contain meeting my land civil.,138.85,2023-01-20,34.46
+442,5,Male,2023-10-23,Heart Disease,Therapy,D003,Cardiology,196.01,No,B-,Serious,Low,75,Deteriorated,Compare into visit allow let top.,94.97,2023-05-05,25.05
+441,53,Male,2024-04-20,Epilepsy,Chemotherapy,D004,Neurology,375.03,Yes,AB+,Serious,Medium,75,Deteriorated,Like magazine agent bed the single kind friend treat help.,110.6,2023-09-30,26.09
+440,57,Male,2024-06-07,Migraine,Chemotherapy,D017,Neurology,336.48,No,B-,Serious,Low,120,Improved,Their deal fine entire pressure yourself sign walk there such matter decide.,85.7,2023-02-21,3.07
+439,22,Female,2024-08-08,Heart Disease,Therapy,D004,Cardiology,577.63,No,A-,Serious,Low,105,Stable,Research work management serve event instead actually.,100.71,2022-12-11,30.0
+438,54,Male,2024-03-24,Osteoporosis,Therapy,D015,Orthopedics,389.87,Yes,AB+,Fair,High,120,Stable,Time senior political lawyer administration home garden beat.,139.54,2023-01-18,11.48
+437,27,Female,2024-05-08,Asthma,Medication,D015,Pediatrics,394.15,Yes,B+,Good,High,75,Stable,If reflect soon economy education star sister play eat modern nothing do stay.,92.57,2023-08-11,7.92
+436,30,Male,2024-08-16,Leukemia,Medication,D019,Oncology,335.75,Yes,AB+,Serious,Medium,15,Deteriorated,Interview agent future food dark huge eat allow.,184.47,2022-09-04,49.94
+435,16,Female,2023-09-06,Chickenpox,Therapy,D009,Pediatrics,162.2,Yes,AB+,Fair,Medium,30,Improved,Expect structure sign explain door prepare think different north gun help.,137.62,2023-07-10,7.65
+434,17,Male,2024-06-08,Asthma,Therapy,D014,Pediatrics,465.49,Yes,B+,Fair,High,120,Stable,One size onto knowledge who police business animal.,137.87,2022-12-04,20.01
+433,35,Male,2024-03-31,Migraine,Surgery,D013,Neurology,155.2,Yes,O+,Fair,Medium,15,Stable,Open tree particular where teacher matter under second memory technology.,147.97,2022-11-12,32.28
+432,62,Male,2024-01-24,Leukemia,Surgery,D001,Oncology,474.43,Yes,A-,Fair,Medium,105,Deteriorated,Keep throughout dog consumer indicate move rest set amount from sit.,172.27,2023-01-31,49.83
+431,59,Male,2023-11-26,Leukemia,Chemotherapy,D018,Oncology,331.97,No,O+,Good,Low,75,Improved,During color newspaper better assume produce understand book win will season.,164.14,2022-11-11,8.67
+430,33,Male,2024-01-03,Lymphoma,Surgery,D018,Oncology,415.77,No,A+,Serious,Low,15,Deteriorated,Old stock approach hand middle amount reflect experience.,122.1,2023-10-02,19.41
+429,22,Female,2023-11-06,Heart Disease,Therapy,D001,Cardiology,168.0,Yes,O-,Critical,Low,60,Deteriorated,Range old style along take certainly way father wrong.,135.26,2023-02-02,3.18
+428,0,Female,2024-03-19,Hypertension,Medication,D009,Cardiology,655.13,No,O+,Critical,Low,15,Stable,Protect brother beautiful oil father month international glass.,184.54,2023-11-23,28.05
+427,21,Female,2024-05-02,Asthma,Chemotherapy,D014,Pediatrics,859.25,Yes,O+,Fair,High,45,Deteriorated,Citizen operation Republican trade people do power start war quite baby decide.,165.67,2023-03-16,24.88
+426,27,Male,2023-09-12,Osteoporosis,Therapy,D006,Orthopedics,120.96,No,O+,Fair,Medium,120,Stable,Exist even pass however southern Mr behavior fly yeah until talk half painting.,150.3,2023-04-10,9.2
+425,48,Male,2024-06-30,Asthma,Chemotherapy,D016,Pediatrics,812.68,No,O+,Good,High,30,Improved,Question those audience leg none realize.,179.76,2022-10-12,48.69
+424,37,Male,2023-11-28,Parkinson's,Chemotherapy,D013,Neurology,892.46,Yes,B-,Serious,High,90,Stable,Treatment anyone lead cut economy time rather.,156.2,2023-11-18,25.46
+423,23,Male,2024-04-14,Fracture,Medication,D018,Orthopedics,776.93,No,AB+,Critical,Low,120,Improved,Western response leader set new left establish safe speech much same.,95.02,2023-08-31,6.27
+422,13,Female,2024-06-01,Hypertension,Chemotherapy,D005,Cardiology,698.89,Yes,AB-,Good,Medium,30,Deteriorated,So say study plant tend firm everything reflect.,144.0,2022-12-09,27.2
+421,24,Female,2024-05-26,Migraine,Medication,D007,Neurology,566.16,No,O+,Critical,High,15,Improved,Account upon society real many personal reality.,195.4,2023-07-15,56.49
+420,66,Female,2024-02-16,Osteoporosis,Chemotherapy,D012,Orthopedics,550.0,Yes,A-,Fair,Medium,120,Improved,Foot finally end rock as personal reflect answer final yourself same we.,199.76,2023-02-06,24.51
+419,2,Female,2023-09-21,Leukemia,Surgery,D004,Oncology,295.53,Yes,O+,Critical,High,90,Stable,His interest enough treatment indeed industry wait similar son audience paper point window.,118.25,2022-12-04,19.97
+418,60,Female,2024-07-31,Arrhythmia,Therapy,D009,Cardiology,833.68,No,O+,Critical,Medium,60,Stable,Machine change line close claim painting company new.,169.78,2023-02-09,11.52
+417,21,Female,2023-12-29,Migraine,Medication,D005,Neurology,869.96,Yes,B+,Serious,Low,120,Deteriorated,Young take dark race according suggest economic meet kind.,109.52,2023-10-31,22.09
+416,12,Female,2023-09-04,Asthma,Medication,D013,Pediatrics,172.95,No,O-,Fair,Low,105,Stable,Sell organization eight direction live receive hear special program make world write.,89.28,2023-05-28,13.47
+415,20,Female,2023-08-28,Asthma,Therapy,D019,Pediatrics,400.73,Yes,O-,Good,High,45,Improved,Radio brother give who rest talk example remain group event Democrat special.,171.78,2023-08-06,19.07
+414,21,Male,2024-04-13,Cancer,Therapy,D005,Oncology,597.17,Yes,AB+,Fair,High,90,Improved,Mean sea subject fact way particularly.,101.9,2023-02-15,14.29
+413,26,Female,2024-04-08,Asthma,Surgery,D016,Pediatrics,148.7,No,B+,Critical,High,75,Deteriorated,Small space member lawyer sometimes capital matter character sign year game five indeed.,152.31,2023-12-13,44.94
+412,21,Male,2024-07-07,Leukemia,Surgery,D009,Oncology,519.37,Yes,O-,Fair,Medium,45,Stable,Could almost live half sit treat lead.,132.0,2023-09-23,38.15
+411,51,Female,2024-04-12,Migraine,Surgery,D010,Neurology,214.71,No,O-,Good,Low,75,Stable,Late condition reach new five food safe check available recently conference activity.,81.34,2024-01-17,4.42
+410,69,Female,2024-04-07,Osteoporosis,Chemotherapy,D015,Orthopedics,661.31,No,O-,Fair,High,30,Improved,Dream reveal new administration place stay have lawyer do.,141.66,2023-06-23,22.82
+409,23,Male,2023-08-22,Arrhythmia,Therapy,D006,Cardiology,353.32,No,B+,Critical,Medium,90,Stable,Blue per well himself find foot two open entire.,180.91,2023-08-21,39.41
+408,59,Male,2024-02-12,Fracture,Surgery,D012,Orthopedics,274.26,Yes,A-,Serious,Low,45,Improved,And weight traditional head gas hold increase exactly.,160.1,2023-11-05,7.2
+407,29,Male,2024-07-18,Lymphoma,Therapy,D006,Oncology,194.66,Yes,B-,Fair,Low,45,Stable,Real end shake current beyond style let painting item course these.,157.12,2023-10-18,38.58
+406,40,Male,2024-08-07,Arrhythmia,Medication,D019,Cardiology,423.59,No,A-,Serious,High,120,Deteriorated,Close another whatever once who control common.,106.25,2023-11-24,11.31
+405,69,Female,2024-07-22,Cystic Fibrosis,Therapy,D007,Pediatrics,878.84,No,AB+,Good,High,120,Stable,College into I language black only onto stage however.,190.43,2024-03-05,54.71
+404,15,Male,2024-05-12,Hypertension,Therapy,D015,Cardiology,658.32,No,O+,Fair,Medium,30,Improved,Human green compare improve couple family whether skin.,165.12,2023-06-11,19.85
+403,57,Female,2024-06-09,Parkinson's,Therapy,D019,Neurology,946.19,Yes,A+,Good,Low,105,Deteriorated,Edge affect body raise space yeah near PM around ready.,142.04,2024-05-12,33.57
+402,36,Male,2024-06-22,Osteoporosis,Therapy,D012,Orthopedics,938.49,Yes,O-,Good,Medium,120,Stable,More perhaps box according Mrs song court.,128.69,2024-06-14,22.64
+401,42,Male,2024-06-09,Fracture,Chemotherapy,D007,Orthopedics,959.23,No,B-,Good,High,30,Stable,Staff blue dinner pressure rest order money.,112.7,2022-10-04,13.4
+400,9,Female,2024-01-08,Arthritis,Therapy,D019,Orthopedics,434.02,No,A+,Good,Medium,90,Deteriorated,Send city ground agree appear car law front daughter chance someone tax soon.,176.89,2022-08-27,42.68
+399,6,Female,2023-10-29,Leukemia,Medication,D014,Oncology,365.26,No,B+,Fair,Low,90,Improved,Partner trade feel discuss coach Congress inside turn entire.,191.49,2022-12-12,12.07
+398,51,Male,2024-02-12,Migraine,Therapy,D002,Neurology,543.16,Yes,A-,Critical,Medium,75,Deteriorated,Great throughout majority when whom main like.,154.59,2024-02-05,26.89
+397,19,Male,2024-07-18,Asthma,Medication,D002,Pediatrics,166.21,No,B+,Serious,Medium,60,Deteriorated,Reduce subject seat likely Mrs keep piece financial attention player hard security.,108.7,2023-01-30,19.17
+396,29,Male,2024-05-13,Epilepsy,Medication,D010,Neurology,763.82,No,O+,Good,High,45,Deteriorated,Include soon buy sea movement air choice yard director perform.,184.87,2023-05-18,29.84
+395,43,Female,2024-04-08,Lymphoma,Therapy,D002,Oncology,202.4,No,AB-,Good,Medium,60,Stable,Threat what say evening particular arrive movement old manager customer picture friend.,102.64,2023-07-21,20.12
+394,41,Male,2023-12-03,Hypertension,Chemotherapy,D012,Cardiology,671.18,No,A+,Critical,Low,105,Improved,Them entire across letter science guy item share system wrong.,103.0,2023-07-01,1.51
+393,90,Female,2024-02-27,Leukemia,Surgery,D010,Oncology,910.23,No,B+,Good,Medium,90,Stable,Truth nothing democratic off trouble figure.,92.62,2023-09-19,10.53
+392,68,Male,2024-06-06,Chickenpox,Surgery,D014,Pediatrics,531.45,Yes,B+,Good,Low,15,Deteriorated,Beautiful bed letter feeling not magazine success car appear blue inside.,170.27,2022-11-24,33.2
+391,22,Male,2024-06-25,Migraine,Surgery,D020,Neurology,492.44,No,O+,Critical,Low,105,Improved,Current cold discover art actually future your service.,82.08,2024-03-15,12.76
+390,26,Female,2024-04-02,Arrhythmia,Surgery,D008,Cardiology,208.03,No,AB-,Critical,High,105,Improved,Part price become TV attorney note reach live position remember up.,199.45,2022-10-14,22.7
+389,42,Female,2024-02-18,Cancer,Chemotherapy,D005,Oncology,224.8,Yes,A+,Serious,Low,30,Stable,Ability fill avoid eat whether house according professor half reason project general.,179.41,2024-02-06,21.22
+388,23,Male,2024-07-23,Epilepsy,Medication,D004,Neurology,661.31,Yes,AB+,Critical,Medium,120,Improved,Mean current represent whether different minute feeling prepare foreign right our.,126.4,2023-01-28,7.77
+387,37,Male,2024-01-11,Asthma,Medication,D004,Pediatrics,846.42,Yes,AB-,Critical,Low,75,Deteriorated,Hear out wish your total your peace.,106.01,2022-10-24,12.26
+386,38,Female,2024-03-17,Hypertension,Medication,D015,Cardiology,402.67,Yes,O+,Critical,Medium,60,Improved,Treat do show decision today friend certain lose consumer to half reason rest.,123.12,2023-09-02,10.36
+385,66,Male,2023-09-10,Cancer,Surgery,D011,Oncology,915.99,No,B-,Good,Medium,60,Stable,Minute key care red majority last network produce down Mr hold.,87.33,2023-06-23,23.17
+384,29,Female,2023-08-26,Chickenpox,Surgery,D011,Pediatrics,787.93,Yes,AB-,Serious,Low,45,Improved,Front fine bar rich despite sit risk her which.,159.66,2023-01-14,15.42
+383,64,Female,2023-09-28,Fracture,Surgery,D014,Orthopedics,606.2,Yes,O-,Serious,Low,60,Improved,Ground than state north former leader debate.,80.34,2023-08-12,21.74
+382,23,Male,2024-05-15,Leukemia,Surgery,D012,Oncology,782.04,Yes,AB-,Fair,High,75,Improved,Oil total course dark painting explain single computer general answer.,106.43,2022-12-24,26.09
+381,17,Male,2024-03-24,Asthma,Surgery,D020,Pediatrics,369.36,No,A-,Serious,Medium,90,Stable,Nice customer low pick growth present tell poor performance.,194.48,2022-12-09,42.08
+380,70,Male,2024-08-09,Cystic Fibrosis,Medication,D016,Pediatrics,195.6,No,B-,Serious,Medium,45,Improved,Leave no discover then then mission amount effect.,153.43,2024-01-12,1.92
+379,70,Female,2024-02-05,Parkinson's,Therapy,D016,Neurology,677.53,No,O-,Serious,High,30,Improved,Perhaps stand raise imagine allow realize if land eat.,131.62,2022-11-18,3.56
+378,27,Male,2023-09-10,Cystic Fibrosis,Surgery,D016,Pediatrics,552.36,No,A-,Serious,Medium,60,Stable,Only term husband hope cost poor PM once huge stay Republican difference item.,187.61,2023-08-18,40.76
+377,27,Male,2024-07-12,Asthma,Therapy,D019,Pediatrics,892.85,No,A+,Serious,Low,120,Deteriorated,Every unit important interest pretty popular good house us effect so lead commercial.,185.63,2023-12-30,37.11
+376,60,Female,2024-03-12,Hypertension,Medication,D018,Cardiology,311.7,Yes,O+,Fair,Low,120,Deteriorated,Fish let place green suffer part agent particular of lose learn perform.,135.42,2023-06-04,34.07
+375,28,Female,2024-02-14,Arthritis,Surgery,D008,Orthopedics,894.01,No,AB+,Critical,Medium,30,Deteriorated,Item no head food show commercial whom family.,85.96,2022-11-15,12.28
+374,20,Female,2024-07-26,Arrhythmia,Medication,D019,Cardiology,133.91,Yes,AB-,Fair,Low,120,Improved,Sister daughter local white between here she rich.,163.37,2022-09-21,23.27
+373,27,Male,2023-12-05,Migraine,Therapy,D019,Neurology,254.49,Yes,O+,Fair,Medium,45,Deteriorated,Month woman hit back writer water friend everyone age so employee.,199.52,2023-06-27,50.83
+372,38,Female,2023-10-04,Fracture,Surgery,D020,Orthopedics,736.57,No,AB-,Serious,High,60,Improved,Lawyer necessary new plan card good discuss black.,176.17,2023-03-03,51.18
+371,25,Female,2024-07-31,Cystic Fibrosis,Medication,D005,Pediatrics,408.47,Yes,A-,Serious,Medium,75,Stable,Item model plan number teacher democratic.,138.89,2024-07-08,24.62
+370,36,Female,2024-05-11,Leukemia,Medication,D001,Oncology,749.74,No,O-,Good,Medium,30,Improved,Forget share safe professional history specific stage wait piece.,103.38,2023-02-02,3.51
+369,27,Female,2024-04-13,Leukemia,Chemotherapy,D002,Oncology,962.0,Yes,B+,Fair,High,90,Improved,During shoulder smile stuff few final travel bed about project hold try reveal.,98.25,2023-08-30,22.61
+368,18,Male,2024-06-20,Osteoporosis,Surgery,D010,Orthopedics,598.06,Yes,O-,Good,Medium,60,Stable,Most whole check technology training general indeed billion dinner center wife produce chair.,157.17,2023-10-31,5.27
+367,35,Male,2024-03-20,Fracture,Chemotherapy,D019,Orthopedics,389.53,Yes,AB+,Good,High,90,Stable,Operation town increase how painting cell money run summer several around some.,153.55,2023-10-21,7.02
+366,38,Female,2024-04-03,Parkinson's,Medication,D001,Neurology,807.58,Yes,O+,Critical,Medium,105,Deteriorated,Deal boy life something shake along attorney than policy.,189.76,2023-02-26,17.85
+365,20,Female,2023-11-29,Osteoporosis,Surgery,D005,Orthopedics,984.34,No,O-,Fair,High,30,Stable,Executive tree not than condition develop ready.,123.34,2023-04-16,36.31
+364,75,Male,2023-10-26,Chickenpox,Medication,D016,Pediatrics,404.25,No,AB+,Good,Medium,15,Deteriorated,And action discussion across also better including story every.,104.7,2022-10-23,27.3
+363,32,Male,2023-10-02,Arthritis,Therapy,D013,Orthopedics,130.34,Yes,B-,Fair,Medium,60,Deteriorated,Never game meet artist next could dog.,181.5,2022-12-07,7.49
+362,35,Female,2023-12-23,Epilepsy,Medication,D008,Neurology,211.66,No,AB+,Good,Medium,60,Deteriorated,Order door approach crime us young movement federal majority forget wrong.,160.05,2022-11-14,9.04
+361,30,Female,2024-04-01,Asthma,Therapy,D002,Pediatrics,921.98,Yes,A+,Critical,Low,105,Stable,Become music personal because research leg every simple lay.,85.05,2023-01-24,22.22
+360,57,Female,2024-05-23,Epilepsy,Therapy,D014,Neurology,762.59,No,A+,Good,Low,45,Stable,Only early stay buy authority any degree leader me.,104.26,2023-04-16,29.97
+359,3,Male,2023-11-19,Hypertension,Chemotherapy,D007,Cardiology,583.99,No,A-,Good,High,90,Deteriorated,Audience still recent two response after protect provide commercial dream according.,123.13,2023-10-03,13.42
+358,20,Female,2024-08-17,Asthma,Surgery,D007,Pediatrics,301.55,Yes,AB-,Fair,Low,105,Stable,Thus parent three range gun space movement wish.,146.2,2023-08-14,37.96
+357,13,Female,2024-03-31,Migraine,Therapy,D006,Neurology,942.39,Yes,B-,Fair,High,15,Improved,Area thought store culture interest very whatever rate get than still radio.,99.82,2022-10-01,8.98
+356,86,Female,2024-07-09,Cancer,Surgery,D003,Oncology,519.86,No,AB+,Fair,High,90,Deteriorated,Mr pressure system usually group fear amount share.,112.29,2023-01-28,9.49
+355,58,Male,2024-01-18,Chickenpox,Medication,D019,Pediatrics,890.83,No,O+,Fair,Low,60,Deteriorated,Purpose themselves suddenly let bank tree task late response might deep.,94.97,2023-07-20,1.78
+354,14,Male,2023-09-24,Cancer,Chemotherapy,D004,Oncology,335.52,Yes,AB+,Serious,Medium,120,Deteriorated,Already difference early accept well area interest direction.,184.61,2023-02-11,39.47
+353,36,Male,2024-06-20,Chickenpox,Chemotherapy,D015,Pediatrics,394.92,Yes,B+,Good,High,105,Deteriorated,Hair dog change mission front his cold word sell value also law.,191.5,2024-02-26,3.86
+352,25,Female,2024-07-17,Parkinson's,Medication,D011,Neurology,693.14,No,A-,Fair,High,120,Deteriorated,Commercial show difference else question in.,163.96,2023-01-27,36.87
+351,47,Male,2023-12-12,Arrhythmia,Surgery,D020,Cardiology,758.31,Yes,O-,Fair,High,15,Improved,Too popular most property fill center arrive enter as remember natural finally forget.,94.74,2023-10-10,14.78
+350,62,Female,2024-04-18,Asthma,Medication,D005,Pediatrics,897.39,No,B+,Good,Low,60,Stable,Pattern region stock physical three campaign really hour federal life glass.,102.14,2023-08-10,26.02
+349,30,Male,2024-04-14,Arthritis,Medication,D015,Orthopedics,672.76,No,AB+,Serious,High,90,Improved,Point evening result hotel method develop mean south radio.,177.67,2023-01-27,49.99
+348,55,Female,2023-10-09,Asthma,Surgery,D019,Pediatrics,596.11,No,B-,Serious,Medium,75,Deteriorated,Son fact herself according near have alone affect box outside forward century hair.,186.26,2022-11-10,32.02
+347,23,Female,2023-09-04,Chickenpox,Medication,D018,Pediatrics,141.3,Yes,O-,Serious,Low,15,Improved,Month civil development plant eight their suffer site.,145.68,2023-06-28,17.41
+346,17,Male,2024-05-18,Arthritis,Chemotherapy,D018,Orthopedics,675.59,No,O+,Good,High,90,Deteriorated,Win sea window piece add throughout short soldier theory deep base better career notice.,85.2,2024-01-10,7.05
+345,17,Female,2024-02-16,Arthritis,Chemotherapy,D019,Orthopedics,808.58,No,B+,Good,Low,45,Deteriorated,Citizen defense carry meet popular change record.,156.88,2023-10-09,3.38
+344,28,Male,2024-07-10,Arrhythmia,Surgery,D006,Cardiology,892.45,No,B-,Serious,Low,120,Stable,Many store why down cold firm argue relate contain summer maybe follow court.,124.45,2022-10-20,5.87
+343,55,Male,2024-03-21,Leukemia,Chemotherapy,D010,Oncology,167.02,Yes,AB-,Fair,Low,120,Stable,Week story challenge note book tell investment box owner design same dog.,189.83,2023-04-12,35.95
+342,21,Male,2023-09-27,Leukemia,Medication,D018,Oncology,643.64,No,AB+,Serious,Medium,75,Deteriorated,These table work project inside choose point.,172.46,2023-04-18,51.28
+341,26,Female,2024-06-12,Parkinson's,Surgery,D012,Neurology,455.02,No,AB-,Fair,Medium,120,Improved,Sister travel article hour run Mr court student leave range technology fight.,139.06,2023-11-10,40.81
+340,30,Male,2024-07-07,Cancer,Medication,D012,Oncology,508.24,Yes,A+,Critical,Medium,30,Improved,Any join agree open some he budget something.,83.34,2022-09-21,24.81
+339,45,Female,2023-09-18,Asthma,Chemotherapy,D007,Pediatrics,351.29,No,B-,Serious,Medium,120,Deteriorated,Response interview each physical one gas begin to.,122.59,2023-02-23,18.93
+338,46,Male,2023-08-21,Leukemia,Therapy,D010,Oncology,900.23,No,O-,Good,Low,90,Deteriorated,Government suggest bank loss tend easy open down these rise unit team.,116.75,2022-10-17,29.74
+337,52,Male,2024-08-11,Arthritis,Medication,D004,Orthopedics,266.65,Yes,AB-,Serious,Medium,45,Stable,System beat open theory record play one level to charge.,100.0,2024-04-05,12.33
+336,33,Male,2023-10-12,Parkinson's,Chemotherapy,D018,Neurology,179.52,Yes,A+,Good,High,120,Improved,Worry we drug radio lay fast wife know.,170.84,2023-08-18,25.6
+335,70,Male,2023-12-06,Heart Disease,Chemotherapy,D019,Cardiology,504.02,No,O+,Serious,High,90,Improved,Already century another inside include me break feeling dog risk six information.,171.22,2023-11-28,23.92
+334,25,Female,2023-11-29,Leukemia,Medication,D015,Oncology,910.51,No,B+,Critical,High,60,Stable,Guy hard already minute paper new different morning value store memory wonder health.,180.04,2023-02-02,2.03
+333,15,Male,2023-09-20,Arthritis,Surgery,D020,Orthopedics,869.79,No,O-,Good,Low,120,Deteriorated,Subject school drop popular course resource information life I.,139.0,2023-01-24,25.92
+332,13,Male,2024-06-10,Lymphoma,Therapy,D012,Oncology,587.19,No,A-,Good,Medium,60,Deteriorated,Send blue conference operation place senior certainly can.,196.78,2022-11-27,19.7
+331,23,Female,2024-05-28,Parkinson's,Chemotherapy,D008,Neurology,234.44,Yes,AB+,Serious,Medium,45,Improved,Public never third station billion three.,117.99,2023-02-16,26.67
+330,9,Male,2024-05-03,Osteoporosis,Medication,D017,Orthopedics,648.54,Yes,AB-,Critical,High,15,Improved,Group attack president true only show avoid then lawyer democratic.,183.76,2023-06-04,25.11
+329,12,Male,2023-12-01,Chickenpox,Surgery,D014,Pediatrics,436.76,Yes,A-,Critical,Low,120,Stable,Do teach art watch bar spring high yeah successful evening foot table.,188.15,2023-04-09,20.05
+328,37,Male,2024-05-02,Cancer,Chemotherapy,D016,Oncology,713.73,No,AB-,Serious,Low,60,Stable,Civil forward boy officer southern week two.,165.1,2023-04-29,23.08
+327,40,Female,2023-10-18,Parkinson's,Medication,D012,Neurology,855.73,No,O-,Critical,Low,15,Stable,Contain fall opportunity region example feel poor hair significant.,92.91,2023-06-17,8.38
+326,54,Male,2024-02-15,Arthritis,Therapy,D018,Orthopedics,354.4,No,B+,Fair,Low,120,Deteriorated,Impact ground sport body pass share here I evening million air.,96.06,2023-09-30,17.55
+325,15,Female,2024-05-28,Migraine,Surgery,D013,Neurology,999.97,Yes,B-,Fair,Medium,60,Improved,Tend large should sport produce over involve technology market quite operation quality.,97.35,2024-02-19,11.28
+324,33,Female,2024-04-19,Parkinson's,Therapy,D005,Neurology,625.41,Yes,A+,Good,Low,75,Improved,Majority determine require owner study enough see single prevent.,99.74,2023-07-21,16.88
+323,15,Female,2023-10-03,Leukemia,Therapy,D005,Oncology,974.52,No,A+,Serious,Low,90,Improved,Traditional lay represent special while give end open place.,171.78,2023-04-04,18.32
+322,34,Male,2023-09-02,Osteoporosis,Medication,D010,Orthopedics,571.5,Yes,B+,Good,Low,105,Deteriorated,Move analysis either realize wide media.,103.84,2023-04-30,13.06
+321,45,Female,2024-03-18,Osteoporosis,Surgery,D010,Orthopedics,377.04,Yes,A-,Fair,Low,15,Stable,Trouble describe air black fund card.,142.99,2022-09-10,38.38
+320,27,Male,2023-11-29,Asthma,Chemotherapy,D014,Pediatrics,843.6,No,AB-,Critical,Medium,45,Stable,Process apply western upon language meet no suddenly keep.,147.39,2023-04-13,36.64
+319,27,Male,2023-10-02,Heart Disease,Therapy,D009,Cardiology,176.29,Yes,B+,Fair,Medium,60,Stable,Base together opportunity keep these couple happy speak true.,191.36,2023-06-25,23.69
+318,36,Female,2023-09-25,Epilepsy,Chemotherapy,D005,Neurology,256.27,No,O+,Critical,Low,60,Improved,Music bed approach usually investment military low add night end north.,150.31,2023-08-02,28.97
+317,45,Male,2024-07-08,Arthritis,Therapy,D018,Orthopedics,711.27,Yes,A-,Serious,Low,105,Deteriorated,Less forget truth former time sure own public without foreign.,80.4,2023-08-26,6.74
+316,24,Male,2024-06-26,Asthma,Chemotherapy,D011,Pediatrics,397.14,Yes,B+,Fair,Low,90,Improved,Red all need with soldier nature community use until black another such after.,119.86,2023-05-31,20.32
+315,65,Male,2024-03-20,Heart Disease,Chemotherapy,D019,Cardiology,775.53,No,AB+,Good,Low,15,Stable,Shake writer huge buy trouble deal interview himself.,180.13,2024-01-11,8.52
+314,72,Male,2024-01-31,Migraine,Medication,D015,Neurology,650.53,No,B-,Fair,Low,90,Stable,Every generation case budget defense take similar.,171.72,2023-01-15,38.62
+313,49,Female,2024-02-14,Epilepsy,Chemotherapy,D013,Neurology,661.74,Yes,A+,Serious,Medium,120,Stable,Perhaps me nothing black now including participant test attorney within difference among quite.,105.83,2023-06-18,22.49
+312,55,Male,2023-12-19,Osteoporosis,Surgery,D003,Orthopedics,187.02,No,O+,Good,High,45,Deteriorated,Second story education ball gas serious computer fly main approach learn political.,135.97,2023-08-14,35.38
+311,46,Female,2024-03-23,Lymphoma,Medication,D007,Oncology,291.03,Yes,AB-,Good,Medium,120,Stable,Smile billion lay office either voice whatever too avoid different scene.,144.26,2024-03-14,24.96
+310,25,Male,2023-08-27,Fracture,Surgery,D007,Orthopedics,137.42,No,B-,Fair,High,120,Deteriorated,Know cover law customer until executive child what region hour pick.,156.17,2023-02-11,20.62
+309,41,Male,2024-08-17,Lymphoma,Chemotherapy,D008,Oncology,485.32,Yes,A+,Critical,High,15,Deteriorated,Claim participant less table assume article chair behavior interest.,180.62,2023-03-21,8.41
+308,25,Male,2024-08-07,Epilepsy,Chemotherapy,D010,Neurology,777.81,No,AB+,Critical,High,105,Stable,Improve organization write conference enter detail big control health.,85.05,2023-08-30,12.79
+307,16,Female,2024-01-03,Parkinson's,Chemotherapy,D002,Neurology,998.14,Yes,O-,Serious,Medium,45,Improved,Rule see politics bad race least discuss look scientist catch notice reveal picture.,90.4,2023-10-29,12.04
+306,3,Male,2024-06-20,Parkinson's,Therapy,D001,Neurology,520.66,Yes,O-,Critical,Low,120,Improved,Unit how forward future maintain until nor expect week.,93.68,2024-03-03,26.83
+305,75,Female,2024-05-01,Epilepsy,Chemotherapy,D002,Neurology,496.12,No,B-,Fair,Medium,120,Improved,Level player over well under age such future fire some save behavior ask.,154.72,2024-03-25,44.31
+304,62,Female,2024-08-06,Cancer,Medication,D019,Oncology,802.27,Yes,O+,Serious,Low,90,Deteriorated,Yet enter attention back full money sister information road office article amount.,156.09,2023-04-21,6.27
+303,72,Female,2024-08-11,Leukemia,Surgery,D011,Oncology,271.1,No,O+,Serious,Low,120,Deteriorated,Need improve unit get we try food seven under indeed chair region during.,106.77,2023-06-16,5.13
+302,52,Male,2023-12-16,Lymphoma,Surgery,D008,Oncology,759.96,Yes,B+,Critical,Medium,60,Stable,Million knowledge economic leader education suffer dog over poor front necessary particularly degree.,108.97,2023-01-26,4.84
+301,75,Female,2024-03-26,Parkinson's,Chemotherapy,D020,Neurology,368.81,No,AB+,Fair,Low,30,Deteriorated,Buy more bill production be traditional message surface whole everything hand will.,178.6,2023-06-08,31.66
+300,60,Female,2024-06-22,Lymphoma,Chemotherapy,D020,Oncology,754.24,Yes,A-,Fair,Low,15,Improved,Own during nor paper focus miss not life right outside ability.,126.79,2023-07-23,32.77
+299,28,Female,2023-10-15,Parkinson's,Therapy,D004,Neurology,450.64,Yes,O+,Good,High,60,Deteriorated,Major present water indeed often national.,80.22,2022-10-10,10.61
+298,43,Male,2023-09-06,Cystic Fibrosis,Chemotherapy,D007,Pediatrics,981.25,No,AB-,Fair,High,90,Deteriorated,So million woman region behind fly decade week southern need relationship.,190.41,2022-09-04,6.23
+297,21,Male,2023-09-17,Heart Disease,Therapy,D017,Cardiology,191.74,No,A-,Serious,Medium,105,Stable,Data teacher point beyond change wonder including attorney social page degree near.,162.52,2023-06-11,5.61
+296,72,Male,2024-05-24,Epilepsy,Chemotherapy,D003,Neurology,189.64,Yes,O-,Fair,High,15,Improved,Result herself level manager production sit summer past leg take little author.,94.2,2023-07-12,27.4
+295,24,Male,2024-02-03,Hypertension,Chemotherapy,D003,Cardiology,128.76,Yes,O+,Good,High,75,Stable,Former part important find property hard black last.,103.89,2023-06-01,24.44
+294,53,Female,2024-04-06,Epilepsy,Chemotherapy,D001,Neurology,748.59,No,AB-,Critical,Low,45,Improved,Recently skill degree husband that nearly way job food itself.,91.57,2023-09-06,21.1
+293,77,Female,2024-05-19,Epilepsy,Medication,D018,Neurology,504.12,Yes,O+,Serious,Medium,120,Improved,Share lead someone wrong little pull type few star suffer.,161.76,2023-01-01,41.5
+292,37,Male,2024-04-19,Hypertension,Therapy,D005,Cardiology,528.45,Yes,A-,Serious,Low,45,Stable,Allow tough chair right deep nothing machine pressure say become.,144.15,2023-04-28,18.08
+291,45,Male,2024-06-20,Chickenpox,Medication,D020,Pediatrics,259.01,No,AB-,Fair,Low,75,Stable,Modern fire specific stand affect ago unit gun.,134.52,2024-03-18,5.65
+290,49,Male,2024-08-10,Epilepsy,Medication,D016,Neurology,126.67,Yes,B+,Good,Medium,45,Stable,President information woman present including something.,125.12,2023-07-25,18.79
+289,31,Male,2024-06-27,Cystic Fibrosis,Medication,D020,Pediatrics,276.7,Yes,O+,Critical,Medium,15,Deteriorated,Certainly serious expert project oil anyone yard consider guess.,178.03,2024-04-27,39.44
+288,39,Male,2024-07-30,Heart Disease,Medication,D016,Cardiology,350.59,No,A+,Fair,Medium,75,Stable,On network administration couple successful international tonight system according skill seem man.,183.63,2022-12-13,40.99
+287,34,Female,2024-01-02,Arthritis,Chemotherapy,D015,Orthopedics,743.14,Yes,B-,Serious,High,120,Deteriorated,Game fall politics government analysis move ago decision reality.,186.86,2022-10-29,43.14
+286,79,Female,2023-12-15,Cancer,Surgery,D016,Oncology,212.31,No,AB+,Critical,Medium,120,Improved,Near industry car second southern reality item series.,101.67,2023-02-21,2.83
+285,87,Female,2023-08-25,Fracture,Chemotherapy,D007,Orthopedics,315.87,Yes,B+,Fair,High,90,Stable,Should partner movement performance both him morning whole local care large agent option.,151.49,2023-03-10,35.99
+284,67,Female,2024-01-11,Epilepsy,Medication,D020,Neurology,998.87,Yes,AB+,Good,Medium,105,Deteriorated,My many woman interest wrong clearly.,182.03,2022-12-10,7.12
+283,51,Male,2024-03-02,Arrhythmia,Surgery,D003,Cardiology,503.57,Yes,A-,Serious,High,15,Improved,Commercial tax lose everyone education community street floor.,179.06,2023-10-07,29.52
+282,52,Male,2024-08-10,Arthritis,Surgery,D016,Orthopedics,427.21,No,B+,Fair,High,30,Stable,Subject possible claim others course exactly movie phone should anyone number.,114.82,2023-09-01,32.09
+281,35,Female,2024-07-31,Migraine,Chemotherapy,D012,Neurology,955.36,Yes,A-,Serious,Low,105,Improved,Environment into now nation north walk consider probably discover sure account stay.,196.65,2023-12-30,46.82
+280,67,Male,2023-08-28,Cancer,Surgery,D014,Oncology,897.52,Yes,AB-,Critical,Medium,75,Improved,Reveal without husband service why along boy painting way actually although.,106.94,2023-02-07,5.45
+279,28,Female,2023-11-12,Chickenpox,Surgery,D016,Pediatrics,469.66,Yes,O-,Critical,High,60,Deteriorated,Public shoulder kid service art bar forward into natural pressure other enough leg.,196.4,2023-10-12,17.99
+278,69,Male,2024-03-17,Fracture,Medication,D010,Orthopedics,367.98,Yes,AB-,Good,High,75,Improved,Hope those who inside hit drug standard table laugh image ago since.,115.97,2023-06-14,1.7
+277,23,Male,2024-08-06,Asthma,Chemotherapy,D007,Pediatrics,152.24,No,B-,Critical,Low,45,Improved,Wrong worry once which much development environmental son water this skin yourself.,95.79,2024-02-06,17.21
+276,47,Male,2024-08-11,Fracture,Therapy,D007,Orthopedics,939.4,Yes,AB+,Critical,Low,15,Improved,Plan most he likely show base.,166.14,2022-10-23,48.89
+275,3,Female,2023-10-30,Arrhythmia,Medication,D003,Cardiology,823.88,No,B+,Critical,Low,60,Improved,Size feeling best discuss produce environment approach floor certain money.,135.43,2023-09-08,6.48
+274,31,Male,2024-01-28,Arthritis,Therapy,D006,Orthopedics,330.34,Yes,AB-,Serious,Medium,30,Improved,Picture simply certain democratic race five single write each near.,114.25,2022-10-19,27.65
+273,54,Male,2023-09-26,Cancer,Chemotherapy,D010,Oncology,609.68,No,A+,Good,Medium,90,Improved,Activity professor president mother commercial score Democrat.,114.92,2023-05-15,9.46
+272,12,Female,2024-06-19,Cancer,Medication,D010,Oncology,484.26,No,AB-,Critical,High,105,Deteriorated,Hospital detail order guy American teach few run become teach peace away recent.,104.05,2023-05-13,29.25
+271,27,Female,2023-10-14,Arthritis,Surgery,D018,Orthopedics,507.8,Yes,A-,Fair,High,60,Stable,Example all structure east even different.,139.11,2023-05-07,28.99
+270,62,Male,2023-11-26,Parkinson's,Surgery,D014,Neurology,593.55,No,B-,Good,Medium,120,Stable,Including pass small everyone impact close I name even.,125.25,2023-02-07,18.38
+269,34,Female,2024-03-31,Chickenpox,Surgery,D016,Pediatrics,361.66,Yes,B+,Critical,Medium,90,Stable,Eat wonder happen scene everybody break student mother trial short.,133.04,2024-01-22,37.9
+268,6,Male,2024-07-07,Cystic Fibrosis,Medication,D015,Pediatrics,878.56,No,B+,Good,Medium,30,Improved,Mention business live perform road member music catch cup focus material go.,109.02,2024-03-02,27.65
+267,38,Female,2023-12-02,Osteoporosis,Surgery,D011,Orthopedics,436.2,No,B-,Fair,High,30,Improved,Now so religious minute could dinner between candidate issue third speech.,149.82,2022-10-09,43.75
+266,79,Female,2024-03-17,Heart Disease,Chemotherapy,D001,Cardiology,461.82,Yes,AB-,Fair,Low,75,Stable,Can describe cost board yet realize amount.,109.06,2024-03-15,9.36
+265,12,Female,2024-07-17,Cancer,Chemotherapy,D005,Oncology,472.89,No,AB-,Critical,Medium,120,Stable,Good mean surface support serious argue somebody next well best.,186.39,2023-06-13,33.98
+264,44,Female,2023-09-03,Chickenpox,Medication,D020,Pediatrics,392.88,No,AB-,Critical,Low,120,Improved,Car region subject bring suffer go.,125.81,2023-03-30,12.46
+263,85,Male,2024-06-17,Epilepsy,Chemotherapy,D008,Neurology,548.74,Yes,AB-,Fair,Low,30,Stable,Without smile history loss maybe boy financial white.,93.02,2024-03-09,1.77
+262,56,Female,2023-09-02,Parkinson's,Therapy,D009,Neurology,551.21,No,A-,Fair,Low,120,Stable,Tell draw strategy agreement write party important main personal study note process trade.,168.26,2023-03-01,3.92
+261,27,Male,2023-11-14,Parkinson's,Therapy,D008,Neurology,746.0,No,B+,Fair,High,105,Stable,Throughout world institution happen against work century.,180.85,2023-02-15,39.03
+260,53,Female,2024-02-27,Lymphoma,Therapy,D005,Oncology,191.07,No,AB-,Serious,Low,30,Improved,All scene cost discussion state citizen factor.,149.22,2023-12-18,25.65
+259,48,Female,2023-10-16,Fracture,Surgery,D011,Orthopedics,476.68,No,O-,Serious,Low,60,Stable,Catch another quickly hope economic car sing federal try evening current world.,105.61,2023-08-10,24.11
+258,22,Female,2024-02-02,Cancer,Chemotherapy,D014,Oncology,482.43,No,AB-,Critical,High,45,Improved,Service cup stock truth approach either far apply.,158.92,2023-05-11,24.87
+257,29,Female,2023-08-30,Parkinson's,Therapy,D008,Neurology,650.49,Yes,AB+,Serious,Low,15,Deteriorated,Perform political deal newspaper effort beautiful note everybody six age treat source.,110.92,2023-08-25,27.22
+256,36,Male,2023-11-04,Migraine,Surgery,D010,Neurology,296.41,No,A-,Serious,High,75,Improved,Those understand mission phone best scientist international school off whom.,176.66,2023-09-24,22.53
+255,57,Male,2023-12-15,Epilepsy,Chemotherapy,D013,Neurology,519.71,No,A-,Good,High,45,Improved,Develop various thought walk live source true near sit push can.,105.04,2023-07-14,25.7
+254,35,Female,2024-07-21,Migraine,Therapy,D017,Neurology,734.38,Yes,A-,Good,Medium,90,Deteriorated,Face budget smile where enough line cup serious which.,195.76,2023-04-07,51.36
+253,42,Female,2024-01-28,Arthritis,Therapy,D016,Orthopedics,621.94,No,B-,Critical,High,15,Stable,Garden hour them remember country common news.,180.94,2023-01-08,28.24
+252,21,Male,2024-05-31,Migraine,Surgery,D017,Neurology,409.06,Yes,B+,Serious,High,60,Stable,Affect none suggest trade very never sister husband free improve raise grow.,82.18,2022-12-01,14.58
+251,33,Male,2023-11-24,Migraine,Chemotherapy,D013,Neurology,618.54,No,B-,Good,High,75,Improved,Father fill available ten lose so agree moment page.,151.51,2022-08-29,32.3
+250,28,Female,2023-11-02,Hypertension,Surgery,D012,Cardiology,593.68,No,B-,Good,Low,105,Stable,Moment population size community traditional character name want news school every fine.,155.01,2023-04-03,24.14
+249,72,Male,2024-03-22,Lymphoma,Medication,D008,Oncology,307.83,Yes,O+,Critical,Low,90,Stable,Make daughter identify somebody candidate against I and say writer contain race.,87.4,2023-07-01,1.17
+248,10,Female,2024-05-30,Asthma,Chemotherapy,D013,Pediatrics,810.56,No,B+,Critical,High,30,Stable,Attention southern five office total evening walk different almost man thing fast.,161.99,2023-01-16,38.47
+247,51,Female,2024-04-05,Arthritis,Medication,D004,Orthopedics,284.79,Yes,A-,Critical,High,90,Stable,Per hospital possible song debate part party brother add last.,110.7,2024-03-22,8.79
+246,19,Male,2024-04-25,Arthritis,Medication,D003,Orthopedics,533.06,Yes,O+,Critical,High,15,Stable,Security parent card year practice want who news child avoid reduce agree.,198.01,2022-11-21,45.11
+245,61,Male,2024-06-05,Arthritis,Medication,D011,Orthopedics,204.72,No,AB+,Fair,Medium,60,Deteriorated,Why make eat approach story camera direction well type short drug culture voice.,155.64,2023-10-06,9.77
+244,47,Female,2024-04-04,Lymphoma,Chemotherapy,D015,Oncology,981.23,Yes,B+,Fair,Low,120,Stable,A mind on church million new too expert.,124.5,2023-06-09,4.45
+243,25,Male,2024-07-01,Lymphoma,Medication,D008,Oncology,408.91,No,B+,Fair,Medium,45,Stable,Those career at eye perhaps chance let treatment.,178.56,2024-02-09,33.37
+242,35,Female,2024-02-08,Migraine,Chemotherapy,D008,Neurology,844.22,No,AB-,Fair,Low,60,Stable,Hundred smile nice minute ground program check themselves.,139.32,2023-09-25,23.53
+241,29,Female,2024-02-28,Osteoporosis,Surgery,D010,Orthopedics,292.39,Yes,O+,Fair,High,105,Stable,Especially skill event again movement attorney above family join.,155.96,2022-10-04,19.98
+240,23,Female,2024-02-29,Osteoporosis,Therapy,D020,Orthopedics,850.67,Yes,B-,Serious,High,45,Stable,Large north know still dog article.,115.82,2023-04-08,26.27
+239,72,Female,2023-10-07,Parkinson's,Medication,D008,Neurology,504.6,No,AB+,Good,Medium,45,Improved,More easy method computer I summer note may detail.,153.36,2023-03-04,31.49
+238,7,Male,2023-08-24,Fracture,Surgery,D015,Orthopedics,828.59,Yes,A-,Critical,High,60,Improved,True artist still card stock reality stock.,83.91,2023-05-30,13.78
+237,91,Female,2023-09-30,Hypertension,Surgery,D015,Cardiology,637.39,Yes,A+,Critical,Medium,90,Stable,Above sea near necessary fact news.,88.78,2022-09-03,20.83
+236,31,Male,2023-09-27,Arthritis,Therapy,D004,Orthopedics,313.14,No,A+,Serious,High,90,Stable,Term news movement tonight rock treat perform beat national physical effect star.,160.68,2023-02-17,24.15
+235,47,Male,2023-08-30,Fracture,Medication,D014,Orthopedics,627.73,Yes,O-,Serious,Medium,90,Stable,Say pick culture point reason majority job.,171.47,2023-01-17,25.21
+234,28,Male,2024-01-01,Migraine,Medication,D012,Neurology,216.07,Yes,O-,Fair,Low,90,Deteriorated,Same feeling choose require boy shoulder same outside value forward human.,160.49,2023-09-08,41.79
+233,41,Female,2024-02-21,Lymphoma,Medication,D005,Oncology,566.97,Yes,AB-,Critical,High,105,Improved,Radio marriage big available somebody husband ground standard.,117.89,2023-02-05,13.97
+232,25,Female,2024-01-25,Fracture,Chemotherapy,D002,Orthopedics,760.13,No,B+,Critical,Medium,90,Deteriorated,Effort instead education deal artist woman education.,199.12,2022-10-18,23.95
+231,29,Male,2023-10-06,Asthma,Chemotherapy,D020,Pediatrics,201.53,No,AB+,Fair,High,75,Improved,Term interesting system trade likely heavy.,157.76,2022-09-08,19.13
+230,59,Male,2024-02-28,Osteoporosis,Surgery,D005,Orthopedics,987.74,No,A-,Fair,High,30,Deteriorated,Mr section affect eye when move speak laugh city new.,102.82,2022-10-07,2.77
+229,16,Male,2024-05-31,Fracture,Surgery,D010,Orthopedics,106.76,Yes,A+,Critical,Medium,105,Stable,Fear skill music perhaps boy gun technology.,155.63,2022-10-14,4.45
+228,94,Male,2023-08-25,Migraine,Medication,D011,Neurology,516.15,Yes,AB-,Good,High,30,Deteriorated,Year answer mission agency almost police boy truth part system billion red.,136.31,2022-10-20,25.12
+227,51,Female,2023-12-25,Epilepsy,Surgery,D017,Neurology,653.64,No,AB-,Serious,Medium,105,Stable,Teach good hold wide capital field line purpose black.,181.4,2023-11-14,38.34
+226,24,Female,2023-08-29,Leukemia,Therapy,D003,Oncology,784.81,No,B+,Serious,Low,15,Improved,Message middle both campaign force color sister identify source break process.,84.49,2023-02-07,14.75
+225,30,Female,2024-08-04,Chickenpox,Chemotherapy,D016,Pediatrics,710.13,No,AB-,Critical,Medium,120,Stable,Own we school now particular risk point.,188.1,2022-09-22,21.45
+224,24,Female,2023-09-08,Chickenpox,Chemotherapy,D010,Pediatrics,846.03,Yes,O+,Fair,High,90,Stable,Because these stage find every care stand.,182.96,2022-12-24,42.44
+223,83,Male,2023-12-08,Parkinson's,Therapy,D015,Neurology,852.51,Yes,O-,Fair,Low,30,Stable,Officer south play likely real local husband how rate discussion quality its.,198.32,2022-12-03,56.16
+222,32,Male,2023-09-06,Osteoporosis,Surgery,D006,Orthopedics,306.72,No,AB+,Fair,High,60,Improved,Set small pull moment former have message cultural friend card.,159.34,2023-03-07,24.24
+221,22,Male,2024-03-15,Migraine,Chemotherapy,D012,Neurology,349.58,Yes,B+,Serious,Medium,120,Improved,Class discussion girl painting among business miss surface citizen person industry someone.,169.92,2023-06-24,17.91
+220,89,Female,2023-12-28,Epilepsy,Therapy,D005,Neurology,607.25,Yes,A-,Serious,Low,60,Improved,Since inside never perhaps Congress around student election picture west trouble.,173.37,2023-05-12,22.28
+219,67,Female,2023-11-18,Lymphoma,Surgery,D020,Oncology,207.03,Yes,A+,Serious,Medium,45,Deteriorated,Budget hard chance often already member head share like.,180.39,2022-09-10,32.85
+218,35,Male,2024-04-20,Migraine,Surgery,D002,Neurology,738.29,No,AB-,Serious,Medium,45,Deteriorated,Heart draw stuff mean half alone.,196.65,2023-01-07,21.72
+217,28,Female,2023-10-13,Fracture,Therapy,D005,Orthopedics,407.47,Yes,O-,Serious,Low,90,Stable,In arrive make short cut significant like.,118.22,2023-04-28,32.49
+216,23,Male,2023-10-29,Arrhythmia,Therapy,D014,Cardiology,589.64,Yes,O+,Critical,Low,30,Stable,Guess certain study would describe and as million.,131.79,2022-11-06,23.03
+215,21,Male,2024-02-23,Epilepsy,Chemotherapy,D014,Neurology,361.42,No,A+,Fair,High,30,Deteriorated,And rather not star specific involve important production floor cup together.,186.81,2023-08-07,29.46
+214,52,Female,2024-01-04,Osteoporosis,Chemotherapy,D005,Orthopedics,961.31,Yes,AB-,Critical,High,60,Improved,Write lose edge know trial recent.,109.4,2022-11-13,14.2
+213,16,Female,2024-05-20,Parkinson's,Therapy,D019,Neurology,183.06,No,O+,Fair,High,105,Stable,Receive level collection suffer difference seem billion poor second pressure building late certain.,83.7,2024-02-02,6.6
+212,49,Female,2024-08-06,Cancer,Therapy,D014,Oncology,373.29,Yes,B-,Critical,Low,120,Deteriorated,Environment pay section personal several second side type.,165.26,2023-01-15,12.41
+211,52,Female,2023-09-13,Fracture,Chemotherapy,D014,Orthopedics,366.66,No,O+,Fair,Medium,75,Deteriorated,There clear relate for lot officer center.,97.36,2023-05-15,28.03
+210,16,Female,2024-05-19,Epilepsy,Medication,D003,Neurology,712.95,Yes,AB+,Critical,Low,45,Deteriorated,See but after measure land return bed herself relationship start.,190.47,2023-07-27,48.58
+209,8,Female,2024-04-18,Osteoporosis,Therapy,D003,Orthopedics,953.32,No,O-,Fair,High,30,Stable,East raise save management fish fine.,113.38,2023-04-14,7.22
+208,21,Female,2023-08-22,Cancer,Medication,D002,Oncology,423.37,No,A-,Fair,High,75,Stable,Remain business low style animal soldier sound society late ten environment relationship.,173.37,2022-12-25,2.03
+207,23,Male,2024-08-08,Fracture,Therapy,D012,Orthopedics,462.37,Yes,AB-,Fair,Medium,105,Stable,Many institution international usually common college late.,169.65,2023-07-08,44.69
+206,51,Male,2024-04-27,Cystic Fibrosis,Therapy,D015,Pediatrics,707.82,Yes,A+,Serious,Medium,90,Stable,Often check true understand myself address stage like child range.,83.61,2023-04-19,13.98
+205,30,Male,2024-03-17,Lymphoma,Chemotherapy,D001,Oncology,219.03,No,AB+,Good,Medium,75,Deteriorated,Congress play in difficult chance he Mr let small reduce red.,163.33,2023-10-29,9.95
+204,19,Male,2024-07-08,Fracture,Therapy,D017,Orthopedics,272.1,No,AB-,Critical,High,30,Stable,Line sit no talk our pressure.,83.82,2023-11-20,18.53
+203,59,Female,2024-05-29,Leukemia,Chemotherapy,D016,Oncology,233.68,No,O+,Fair,Medium,45,Stable,Later party authority partner approach quite even other personal traditional.,87.78,2022-12-28,23.31
+202,71,Female,2023-12-20,Cancer,Surgery,D017,Oncology,320.32,Yes,O-,Critical,Low,60,Stable,Section seven during opportunity sister this including throw often can among I.,114.64,2023-12-05,28.26
+201,55,Female,2023-09-28,Asthma,Surgery,D011,Pediatrics,717.48,No,B+,Good,High,15,Improved,Meeting professor happen image soon specific including goal quality.,121.75,2023-03-14,20.01
+200,50,Female,2024-05-10,Asthma,Medication,D006,Pediatrics,687.42,No,A+,Good,High,45,Stable,Animal for marriage degree top use effect available off suggest.,86.68,2023-12-30,14.7
+199,39,Male,2023-09-20,Heart Disease,Chemotherapy,D016,Cardiology,380.29,Yes,AB-,Fair,Medium,90,Improved,Drive study name herself among tell.,184.88,2023-05-21,38.0
+198,52,Female,2023-09-01,Arthritis,Medication,D006,Orthopedics,929.13,Yes,O-,Good,High,120,Deteriorated,Six argue speak three mention why strong arrive open.,111.85,2023-07-05,29.31
+197,45,Female,2023-10-10,Epilepsy,Surgery,D013,Neurology,404.3,Yes,A-,Fair,High,30,Improved,Activity story admit couple support economy part easy administration wear away develop skin.,137.59,2023-06-20,21.49
+196,36,Female,2023-09-28,Leukemia,Therapy,D003,Oncology,337.2,No,A+,Good,Medium,120,Stable,Give hand relationship condition style weight yard discuss development agreement follow.,181.15,2023-01-26,25.76
+195,20,Female,2024-04-30,Cancer,Medication,D004,Oncology,527.97,Yes,A+,Good,High,30,Deteriorated,Policy teach together whatever expect position become everyone.,99.66,2023-08-12,28.23
+194,20,Female,2024-03-31,Osteoporosis,Medication,D008,Orthopedics,660.76,No,A+,Good,Medium,60,Stable,Foreign remember up visit choice economic southern rise popular effect production mission small.,194.21,2023-03-10,19.66
+193,25,Male,2023-09-29,Asthma,Chemotherapy,D018,Pediatrics,632.14,Yes,B+,Critical,High,90,Improved,Easy down side old many radio value personal help give.,193.24,2023-05-13,54.75
+192,72,Male,2024-02-05,Fracture,Therapy,D018,Orthopedics,732.39,No,A+,Fair,High,60,Improved,See reflect can impact song lawyer trial small budget bar.,183.74,2023-06-29,10.89
+191,22,Female,2023-10-11,Migraine,Surgery,D016,Neurology,270.8,No,AB+,Fair,High,75,Deteriorated,Amount sister central source value company beat safe let.,84.58,2023-01-25,15.03
+190,9,Female,2024-05-05,Fracture,Surgery,D012,Orthopedics,786.24,Yes,AB+,Critical,Low,15,Stable,Later early Mrs benefit reality while the mission enjoy above like.,112.33,2022-09-26,11.1
+189,25,Female,2024-04-26,Hypertension,Medication,D006,Cardiology,246.83,Yes,O-,Critical,High,90,Stable,Argue themselves step night role color capital final space down.,102.03,2022-09-11,12.22
+188,60,Female,2023-11-26,Parkinson's,Medication,D007,Neurology,181.45,Yes,O-,Fair,Low,60,Stable,Few task cultural gun note interview.,173.51,2023-09-02,34.27
+187,41,Male,2024-06-24,Lymphoma,Surgery,D003,Oncology,304.8,Yes,AB-,Good,Low,30,Stable,If wrong record alone budget professional eight democratic.,148.86,2022-11-16,23.95
+186,66,Female,2024-02-16,Epilepsy,Medication,D013,Neurology,443.97,Yes,A+,Good,Low,60,Stable,Wonder national focus general happen executive only education major door.,134.0,2024-01-17,35.09
+185,27,Female,2024-07-12,Parkinson's,Medication,D017,Neurology,246.91,Yes,O+,Critical,High,120,Stable,Stand technology election long miss forget yard drop type organization man six.,149.19,2024-06-11,20.61
+184,30,Female,2024-03-13,Arthritis,Chemotherapy,D010,Orthopedics,746.96,Yes,A+,Good,Low,75,Stable,Ago standard present natural imagine just top up statement movement company while.,190.89,2023-12-28,43.53
+183,47,Female,2024-03-28,Hypertension,Surgery,D017,Cardiology,802.76,Yes,O+,Critical,High,75,Stable,Be bring radio ready success present issue visit soon word away.,161.82,2023-11-28,31.43
+182,57,Male,2024-07-09,Arthritis,Surgery,D009,Orthopedics,175.34,Yes,A-,Good,High,30,Improved,Care store play word trip ball than either anything watch.,114.29,2023-12-08,12.44
+181,45,Male,2023-08-22,Cancer,Chemotherapy,D012,Oncology,924.58,No,O+,Fair,Medium,75,Improved,Owner speak plan rich fill simply.,90.56,2022-12-30,5.52
+180,41,Male,2023-11-24,Arrhythmia,Therapy,D019,Cardiology,568.26,No,O-,Fair,Medium,75,Stable,Relationship over country attack draw executive each.,139.8,2022-10-20,38.86
+179,58,Male,2024-05-13,Arthritis,Surgery,D006,Orthopedics,841.53,No,AB-,Fair,Medium,75,Stable,Subject business financial Mr than story question probably simply visit either employee because.,161.6,2023-04-07,23.5
+178,46,Female,2023-12-10,Heart Disease,Medication,D009,Cardiology,357.5,No,B-,Fair,High,30,Stable,Travel show oil effect season positive.,86.45,2023-08-27,12.18
+177,32,Female,2023-09-23,Arrhythmia,Surgery,D002,Cardiology,617.53,Yes,A+,Good,Low,120,Stable,Large low land real main cultural year daughter nothing prepare general.,82.61,2022-12-01,20.92
+176,26,Female,2024-01-19,Asthma,Surgery,D008,Pediatrics,254.28,Yes,AB-,Fair,Medium,15,Deteriorated,Give blood ok find a could wrong stop heavy.,88.27,2023-01-31,11.92
+175,30,Female,2024-07-11,Arthritis,Surgery,D013,Orthopedics,461.73,No,B-,Serious,Medium,120,Deteriorated,Report job take name off show shake edge pass run the operation.,152.91,2023-08-19,21.68
+174,48,Female,2024-05-16,Migraine,Chemotherapy,D014,Neurology,184.16,No,O-,Critical,High,105,Stable,Relationship talk later activity culture relate power rate none suddenly.,171.43,2023-08-06,13.12
+173,42,Female,2024-05-17,Arrhythmia,Surgery,D002,Cardiology,966.52,Yes,B-,Fair,High,45,Deteriorated,Culture star mention total day change actually.,98.12,2023-04-03,28.03
+172,74,Male,2023-11-12,Asthma,Surgery,D007,Pediatrics,536.56,Yes,A-,Critical,Low,15,Improved,Bag up physical east country tend.,153.41,2023-02-18,9.41
+171,69,Male,2024-03-06,Parkinson's,Medication,D002,Neurology,770.59,No,B-,Critical,High,105,Deteriorated,Senior southern instead indeed next majority stuff participant either.,184.58,2023-06-29,18.27
+170,41,Male,2024-08-02,Fracture,Chemotherapy,D002,Orthopedics,365.64,Yes,A+,Critical,Low,105,Stable,Market call break soldier guess once defense walk buy property similar talk.,117.45,2023-12-10,2.77
+169,62,Female,2023-12-17,Arrhythmia,Surgery,D007,Cardiology,176.02,Yes,B+,Serious,High,75,Improved,Church read whom left newspaper nothing.,139.93,2023-01-15,27.01
+168,27,Female,2023-12-13,Asthma,Medication,D005,Pediatrics,505.0,Yes,B+,Serious,High,120,Improved,Discuss people trade conference put little ready program.,102.2,2022-09-03,29.65
+167,63,Male,2024-08-12,Cystic Fibrosis,Therapy,D003,Pediatrics,989.94,No,O+,Critical,Medium,105,Deteriorated,Southern do network should billion save appear performance draw term and upon pull remember.,198.15,2023-11-25,46.91
+166,23,Female,2024-08-07,Migraine,Medication,D008,Neurology,805.54,Yes,A+,Critical,High,120,Improved,Able relate appear write join different staff.,153.89,2023-09-27,39.36
+165,26,Female,2023-11-13,Epilepsy,Surgery,D011,Neurology,274.42,Yes,B-,Critical,High,30,Deteriorated,Shoulder ask economy skin identify management down decide support.,80.38,2023-04-22,11.84
+164,44,Male,2023-11-19,Leukemia,Surgery,D007,Oncology,948.42,Yes,O+,Fair,Medium,15,Deteriorated,Keep high star decision almost film discussion military turn process feeling head I consumer.,85.61,2022-11-10,13.65
+163,20,Male,2024-04-09,Cancer,Medication,D002,Oncology,589.56,No,A-,Fair,Medium,45,Deteriorated,Wish rate article day a impact.,126.28,2023-12-20,37.35
+162,12,Female,2024-04-14,Heart Disease,Therapy,D005,Cardiology,129.36,No,B+,Good,Medium,90,Stable,Response before throughout people street strong politics end.,104.32,2023-07-17,16.92
+161,72,Male,2024-03-15,Leukemia,Therapy,D011,Oncology,273.61,No,A+,Good,High,30,Stable,Rich local guy together paper tend.,196.92,2023-04-10,21.94
+160,27,Female,2024-03-02,Fracture,Medication,D019,Orthopedics,748.33,Yes,A-,Fair,Medium,60,Improved,Among management rest agency example coach discussion should.,179.62,2023-06-30,17.32
+159,20,Female,2024-01-10,Epilepsy,Therapy,D003,Neurology,410.95,No,A+,Good,High,30,Deteriorated,Especially fear feel into place fact play pay she.,132.37,2022-12-04,31.62
+158,60,Female,2024-06-11,Hypertension,Chemotherapy,D015,Cardiology,742.86,No,AB+,Fair,High,90,Stable,Fast ago environment speak develop end tell speech.,158.26,2024-06-05,11.71
+157,29,Female,2024-08-17,Heart Disease,Surgery,D015,Cardiology,469.84,No,B+,Fair,High,60,Deteriorated,Program art federal yeah fight major end.,115.79,2023-11-08,4.53
+156,26,Female,2024-07-07,Asthma,Therapy,D020,Pediatrics,849.33,No,B+,Good,Medium,120,Stable,Run weight support range doctor organization manager couple parent do use table hair.,90.36,2024-05-02,24.37
+155,77,Male,2024-06-14,Cystic Fibrosis,Chemotherapy,D002,Pediatrics,940.69,No,O-,Critical,Medium,120,Improved,Top agent western health piece where now mention drug perhaps everyone him.,93.9,2023-04-25,26.37
+154,8,Male,2024-07-12,Cystic Fibrosis,Chemotherapy,D020,Pediatrics,142.45,No,B-,Fair,High,120,Stable,Improve cause college best society realize role rate scene garden.,137.67,2022-09-27,32.38
+153,57,Male,2024-04-28,Fracture,Medication,D010,Orthopedics,249.87,Yes,B-,Serious,Low,45,Deteriorated,Begin share enough race stage catch effect Mrs what.,115.07,2024-02-16,31.32
+152,69,Female,2023-10-06,Parkinson's,Medication,D015,Neurology,695.97,Yes,AB+,Fair,Medium,120,Deteriorated,Rather upon difficult war act medical place real.,144.06,2023-02-12,23.48
+151,34,Male,2024-07-22,Leukemia,Medication,D014,Oncology,912.4,No,O+,Good,High,30,Improved,Friend out tax all training environmental Democrat work American reality.,134.5,2023-08-25,25.71
+150,11,Female,2023-10-03,Heart Disease,Surgery,D005,Cardiology,234.41,No,O+,Critical,Low,105,Deteriorated,Realize door discussion challenge ask hope decision drug over since public city situation.,180.83,2023-06-21,12.11
+149,27,Male,2024-04-01,Cancer,Therapy,D012,Oncology,293.15,No,B-,Good,Medium,75,Stable,Southern leave notice give decision true month.,99.42,2023-04-13,24.45
+148,56,Female,2024-01-14,Asthma,Medication,D016,Pediatrics,334.61,Yes,AB-,Good,Medium,45,Improved,Moment friend professional woman others effect before ever common throw speech commercial.,83.33,2023-06-15,5.57
+147,57,Male,2024-02-06,Migraine,Therapy,D020,Neurology,881.38,Yes,A-,Good,Medium,15,Stable,Carry somebody son drug type stand must reflect only draw company politics.,175.41,2024-01-08,41.12
+146,13,Male,2024-04-03,Fracture,Therapy,D008,Orthopedics,888.15,No,A+,Serious,Low,90,Stable,Now opportunity soon worry director building.,113.97,2023-04-07,9.51
+145,48,Male,2023-08-31,Cancer,Medication,D014,Oncology,234.27,No,B-,Critical,High,120,Improved,In or available together town respond.,182.13,2022-12-24,21.89
+144,13,Female,2023-09-06,Migraine,Medication,D005,Neurology,659.73,Yes,B+,Critical,Medium,45,Improved,Beat return cover plant morning government which front right shake.,128.2,2022-12-18,3.38
+143,59,Male,2023-09-09,Arthritis,Medication,D013,Orthopedics,654.27,No,A+,Serious,Medium,60,Improved,Test measure keep explain sea beat feeling trial defense we tough.,183.25,2023-07-08,34.66
+142,30,Male,2023-11-27,Epilepsy,Chemotherapy,D004,Neurology,109.69,No,A-,Critical,High,45,Deteriorated,Generation same generation store pay front memory both assume own wind.,108.51,2023-04-16,2.76
+141,54,Male,2024-03-08,Leukemia,Medication,D007,Oncology,569.55,No,O+,Good,Low,60,Improved,Ready matter life drop suddenly fish fear.,185.18,2023-06-05,24.75
+140,57,Female,2024-07-05,Lymphoma,Medication,D010,Oncology,189.56,No,AB+,Critical,Low,30,Deteriorated,Experience wind bring herself foot actually read cost method.,190.06,2024-06-20,38.0
+139,48,Female,2024-04-07,Fracture,Chemotherapy,D018,Orthopedics,458.07,No,AB-,Fair,Low,15,Improved,Recognize human reveal deep stay arrive indicate official middle investment rich visit.,129.18,2023-12-10,20.12
+138,86,Male,2024-01-14,Heart Disease,Therapy,D015,Cardiology,846.87,Yes,A+,Fair,Medium,30,Deteriorated,Full growth occur prove final build reality dream.,182.41,2023-03-05,31.76
+137,29,Male,2024-08-07,Osteoporosis,Surgery,D003,Orthopedics,594.72,No,O+,Fair,Low,30,Improved,Vote writer worry recent how key sit think success one couple but use job.,139.27,2023-08-01,20.45
+136,30,Male,2023-10-04,Arrhythmia,Therapy,D002,Cardiology,542.67,No,AB+,Fair,Medium,90,Improved,Me establish maybe argue condition for trial figure.,100.98,2023-03-31,16.62
+135,28,Female,2023-09-26,Asthma,Surgery,D016,Pediatrics,164.91,Yes,O+,Critical,Medium,105,Deteriorated,Those against institution off room course see front.,150.8,2023-03-18,18.12
+134,34,Male,2023-11-16,Chickenpox,Chemotherapy,D007,Pediatrics,517.99,No,B-,Serious,Medium,105,Stable,Dinner consumer coach head board when land unit near.,91.92,2023-05-07,2.41
+133,37,Female,2024-06-18,Cystic Fibrosis,Surgery,D010,Pediatrics,173.86,No,A+,Critical,Low,75,Deteriorated,Beat administration bill contain it country team use.,121.73,2023-11-04,4.5
+132,34,Male,2024-08-07,Cancer,Therapy,D020,Oncology,515.65,No,B-,Fair,Medium,30,Deteriorated,Gun her education same trial industry thus apply those ahead base.,136.8,2022-10-16,37.73
+131,53,Male,2024-06-18,Osteoporosis,Chemotherapy,D004,Orthopedics,498.87,Yes,B-,Fair,Low,15,Improved,Yard woman know project drug just.,91.52,2023-08-01,3.69
+130,10,Male,2024-05-19,Leukemia,Surgery,D002,Oncology,841.56,No,B+,Serious,Low,105,Deteriorated,Often whether simply city again back answer model.,130.43,2022-11-01,6.72
+129,13,Female,2023-10-21,Lymphoma,Medication,D012,Oncology,788.42,Yes,B+,Critical,High,30,Deteriorated,Situation see ability test improve company space.,106.97,2023-04-25,23.65
+128,33,Male,2023-10-07,Parkinson's,Therapy,D011,Neurology,933.78,No,O-,Good,Low,60,Stable,East themselves agreement full us large.,154.51,2023-06-16,25.81
+127,36,Female,2024-05-06,Asthma,Surgery,D002,Pediatrics,627.16,No,B-,Critical,Medium,90,Deteriorated,More well animal popular case through.,187.48,2023-06-07,47.12
+126,43,Female,2023-10-13,Hypertension,Chemotherapy,D012,Cardiology,736.71,Yes,A-,Serious,High,120,Stable,Them whether we read feeling order.,109.3,2023-01-18,9.98
+125,10,Female,2024-05-11,Heart Disease,Chemotherapy,D008,Cardiology,482.52,No,O+,Serious,Medium,15,Stable,Include gun baby relate rate painting state series performance short media away fish.,163.98,2023-12-03,48.86
+124,19,Male,2024-03-19,Osteoporosis,Surgery,D008,Orthopedics,552.88,No,A+,Good,High,60,Deteriorated,Everyone manage walk interest sound stage measure step.,163.8,2022-12-28,36.99
+123,19,Male,2024-05-19,Osteoporosis,Medication,D006,Orthopedics,751.79,Yes,B-,Fair,Low,45,Deteriorated,Sense eight almost seek where toward him room manage purpose.,177.3,2023-12-18,43.12
+122,6,Male,2024-06-06,Fracture,Chemotherapy,D002,Orthopedics,174.41,No,B+,Critical,Low,105,Stable,Officer itself quickly anyone ten set.,132.56,2023-06-16,22.62
+121,76,Female,2023-09-21,Osteoporosis,Chemotherapy,D013,Orthopedics,330.76,Yes,O+,Critical,Medium,60,Improved,Fund modern sometimes history option same such husband own wonder.,80.17,2022-10-21,12.4
+120,5,Female,2024-03-04,Parkinson's,Medication,D006,Neurology,775.19,No,A-,Critical,High,60,Deteriorated,Build style wrong soon since product thousand affect produce.,192.61,2023-08-30,51.68
+119,58,Male,2024-07-16,Arthritis,Medication,D001,Orthopedics,725.2,Yes,O-,Critical,High,120,Improved,Take determine pressure note land else board remember mean choose decision team away.,192.72,2024-07-09,36.57
+118,31,Male,2024-04-22,Arrhythmia,Surgery,D005,Cardiology,209.36,Yes,B+,Critical,High,15,Improved,We build him whole instead family pick.,101.74,2023-08-27,18.73
+117,98,Female,2024-08-08,Arthritis,Chemotherapy,D004,Orthopedics,369.49,Yes,AB+,Good,Low,105,Improved,Reach decision mouth international again force debate sign window wish home here.,94.21,2023-06-08,17.5
+116,71,Male,2024-05-01,Parkinson's,Therapy,D012,Neurology,384.76,Yes,AB+,Good,High,60,Improved,Make someone sort easy weight despite rich artist exist family involve against.,105.86,2023-12-03,6.1
+115,39,Male,2023-11-07,Heart Disease,Chemotherapy,D001,Cardiology,664.75,No,A-,Serious,High,60,Deteriorated,Safe reach certain common least billion need real budget bed assume.,106.29,2023-10-24,7.84
+114,23,Female,2024-02-29,Heart Disease,Therapy,D011,Cardiology,486.79,Yes,B+,Good,High,120,Improved,Main exactly option behavior street property.,196.77,2023-01-16,33.61
+113,20,Male,2024-03-12,Cystic Fibrosis,Therapy,D007,Pediatrics,589.35,No,O-,Good,High,45,Stable,Recent possible station allow action again.,96.47,2023-09-24,20.95
+112,28,Male,2023-11-12,Osteoporosis,Chemotherapy,D008,Orthopedics,161.36,Yes,AB+,Fair,High,90,Improved,Girl spend end think hospital easy.,122.26,2022-08-23,17.39
+111,24,Female,2024-04-13,Asthma,Surgery,D012,Pediatrics,745.7,Yes,B-,Good,Medium,45,Stable,This free behavior ok only service every system.,90.83,2022-11-21,16.42
+110,63,Female,2024-05-18,Epilepsy,Medication,D009,Neurology,784.86,No,A+,Fair,High,120,Deteriorated,Themselves day buy baby teacher day.,195.48,2024-02-13,24.01
+109,12,Male,2023-10-13,Lymphoma,Chemotherapy,D003,Oncology,229.89,Yes,O+,Good,Low,90,Stable,Chance behavior defense area behavior great lose describe field.,118.17,2022-10-23,16.57
+108,77,Male,2023-10-14,Osteoporosis,Medication,D018,Orthopedics,108.33,No,AB+,Critical,Low,15,Stable,Simply whole mission of price cell occur woman article job single push.,178.21,2022-11-06,15.95
+107,55,Male,2023-08-26,Lymphoma,Chemotherapy,D008,Oncology,186.97,Yes,AB-,Serious,High,90,Deteriorated,Add audience group into price choice film law the ground before.,194.19,2023-03-20,46.51
+106,36,Male,2024-03-17,Cystic Fibrosis,Medication,D007,Pediatrics,368.06,Yes,AB+,Critical,High,120,Deteriorated,Early investment reflect stuff necessary how not tonight.,142.16,2023-02-17,22.46
+105,19,Female,2024-04-14,Arthritis,Medication,D015,Orthopedics,891.41,No,B+,Serious,Medium,120,Stable,Cause pick yet sign language score player pick no describe.,195.92,2023-02-20,57.34
+104,68,Male,2024-06-02,Asthma,Chemotherapy,D019,Pediatrics,652.43,Yes,A+,Critical,Low,60,Stable,Baby really improve chair include civil truth Mr time.,121.14,2024-03-23,13.79
+103,29,Female,2023-10-30,Lymphoma,Medication,D018,Oncology,991.58,Yes,A-,Critical,Medium,105,Deteriorated,Buy age north try he talk old.,159.71,2023-03-31,27.0
+102,34,Female,2024-06-22,Cancer,Surgery,D016,Oncology,418.97,Yes,B+,Good,Medium,60,Deteriorated,Whether senior TV soon find any discover after foreign standard push either quality.,192.33,2024-05-01,21.76
+101,13,Male,2024-07-09,Chickenpox,Surgery,D002,Pediatrics,450.31,Yes,B+,Fair,High,15,Stable,Then authority necessary position identify positive itself condition offer safe yard religious.,185.95,2023-02-05,53.17
+100,57,Female,2024-06-19,Arthritis,Chemotherapy,D020,Orthopedics,769.07,Yes,AB+,Critical,Medium,45,Stable,Your politics relationship Democrat theory material scene drop.,175.57,2022-12-10,50.48
+99,42,Male,2024-01-18,Chickenpox,Therapy,D004,Pediatrics,378.67,No,B+,Serious,Low,90,Improved,Reach audience better far card really at family later prove threat.,110.62,2023-12-24,5.67
+98,58,Male,2024-02-10,Cancer,Chemotherapy,D006,Oncology,521.95,Yes,B+,Good,Medium,15,Stable,National easy decision effort commercial nearly sound agree enough.,150.6,2023-12-19,17.89
+97,70,Female,2023-08-28,Cystic Fibrosis,Chemotherapy,D007,Pediatrics,724.79,No,B+,Critical,Low,75,Stable,Write without cell give drop last remember section.,184.01,2022-11-01,19.92
+96,49,Female,2024-04-20,Lymphoma,Medication,D014,Oncology,235.81,Yes,A-,Good,Medium,90,Stable,Deal friend back expect only their help arm until I.,96.13,2023-06-19,17.26
+95,22,Female,2024-04-29,Migraine,Surgery,D012,Neurology,793.86,No,A+,Serious,Low,120,Deteriorated,Yard among report that face mouth manager bag.,107.47,2023-07-04,8.18
+94,13,Female,2023-12-19,Asthma,Chemotherapy,D010,Pediatrics,379.42,No,AB-,Critical,Low,15,Stable,Later on he election may laugh thank main for brother affect pattern base.,178.59,2022-08-23,36.83
+93,66,Male,2024-05-08,Cancer,Chemotherapy,D019,Oncology,710.53,Yes,O-,Good,Medium,75,Improved,Model could seem brother specific water drop professional field anything occur involve player interview.,120.26,2022-12-06,4.65
+92,54,Male,2023-11-29,Arrhythmia,Surgery,D009,Cardiology,672.0,Yes,A-,Good,Low,120,Deteriorated,Vote evening whether for many continue understand represent step risk only recognize.,80.9,2023-08-28,4.88
+91,17,Female,2024-01-16,Fracture,Chemotherapy,D011,Orthopedics,624.92,Yes,AB-,Fair,Medium,60,Stable,Development house skill effort would military.,151.14,2022-10-22,27.2
+90,84,Male,2024-06-03,Parkinson's,Medication,D017,Neurology,270.94,Yes,A+,Serious,High,75,Improved,Thousand them fight name recognize situation sound.,103.38,2023-09-06,14.59
+89,13,Female,2023-12-29,Fracture,Chemotherapy,D003,Orthopedics,639.78,No,B-,Good,High,75,Deteriorated,Need than everybody light prevent matter.,136.11,2023-07-13,20.24
+88,48,Female,2024-03-04,Leukemia,Therapy,D001,Oncology,556.32,Yes,O-,Serious,Low,15,Improved,People once media operation teach front early yes from prove sell first.,126.55,2022-10-07,9.14
+87,55,Female,2024-05-11,Hypertension,Therapy,D015,Cardiology,570.91,No,A-,Fair,Medium,30,Deteriorated,Market character example concern bank pull green dream paper radio cell court relate.,124.74,2023-03-13,14.19
+86,50,Female,2023-10-05,Migraine,Therapy,D003,Neurology,927.82,No,AB+,Critical,Low,90,Improved,Push respond teach collection risk officer role.,183.94,2023-04-26,15.5
+85,98,Male,2024-02-06,Heart Disease,Medication,D002,Cardiology,281.54,No,AB-,Good,Medium,60,Deteriorated,Themselves tell hold million such lay expect.,91.72,2022-09-16,21.46
+84,8,Female,2024-07-07,Heart Disease,Therapy,D006,Cardiology,595.66,No,AB+,Good,Medium,105,Improved,Analysis certainly our rock growth focus usually black simply local year answer shoulder.,140.87,2023-04-25,4.69
+83,27,Male,2024-05-15,Arthritis,Therapy,D012,Orthopedics,807.75,No,B-,Serious,High,60,Stable,North activity dark score charge lay.,107.13,2023-01-31,26.67
+82,23,Female,2024-02-12,Asthma,Medication,D013,Pediatrics,271.71,Yes,O+,Serious,High,45,Deteriorated,Local detail anyone tree short almost.,164.71,2023-05-31,33.57
+81,20,Male,2024-06-27,Cancer,Surgery,D015,Oncology,857.56,No,AB+,Critical,Medium,75,Stable,Significant soldier sort price stage these agent argue.,100.08,2024-01-23,26.28
+80,31,Female,2024-05-31,Parkinson's,Therapy,D019,Neurology,866.31,No,B-,Critical,Medium,105,Deteriorated,Always five leader hand nation debate society always left.,135.04,2024-01-06,30.75
+79,52,Male,2024-06-13,Osteoporosis,Surgery,D018,Orthopedics,971.72,Yes,A-,Critical,Low,120,Stable,Can quality attention decide full car.,187.2,2022-11-09,4.1
+78,55,Male,2023-12-26,Arthritis,Chemotherapy,D002,Orthopedics,522.29,Yes,AB+,Serious,Low,30,Improved,Describe yeah sure near try present yourself.,198.77,2023-03-14,55.78
+77,27,Female,2024-08-17,Hypertension,Therapy,D014,Cardiology,166.08,No,O-,Fair,Medium,105,Deteriorated,In control consumer newspaper up serve draw.,192.51,2024-07-07,13.75
+76,57,Female,2024-05-24,Fracture,Therapy,D005,Orthopedics,772.39,No,A+,Serious,High,105,Deteriorated,Traditional raise final growth today spring picture against care.,92.61,2023-07-19,6.05
+75,61,Male,2024-02-06,Epilepsy,Chemotherapy,D016,Neurology,922.25,No,A+,Good,High,30,Deteriorated,Project third three stuff exist party.,128.06,2022-10-01,8.86
+74,76,Female,2023-12-19,Arrhythmia,Surgery,D003,Cardiology,717.98,Yes,O+,Serious,High,75,Deteriorated,Kid least reason onto crime share.,167.5,2023-11-30,39.64
+73,35,Female,2024-03-31,Cancer,Chemotherapy,D014,Oncology,265.38,No,O-,Fair,High,30,Deteriorated,Beat another deep watch note style official sing then herself prevent.,117.19,2023-07-20,28.95
+72,48,Female,2024-02-10,Arthritis,Surgery,D001,Orthopedics,157.09,No,O-,Good,High,105,Improved,Sort use low whole size idea carry success capital dark the how.,169.3,2023-06-04,1.75
+71,58,Male,2023-08-31,Parkinson's,Chemotherapy,D001,Neurology,923.89,Yes,A-,Critical,High,75,Deteriorated,Record will fund piece small movie important although class audience and.,144.59,2023-08-23,1.79
+70,81,Female,2024-06-08,Migraine,Therapy,D009,Neurology,405.83,Yes,O-,Critical,Medium,15,Stable,Including town natural I shoulder should risk thousand model within democratic staff alone.,173.07,2023-10-28,44.34
+69,57,Female,2024-03-16,Leukemia,Surgery,D005,Oncology,681.54,No,B+,Critical,High,15,Deteriorated,State third model technology until picture girl color.,89.23,2024-02-20,21.07
+68,64,Male,2024-07-18,Lymphoma,Therapy,D018,Oncology,750.44,No,A+,Fair,High,120,Deteriorated,Skin method all popular main base international heart threat could board item else.,178.73,2024-07-03,45.35
+67,58,Male,2023-12-04,Leukemia,Medication,D003,Oncology,915.94,Yes,B+,Critical,High,45,Deteriorated,Situation blue like foreign model ball agree should last artist.,117.46,2023-05-07,22.51
+66,36,Male,2023-09-14,Arthritis,Surgery,D005,Orthopedics,195.14,No,O-,Good,Medium,45,Stable,Unit few bag hour travel such hotel argue world natural easy.,104.37,2022-11-25,15.47
+65,66,Female,2024-06-30,Lymphoma,Therapy,D002,Oncology,874.31,Yes,B+,Serious,High,90,Stable,Realize happen raise front sport production become person customer dinner make.,186.85,2024-02-21,37.0
+64,23,Male,2024-04-02,Cystic Fibrosis,Surgery,D014,Pediatrics,884.51,No,O-,Critical,Medium,45,Improved,Material two summer black truth note hotel.,144.51,2023-12-22,41.79
+63,55,Female,2023-12-21,Leukemia,Medication,D019,Oncology,304.23,No,AB-,Good,Medium,30,Improved,Land vote hour white perhaps wide writer.,186.39,2022-12-24,15.27
+62,20,Female,2024-05-07,Arrhythmia,Therapy,D007,Cardiology,235.98,Yes,O+,Serious,High,60,Deteriorated,Beat popular nor and by ago smile the.,157.67,2024-03-03,19.46
+61,15,Female,2024-05-04,Epilepsy,Chemotherapy,D007,Neurology,950.93,No,O+,Good,High,105,Deteriorated,Will reveal direction part enough recent sing trial great item then we strong.,95.88,2023-08-05,25.98
+60,41,Male,2024-04-15,Cancer,Therapy,D016,Oncology,441.48,Yes,AB+,Good,High,30,Deteriorated,Behind national our green serious election building world so.,122.08,2024-03-16,27.27
+59,23,Male,2023-09-22,Epilepsy,Medication,D009,Neurology,477.83,No,AB-,Serious,Medium,15,Improved,Beat I property future break painting star idea open red result seem.,118.81,2023-09-21,33.94
+58,56,Female,2024-02-12,Fracture,Medication,D007,Orthopedics,543.79,No,B-,Serious,Medium,90,Improved,Sound computer hotel establish performance itself provide ground prevent partner first travel.,155.37,2023-04-01,3.75
+57,27,Female,2024-08-17,Lymphoma,Therapy,D014,Oncology,599.14,No,O+,Fair,High,15,Stable,Class son check wear wait notice I.,86.38,2024-07-09,7.6
+56,59,Male,2024-06-22,Cystic Fibrosis,Surgery,D005,Pediatrics,273.4,Yes,O+,Good,Low,75,Stable,Offer side its buy case picture say before single interview walk so.,143.42,2024-05-02,16.52
+55,48,Female,2023-11-12,Heart Disease,Therapy,D016,Cardiology,810.32,Yes,AB+,Critical,Low,60,Deteriorated,Paper painting support analysis care week early suddenly article specific care.,135.94,2023-03-16,39.34
+54,41,Female,2024-01-17,Leukemia,Surgery,D004,Oncology,737.77,No,B+,Serious,Low,90,Improved,Great peace tax fill scene each grow out if dog.,100.96,2023-08-10,18.82
+53,32,Female,2024-05-18,Arthritis,Surgery,D002,Orthopedics,569.08,No,O+,Good,Low,75,Deteriorated,Talk plant crime hit film hour better very create teach establish work.,129.63,2024-03-27,17.01
+52,69,Female,2024-04-26,Cancer,Therapy,D001,Oncology,320.88,Yes,AB+,Fair,Medium,75,Deteriorated,Least shoulder blood six some weight material statement rather.,192.21,2024-02-21,6.75
+51,60,Female,2024-04-06,Arthritis,Therapy,D001,Orthopedics,266.23,Yes,AB-,Fair,High,45,Deteriorated,Like wide when enough show just section full keep find no left major.,158.89,2023-01-30,3.72
+50,33,Male,2024-03-04,Heart Disease,Chemotherapy,D016,Cardiology,422.84,No,A+,Good,Medium,105,Stable,Tough power score spend matter especially.,199.14,2022-11-01,3.68
+49,45,Female,2024-06-06,Parkinson's,Surgery,D007,Neurology,854.53,Yes,O+,Serious,Low,105,Stable,Knowledge lay race eight off claim.,188.89,2024-03-23,5.58
+48,39,Male,2023-10-27,Chickenpox,Surgery,D003,Pediatrics,684.36,Yes,A-,Fair,Low,75,Stable,Our reality put house now person class drug consumer president race get research.,165.24,2022-10-01,25.05
+47,69,Female,2024-06-08,Epilepsy,Medication,D011,Neurology,698.62,No,O-,Good,Medium,15,Improved,Ready power prepare class detail grow institution around.,109.14,2023-10-30,12.15
+46,38,Male,2024-05-24,Epilepsy,Therapy,D002,Neurology,564.48,Yes,AB-,Good,High,105,Improved,Choice bank rather reflect serve many purpose piece thing.,184.45,2023-07-18,31.48
+45,30,Male,2024-06-30,Cystic Fibrosis,Therapy,D010,Pediatrics,829.92,No,AB+,Critical,Medium,45,Stable,To into business drop man television seem away risk visit else.,98.14,2024-01-20,16.45
+44,19,Male,2023-11-01,Cancer,Medication,D007,Oncology,900.93,Yes,A+,Fair,High,90,Improved,Ever agreement deal available against approach sign majority network nation receive while theory.,154.92,2022-12-28,17.94
+43,41,Male,2024-04-08,Osteoporosis,Chemotherapy,D017,Orthopedics,187.18,Yes,B+,Good,High,105,Improved,Doctor goal purpose TV score various speak listen site.,91.09,2023-03-12,5.38
+42,14,Male,2024-04-18,Chickenpox,Chemotherapy,D018,Pediatrics,700.97,No,B+,Good,High,105,Deteriorated,Treat child enough Mr news age.,121.83,2023-08-02,5.96
+41,23,Female,2023-11-04,Chickenpox,Chemotherapy,D012,Pediatrics,852.42,No,A-,Critical,Medium,30,Stable,Million into note face dinner shoulder represent per indeed second red.,111.53,2023-09-03,9.13
+40,34,Male,2023-09-03,Hypertension,Medication,D016,Cardiology,867.35,Yes,B+,Critical,High,15,Stable,Life yes store call tree price company her.,122.76,2022-12-24,15.61
+39,23,Female,2024-01-01,Chickenpox,Surgery,D005,Pediatrics,998.99,No,B+,Good,Low,120,Stable,Difference leader despite reason food probably traditional Democrat like development relate beyond professor bit.,124.49,2023-01-20,16.24
+38,49,Female,2023-12-19,Hypertension,Chemotherapy,D002,Cardiology,452.0,No,A-,Serious,High,75,Improved,Thought product before free idea themselves us always.,112.03,2023-07-17,12.81
+37,22,Female,2024-01-14,Parkinson's,Chemotherapy,D012,Neurology,267.19,Yes,AB-,Good,High,90,Deteriorated,Ten police until series writer finally.,118.93,2023-09-20,10.32
+36,25,Female,2024-08-14,Arthritis,Chemotherapy,D018,Orthopedics,630.53,Yes,A-,Fair,Low,30,Improved,Work condition star appear professional high piece choose street test.,174.61,2023-04-07,28.38
+35,78,Male,2023-11-22,Fracture,Chemotherapy,D008,Orthopedics,700.41,Yes,B+,Good,Medium,45,Deteriorated,Take form onto simply involve contain per answer team become threat.,191.11,2023-09-01,15.24
+34,27,Female,2024-03-30,Asthma,Chemotherapy,D008,Pediatrics,853.5,No,AB+,Serious,Medium,75,Stable,Election money let win deep imagine.,172.81,2023-02-24,49.68
+33,30,Male,2024-06-03,Chickenpox,Medication,D003,Pediatrics,273.55,No,A-,Good,Medium,30,Deteriorated,Give service benefit bill well visit those.,154.34,2022-10-21,5.7
+32,30,Male,2024-05-19,Cancer,Chemotherapy,D006,Oncology,177.65,No,B+,Fair,Medium,30,Deteriorated,Point avoid you idea artist discussion majority become item page work father so.,102.99,2022-12-04,15.99
+31,27,Female,2024-01-05,Hypertension,Therapy,D014,Cardiology,413.72,Yes,O-,Serious,Medium,75,Deteriorated,Drive find he leave hope eight Mr beat whether free trouble teacher task.,138.52,2023-06-06,35.66
+30,63,Male,2023-10-03,Parkinson's,Surgery,D013,Neurology,523.2,Yes,A-,Fair,Medium,45,Stable,Rate president fine especially free large some course music.,163.64,2022-09-11,13.78
+29,31,Male,2024-03-17,Migraine,Medication,D003,Neurology,119.78,Yes,B-,Good,Low,45,Deteriorated,Country back argue to their bank.,164.78,2023-08-25,2.42
+28,55,Female,2024-04-20,Migraine,Chemotherapy,D002,Neurology,477.88,No,AB+,Serious,Medium,30,Improved,Big public and interest personal table store sure western rule attention.,182.19,2024-01-22,29.41
+27,37,Female,2023-09-06,Lymphoma,Chemotherapy,D017,Oncology,758.11,Yes,O+,Critical,Low,30,Deteriorated,Respond should head order glass total which.,99.99,2023-06-16,3.76
+26,41,Female,2024-01-02,Hypertension,Therapy,D018,Cardiology,876.79,No,O-,Serious,Medium,105,Deteriorated,According if meeting all attention stock season blood sign nor recognize.,125.85,2023-05-24,20.23
+25,65,Female,2024-03-06,Arrhythmia,Chemotherapy,D020,Cardiology,508.9,Yes,B-,Serious,High,30,Improved,Without study population hear claim light figure live whose not factor newspaper.,97.46,2023-09-19,7.48
+24,22,Female,2023-11-02,Osteoporosis,Medication,D013,Orthopedics,629.29,Yes,AB-,Fair,Medium,105,Stable,Them run write whole my need option story campaign almost compare answer suggest.,181.48,2023-07-17,21.5
+23,58,Female,2024-05-13,Cystic Fibrosis,Medication,D010,Pediatrics,329.07,No,A+,Fair,Medium,45,Improved,Agree development major red meeting suffer job unit along threat parent number young.,85.29,2024-02-28,0.97
+22,54,Male,2024-04-28,Arthritis,Therapy,D004,Orthopedics,213.62,Yes,B-,Good,Low,90,Deteriorated,Sea compare trade what remember nation feeling reason skin American direction similar.,172.49,2023-12-19,6.19
+21,64,Male,2023-09-04,Osteoporosis,Medication,D019,Orthopedics,390.65,No,A-,Fair,High,45,Stable,Memory everybody business science now compare.,113.6,2022-09-26,32.32
+20,21,Male,2024-07-02,Lymphoma,Therapy,D011,Oncology,943.78,Yes,O-,Critical,Low,15,Stable,Send yard among win land example pull charge young.,155.77,2022-08-22,2.43
+19,29,Female,2024-07-14,Arthritis,Therapy,D004,Orthopedics,442.15,Yes,B-,Fair,Medium,75,Deteriorated,Standard series nothing leader book research two attention including study.,103.5,2024-02-13,28.68
+18,51,Male,2023-10-30,Arrhythmia,Chemotherapy,D018,Cardiology,202.73,Yes,A+,Critical,Low,90,Deteriorated,Bad section star drive list past focus.,128.65,2023-04-21,15.28
+17,23,Female,2023-10-07,Leukemia,Therapy,D005,Oncology,686.6,No,O-,Serious,High,45,Deteriorated,Hundred scene young only same trip follow field conference rather.,91.26,2023-05-05,7.13
+16,34,Female,2024-02-23,Epilepsy,Surgery,D013,Neurology,613.25,No,B+,Serious,High,75,Improved,Environmental garden address home wide manage us hot.,88.03,2023-11-01,3.06
+15,15,Male,2023-09-09,Chickenpox,Therapy,D001,Pediatrics,241.55,No,AB-,Critical,High,15,Deteriorated,Management simple purpose hard doctor feeling east condition meeting machine pick fish begin.,132.25,2022-11-23,37.3
+14,19,Female,2024-03-16,Lymphoma,Surgery,D020,Oncology,512.07,Yes,A+,Fair,Medium,30,Improved,Figure entire east but also eat his seat than expect now.,154.48,2022-08-30,18.97
+13,76,Male,2023-10-16,Osteoporosis,Medication,D019,Orthopedics,592.18,No,A+,Critical,High,15,Stable,Again system measure war news learn raise common.,185.99,2022-12-03,15.93
+12,60,Female,2024-07-09,Hypertension,Therapy,D010,Cardiology,699.74,No,AB-,Fair,High,60,Stable,Unit high movement admit medical employee.,198.45,2023-10-09,51.38
+11,6,Male,2024-02-19,Epilepsy,Therapy,D003,Neurology,340.52,Yes,O-,Good,Medium,30,Improved,Year sea blood either law training ball hold social firm.,90.58,2023-04-16,12.75
+10,47,Male,2024-01-15,Parkinson's,Therapy,D003,Neurology,727.64,No,AB+,Fair,Low,30,Deteriorated,Area pull within firm appear different.,157.52,2023-04-15,40.45
+9,31,Female,2023-12-31,Epilepsy,Therapy,D007,Neurology,443.55,No,B+,Serious,High,15,Deteriorated,Develop if paper finally very everything soldier a.,123.67,2023-01-15,21.71
+8,30,Male,2024-05-29,Asthma,Medication,D020,Pediatrics,207.57,No,O-,Fair,Medium,120,Stable,Two better available spend born hot institution avoid bank.,132.18,2023-12-25,22.32
+7,35,Female,2024-01-01,Chickenpox,Surgery,D006,Pediatrics,360.71,No,B-,Critical,Low,75,Stable,Room age trade program its success occur.,121.84,2023-08-06,9.06
+6,30,Male,2023-12-10,Epilepsy,Medication,D009,Neurology,199.92,Yes,O-,Serious,Medium,60,Improved,Grow authority large such whatever deep PM camera process car main.,145.8,2023-12-08,19.63
+5,45,Male,2024-01-05,Arthritis,Therapy,D013,Orthopedics,858.77,Yes,B+,Fair,Medium,60,Improved,Suffer agency south oil rather trial share fall assume consumer country.,118.94,2023-06-08,18.62
+4,54,Male,2024-08-12,Heart Disease,Chemotherapy,D007,Cardiology,990.24,Yes,B+,Fair,High,105,Deteriorated,Should improve most marriage reveal particular since network front free.,129.59,2023-09-17,14.04
+3,50,Male,2023-10-26,Fracture,Surgery,D012,Orthopedics,759.07,No,A+,Fair,Low,45,Deteriorated,Power whom ahead million page sing war teach tough.,87.99,2023-05-30,19.32
+2,25,Male,2024-05-19,Arrhythmia,Surgery,D002,Cardiology,736.33,No,B-,Serious,Low,105,Stable,Development class whose enough wrong between gun might difficult small these.,111.59,2024-04-12,21.92
+1,47,Male,2023-10-12,Chickenpox,Chemotherapy,D017,Pediatrics,408.77,Yes,A-,Fair,Low,90,Deteriorated,Interview step exist glass audience because artist end summer boy poor customer interview.,168.71,2022-09-25,18.49
